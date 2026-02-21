@@ -1,0 +1,114 @@
+#!/bin/bash
+# Process_File.skill - AI Employee Task Processing Agent
+
+# This skill processes files from /Needs_Action, creates plans, moves files to /Done,
+# and updates the dashboard with timestamps.
+
+set -e  # Exit on any error
+
+# Function to process all files in /Needs_Action
+process_needs_action_files() {
+    local needs_action_dir="./Needs_Action"
+    local plans_dir="./Plans"
+    local done_dir="./Done"
+    local dashboard="./Dashboard.md"
+
+    # Create directories if they don't exist
+    mkdir -p "$plans_dir" "$done_dir"
+
+    # Find all files (not just markdown) in Needs_Action
+    local files=()
+    while IFS= read -r -d '' file; do
+        files+=("$file")
+    done < <(find "$needs_action_dir" -mindepth 1 -maxdepth 1 -type f -print0)
+
+    if [ ${#files[@]} -eq 0 ]; then
+        echo "No files found in $needs_action_dir to process."
+        return 0
+    fi
+
+    for file_path in "${files[@]}"; do
+        local filename=$(basename "$file_path")
+        local filename_without_ext="${filename%.*}"
+        local extension="${filename##*.}"
+
+        echo "Processing file: $filename"
+
+        # Read the content of the file
+        local file_content
+        file_content=$(cat "$file_path")
+
+        # Create a plan in the /Plans folder
+        local plan_filename="PLAN_${filename_without_ext}.md"
+        local plan_path="$plans_dir/$plan_filename"
+
+        # Get current timestamp
+        local timestamp=$(date '+%Y-%m-%d %H:%M:%S')
+
+        # Create the plan content
+        cat > "$plan_path" << EOF
+# PLAN_${filename}
+
+## Objective
+Process the task described in ${filename}
+
+## Steps
+1. Read the content of the original file
+2. Execute the required actions based on the file content
+3. Verify completion of the task
+
+## Original Content
+\`\`\`
+$file_content
+\`\`\`
+
+## Status
+pending
+
+## Created
+$timestamp
+EOF
+
+        echo "Created plan: $plan_path"
+
+        # Move the original file to /Done with timestamp (replace colons with underscores for Windows)
+        local timestamp_for_filename=$(date '+%Y-%m-%d_%H_%M_%S')
+        local done_filename="${timestamp_for_filename}_${filename}"
+        local done_path="$done_dir/$done_filename"
+        mv "$file_path" "$done_path"
+
+        echo "Moved file to: $done_path"
+
+        # Update Dashboard.md - completely rewrite it
+        update_dashboard_complete "$filename" "$timestamp"
+    done
+}
+
+# Function to completely rebuild the dashboard
+update_dashboard_complete() {
+    local task_name="$1"
+    local timestamp="$2"
+    local dashboard="./Dashboard.md"
+
+    # Create the complete new dashboard structure
+    cat > "$dashboard" << EOF
+# AI Employee Dashboard
+
+## Pending Tasks
+- None
+
+## Completed Tasks
+- ${task_name} (Completed: ${timestamp})
+
+## System Status
+- Watchers: Not Running
+- Claude: Ready
+EOF
+
+    echo "Dashboard updated with completed task: $task_name"
+}
+
+# Main execution
+echo "Starting Process_File.skill..."
+process_needs_action_files
+echo "Process_File.skill completed."
