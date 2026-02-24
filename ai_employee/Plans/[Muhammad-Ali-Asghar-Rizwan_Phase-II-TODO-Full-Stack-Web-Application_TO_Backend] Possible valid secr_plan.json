@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002516",
+  "original_file": "[Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend] Possible valid secrets detected",
+  "received_from": "GitHub <support@github.com>",
+  "received_date": "Wed, 18 Feb 2026 13:25:54 -0800",
+  "email_subject": "[Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend] Possible valid secrets detected",
+  "email_body": "Action needed: Secrets detected in Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend:\n\n\n\nPlease resolve these alerts\n\nAnyone with read access can view exposed secrets. Consider rotating and revoking each valid secret to avoid any irreversible damage.\n\n\n\n  Google API Key\n\n  Secret detected in .env#L14 • commit 2eadd99d\n\n  Review at https://github.com/Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend/security/secret-scanning/2\n\n\n\n  OpenRouter API Key\n\n  Secret detected in .env#L25 • commit 2eadd99d\n\n  Review at https://github.com/Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend/security/secret-scanning/4\n\n\n\n\n\n\n\nYou are receiving this email because GitHub scanned for exposed tokens or private key credentials in your repository.\n\n\n\nThanks,\n\nGitHub.com\n\n\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:51:14",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:16.396587"
+}

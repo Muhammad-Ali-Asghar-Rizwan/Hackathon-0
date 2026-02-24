@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002514",
+  "original_file": "Verify your email address",
+  "received_from": "Bonsai <no-reply@trybons.ai>",
+  "received_date": "Fri, 20 Feb 2026 18:04:22 +0000 (UTC)",
+  "email_subject": "Verify your email address",
+  "email_body": "Verify your email\n\n \n\nWe need to verify your email address programingmaster22@gmail.com before you can\n\naccess your account. Enter the code below in your open browser window.\n\n \n\n081377\n\n\n\nThis code expires in 10 minutes.\n\n \n\nIf you didn’t sign up for Bonsai, you can safely ignore this email. Someone else\n\nmight have typed your email address by mistake.\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:51:04",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:14.455417"
+}

@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002516",
+  "original_file": "[GitHub] Your fine-grained personal access token is about to expire",
+  "received_from": "GitHub <noreply@github.com>",
+  "received_date": "Sun, 15 Feb 2026 02:10:34 -0800",
+  "email_subject": "[GitHub] Your fine-grained personal access token is about to expire",
+  "email_body": "Hi Muhammad-Ali-Asghar-Rizwan,\n\n\n\nWe noticed your fine-grained personal access token \"new token \", will expire in 7 days.\n\n\n\nIf this token is still needed, visit https://github.com/settings/personal-access-tokens/10969155/regenerate to generate an equivalent.\n\n\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\n\n\nThanks,\n\nThe GitHub Team\n\n\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:59:52",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:16.195475"
+}

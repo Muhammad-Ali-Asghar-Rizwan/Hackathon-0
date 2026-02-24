@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002508",
+  "original_file": "Auto-add teammates by domain, custom headers for OTEL, smarter MCP",
+  "received_from": "Neon Changelog <changelog@neon.tech>",
+  "received_date": "Fri, 13 Feb 2026 20:48:39 +0000",
+  "email_subject": "Auto-add teammates by domain, custom headers for OTEL, smarter MCP",
+  "email_body": "Neon\n\n\n\n--------------\n\nNeon Changelog\n\n--------------\n\n\n\n*\n\nAdd all users from your domain to the same Neon Team\n\n*\n\nNeon MCP now reads live Neon Docs\n\n*\n\nCustom API key header option for OTEL export\n\n\n\nRead the full Changelog ( https://neon.com/docs/changelog?ref=Changelog+50+-+Feb+13 )\n\n\n\nIn case you missed it...\n\n\n\n* add-mcp (GitHub ( https://github.com/neondatabase/add-mcp?ref=Changelog+50+-+Feb+13 ), Blog ( https://neon.com/blog/add-mcp?ref=Changelog+50+-+Feb+13 )) open-source tool for easier MCP installs\n\n* Neon Data Report: We benchmarked autoscaling compute and cost efficiency across the entire platform ( https://neon.com/autoscaling-report?ref=Changelog+50+-+Feb+13 )\n\n* Resend webhook ingester to centralize all your email data in your Neon database ( https://resend.com/docs/webhooks/ingester?ref=Changelog+50+-+Feb+13#neon )\n\n\n\nNeon LLC, 209 Orange Street, Wilmington, DE 19801, USA - Unsubscribe ( https://track.customer.io/unsubscribe/dgT7swoDAPD_PO__PAGcWMM5iao88y9yhB1E-Q0= )\n\n---\nEmail processed by GmailWatcher on 2026-02-25 00:00:00",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:08.418966"
+}

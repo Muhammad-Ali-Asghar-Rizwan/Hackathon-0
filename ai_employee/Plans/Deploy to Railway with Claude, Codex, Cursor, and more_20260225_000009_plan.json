@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002509",
+  "original_file": "Deploy to Railway with Claude, Codex, Cursor, and more",
+  "received_from": "Railway <hello@news.railway.app>",
+  "received_date": "Thu, 12 Feb 2026 03:40:13 +0000",
+  "email_subject": "Deploy to Railway with Claude, Codex, Cursor, and more",
+  "email_body": "Railway Logo\n\n\n\nDeploy with agents\n\n\n\n******************************************\n\nDeploy to Railway with your favorite agent\n\n******************************************\n\n\n\nWe put together some resources to help your AI agents deploy to Railway.\n\n\n\n* Agent skills ( https://github.com/railwayapp/railway-skills?utm_campaign=%5BRelease%5D+Deploy+with+Agents&utm_content=Agents&utm_medium=email_action&utm_source=customer.io )\n\n* MCP server ( https://github.com/railwayapp/railway-mcp-server?utm_campaign=%5BRelease%5D+Deploy+with+Agents&utm_content=Agents&utm_medium=email_action&utm_source=customer.io )\n\n* Agent directory ( https://railway.com/agents?utm_campaign=%5BRelease%5D+Deploy+with+Agents&utm_content=Agents&utm_medium=email_action&utm_source=customer.io )\n\n\n\nSo far, Railway agent skills are supported by Claude, OpenCode, Cursor, and Codex, while MCP additionally supports Copilot, Windsurf, Cline, and Devin.\n\n\n\nView agent directory ( https://railway.com/agents?utm_campaign=%5BRelease%5D+Deploy+with+Agents&utm_content=Agents&utm_medium=email_action&utm_source=customer.io )\n\n\n\nRegards,\n\n\n\nThe Railway Team\n\n\n\nUnsubscribe from marketing emails ( https://railway.com/preferences?token=75d83244-3087-49e8-a95b-a488740b3b4d&utm_campaign=%5BRelease%5D+Deploy+with+Agents&utm_content=Agents&utm_medium=email_action&utm_source=customer.io )\n\n\n\n© 2025 Railway Corp. All rights reserved.\n\n---\nEmail processed by GmailWatcher on 2026-02-25 00:00:09",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:09.547974"
+}

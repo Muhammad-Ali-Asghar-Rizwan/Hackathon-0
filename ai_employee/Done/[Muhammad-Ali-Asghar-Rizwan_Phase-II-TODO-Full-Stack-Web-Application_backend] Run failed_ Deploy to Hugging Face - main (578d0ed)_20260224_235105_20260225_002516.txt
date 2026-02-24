@@ -1,0 +1,25 @@
+From: Muhammad Ali Asghar Rizwan <notifications@github.com>
+To: "Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend" <Phase-II-TODO-Full-Stack-Web-Application_backend@noreply.github.com>
+Date: Fri, 20 Feb 2026 08:45:02 -0800
+Subject: [Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend] Run failed: Deploy to Hugging Face - main (578d0ed)
+---
+
+[Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend] Deploy to Hugging Face workflow run
+
+Repository: Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend
+Workflow: Deploy to Hugging Face
+Duration: 11.0 seconds
+Finished: 2026-02-20 16:44:42 UTC
+
+View results: https://github.com/Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend/actions/runs/22232681519
+
+Jobs:
+  * deploy failed (1 annotation)
+
+-- 
+You are receiving this because you are subscribed to this thread.
+Manage your GitHub Actions notifications: https://github.com/settings/notifications
+
+
+---
+Email processed by GmailWatcher on 2026-02-24 23:51:05

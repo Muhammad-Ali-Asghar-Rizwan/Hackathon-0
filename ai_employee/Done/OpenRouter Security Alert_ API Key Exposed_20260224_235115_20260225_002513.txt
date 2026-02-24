@@ -1,0 +1,23 @@
+From: OpenRouter <security@openrouter.ai>
+To: programingmaster22@gmail.com
+Date: Wed, 18 Feb 2026 21:25:53 +0000
+Subject: OpenRouter Security Alert: API Key Exposed
+---
+
+IMPORTANT: One of your OpenRouter API keys has been found exposed in a public repository.
+The affected key ends in: ...a1c8
+
+Location found: https://github.com/Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend/blob/2eadd99d29965ac14e6ce84db92cdb352e907825/.env
+
+We have disabled this API key and it can no longer be used.
+
+NEXT STEPS:
+1. Please create a new API key at: https://openrouter.ai/keys
+2. Update any applications using this key
+
+For security best practices, please ensure your API keys are never committed to public repositories.
+
+If you need any assistance, please contact support@openrouter.ai
+
+---
+Email processed by GmailWatcher on 2026-02-24 23:51:15

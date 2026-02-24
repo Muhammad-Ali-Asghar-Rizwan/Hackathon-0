@@ -1,0 +1,92 @@
+From: LinkedIn <notifications-noreply@linkedin.com>
+To: "Ali Asghar M.Rizwan" <programingmaster22@gmail.com>
+Date: Sun, 8 Feb 2026 14:51:18 +0000 (UTC)
+Subject: You have 10+ new invitations
+---
+
+You have 10+ new invitations
+View invitations:https://www.linkedin.com/comm/mynetwork/?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-notification_card_MY_NETWORK-0-null&trkEmail=eml-email_notification_digest_01-notification_card_MY_NETWORK-0-null-null-lczh4v~mldv2ck9~ry-null-null&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+  You have 3 new messages
+View messages:https://www.linkedin.com/comm/messaging/?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-notification_card_MESSAGING-0-null&trkEmail=eml-email_notification_digest_01-notification_card_MESSAGING-0-null-null-lczh4v~mldv2ck9~ry-null-null&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+  
+Faria Usman posted: Hackathon 2 Phase IV: Cloud-Native Todo Chatbot🚀
+
+Excited to share my progress on Phase IV of the Cloud-Native Todo Chatbot project 🎯
+
+In this phase, I focused on containerizing the Todo Chatbot and preparing it for cloud-native, Kubernetes-driven deployment, following a modern spec-driven, AI-assisted DevOps workflow.
+
+🔧 What I implemented in this phase:
+
+🐳 Containerized frontend & backend using Docker Desktop
+Built and ran Docker images locally
+Verified that containers start and work correctly on my system
+
+📦 Prepared the foundation for Helm chart–based deployments
+Created todo-chatbot-chart folder
+Added initial structure, templates, and values.yaml placeholders
+
+🧠 Followed Spec-Driven / Agentic Dev Stack workflow:
+Wrote detailed specs
+Generated deployment plans
+Broke down tasks for AI-assisted implementation
+Ensured every step is documented for reproducibility
+
+💻 Documentation & Guides
+Deployment guide, scaling and troubleshooting instructions ready
+Performance benchmarks and security optimization notes included
+
+💡 Working on this phase has been an incredible learning experience — exploring spec-driven development, containerization, and the foundations of Helm-based deployments has expanded my understanding of cloud-native application workflows.
+
+Onward to smarter automation, Kubernetes orchestration, and Helm-driven releases! 🚀
+
+Ameen Alam | Aneeq Khatri | Ali Aftab Sheikh | Hamza Ahmed Sheikh 
+#Docker #Kubernetes #CloudNative #Helm #DevOps #Phase4 #TodoApp #AgenticWorkflow #SpecDrivenDevelopment #LearningInPublic #ClaudeCode #Microservices #Containerization #SoftwareEngineering #AIinDevOps #ProjectUpdate #TechJourney #SoftwareDevelopment #OpenSource #CloudNativeApps
+Comment:https://www.linkedin.com/comm/feed/update/activity:7426256514211897344?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK&trkEmail=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK-null-lczh4v~mldv2ck9~ry-null-null-%2FCDKlKS2Siu1uL4Uru8igw%3D%3D&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+
+Noreen asghar viewed your profile
+See all viewshttps://www.linkedin.com/comm/me/profile-views?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-notification_digest-0-WVMP_V2&trkEmail=eml-email_notification_digest_01-notification_digest-0-WVMP_V2-null-lczh4v~mldv2ck9~ry-null-null&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+
+Zia Khan posted: If you want to survive in the new AI Era, you must understand what happened in the last few days in 4 slides:
+Comment:https://www.linkedin.com/comm/feed/update/activity:7425168394192191488?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK&trkEmail=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK-null-lczh4v~mldv2ck9~ry-null-null-7DOz0vRIQPya6JaEpMK4TQ%3D%3D&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+
+Zia Khan posted: Anthropic Claude Code, Cowork, Skills, Subagents, Plugin have totally disrupted the Software market. To learn and get ahead of this disruption we are immediately releasing six chapter of our textbook so that you can become an expert in this new era:
+
+Chapter 1: The AI Agent Factory Paradigm
+https://lnkd.in/dQ-cuae6
+
+Chapter 2: Markdown - Writing Instructions
+https://lnkd.in/db9nrgNr
+
+Chapter 3: Working with General Agents: Claude Code and Cowork
+https://lnkd.in/dU2weGJm
+
+Chapter 4: Effective Context Engineering with General Agents
+https://lnkd.in/d8Dbq8eE
+
+Chapter 5: Spec-Driven Development with Claude Code
+https://lnkd.in/d5c9zJJF
+
+Chapter 6: The Seven Principles of General Agent Problem Solving
+https://lnkd.in/daNakYET
+Comment:https://www.linkedin.com/comm/feed/update/activity:7425039006155063296?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK&trkEmail=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK-null-lczh4v~mldv2ck9~ry-null-null-cVwyHTB9S3aVLFCU5mDT5Q%3D%3D&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+
+You appeared in 5 searches this week. 
+You were found by people from these companies. 
+See all searches: https://www.linkedin.com/comm/me/search-appearances?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-notification_digest-0-SEARCH_APPEARANCE&trkEmail=eml-email_notification_digest_01-notification_digest-0-SEARCH_APPEARANCE-null-lczh4v~mldv2ck9~ry-null-null-kt5GO0VDSoC2c9R%2BlzxG%2FA%3D%3D&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+
+
+----------------------------------------
+
+This email was intended for Ali Asghar M.Rizwan (✨ Elevate Your Digital Experience: Secure 🔒, AI-Driven 🤖 Applications with FREE Consultation 🆓 | Aspiring Developer Skilled in React ⚛️, Next.js 🚀, and Autonomous Agents 🤝GENERATION)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_notification_digest_01-SecurityHelp-0-textfooterglimmer-null-lczh4v~mldv2ck9~ry-null-null&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+You are receiving LinkedIn notification emails.
+
+
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_notification_digest_01-unsubscribe-0-textfooterglimmer-null-lczh4v~mldv2ck9~ry-null-null&eid=lczh4v-mldv2ck9-ry&loid=AQEjqbz-3cdqIAAAAZw9vE_4AGUXi3MaSQH1IurS3yvQhI9cxbDwYN4GW68v-cK7zk-4oQZTmfSKFgmK2Wanr7XWIj3Wa3z-0CvgYjEYcCV0FWG0cvQ
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BPte7GOnCR6O2WSBWJZ%2BASA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=0E7gR_iB_XhI81&trk=eml-email_notification_digest_01-help-0-textfooterglimmer&trkEmail=eml-email_notification_digest_01-help-0-textfooterglimmer-null-lczh4v~mldv2ck9~ry-null-null&eid=lczh4v-mldv2ck9-ry&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOWU3YjE4OWNjZDI0NjllYWQ4NjY5N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NzZlY2QxZGY3NDgxZGJhYjAyZTQ0ZDkxNWI0ZDI2YTc0YmExNzQ5MDA4Njk2NzQ1LDEsMQ%3D%3D
+
+© 2026 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:32:32

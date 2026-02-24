@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002515",
+  "original_file": "[Action Required] Claude Code Windows: Managed Settings Path Migration",
+  "received_from": "Claude Team <no-reply@email.claude.com>",
+  "received_date": "Thu, 12 Feb 2026 01:00:47 +0000",
+  "email_subject": "[Action Required] Claude Code Windows: Managed Settings Path Migration",
+  "email_body": "Update your endpoint management (MDM) configuration before March 11.\n\n\n\n\n\n\n\n <https://claude.ai>\n\n\n\n\n\n\n\nHi,\n\n\n\n\n\n\n\nWe’re writing to let you know about an upcoming change to Claude Code on \n\nWindows that requires action from your IT team.\n\n\n\n\n\n\n\nWhat’s changing\n\n\n\n\n\n\n\nAfter March 11, 2026, Claude Code on Windows will no longer read managed \n\nsettings from the legacy path:\n\n\n\n\n\n\n\nOld path (deprecated): C:\\ProgramData\\ClaudeCode\\managed-settings.json\n\n\n\nNew path: C:\\Program Files\\ClaudeCode\\managed-settings.json\n\n\n\n\n\n\n\nThe new path is already supported as of Claude Code 2.0.58.\n\n\n\n\n\n\n\nWhat you need to do\n\n\n\n\n\n\n\n Update your endpoint management (MDM) configuration to deploy \n\nmanaged-settings.json to the new path before March 11, 2026. No changes to the \n\nfile content are required – only the deployment location.\n\n\n\n\n\n\n\nWhat happens if you don’t migrate\n\n\n\n\n\n\n\nStarting March 12, 2026, new versions of Claude Code will no longer use the \n\nold path for managed settings. Any enterprise settings, policies, restrictions, \n\nand configurations deployed via the old path will no longer be enforced for \n\nyour Windows users.\n\n\n\n\n\n\n\n If you have questions about this migration, please contact your account \n\nrepresentative or reach out to support.\n\n\n\n\n\n\n\n\n\n <https://www.anthropic.com/?utm_source=email>\n\n\n\n <https://x.com/claudeai>  <https://www.linkedin.com/showcase/claude/> \n\n<https://www.youtube.com/@anthropic-ai>\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\nThis email was sent to programingmaster22@gmail.com.\n\n\n\n\n\n\n\nAnthropic PBC, 548 Market St, PMB 90375, San Francisco, CA 94104 \n\n\n\n---\nEmail processed by GmailWatcher on 2026-02-25 00:00:10",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:15.960982"
+}

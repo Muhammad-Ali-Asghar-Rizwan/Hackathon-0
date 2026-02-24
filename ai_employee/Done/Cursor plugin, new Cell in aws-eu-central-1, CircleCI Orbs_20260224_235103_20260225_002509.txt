@@ -1,0 +1,34 @@
+From: Neon Changelog <changelog@neon.tech>
+To: programingmaster22@gmail.com
+Date: Fri, 20 Feb 2026 21:53:25 +0000
+Subject: Cursor plugin, new Cell in aws-eu-central-1, CircleCI Orbs
+---
+
+Neon
+
+--------------
+Neon Changelog
+--------------
+
+*
+Use Cursor? Install the official Neon plugin
+*
+New EU capacity, update your IP Allowlists
+*
+CircleCI integration
+
+Read the full Changelog ( https://neon.com/docs/changelog?ref=Changelog+51+-+Feb+20 )
+
+In case you missed it...
+
+* Neon Is a Cursor Plugin - All the details ( https://neon.com/blog/neon-is-a-cursor-plugin?ref=Changelog+51+-+Feb+20 )
+* How to build a Usage Dashboard with Neon's Consumption API ( https://neon.com/guides/usage-dashboard-consumption-api?ref=Changelog+51+-+Feb+20 )
+
+Run this in your terminal to give AI tools Neon superpowers:
+npx neonctl@latest init
+Adds plugins, MCP, skills for Claude, Cursor, Copilot, etc... Docs ( https://neon.com/docs/reference/cli-init?ref=Changelog+51+-+Feb+20#npx )
+
+Neon LLC, 209 Orange Street, Wilmington, DE 19801, USA - Unsubscribe ( https://track.customer.io/unsubscribe/dgT7swoDAPD_PO__PAGcfQsOK76p0tF1w4Y5T00= )
+
+---
+Email processed by GmailWatcher on 2026-02-24 23:51:03

@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_003339",
+  "original_file": "Inactive cluster was deleted",
+  "received_from": "Qdrant Cloud <no-reply@qdrant.io>",
+  "received_date": "Fri, 6 Feb 2026 18:56:43 +0000",
+  "email_subject": "Inactive cluster was deleted",
+  "email_body": "[https://qdrant.to/cloud]\n\n\n\n\n\n\n\nYour free cluster has been deleted\n\nYour free cluster, Rag_Chat_Bot (ID: 623bb1fb-8cbe-4e5b-9e38-dfa63bdefc90) has been deleted permanently due to inactivity. You can no longer reactivate your cluster, and its data is permanently lost.\n\n\n\nIf you want to continue using Qdrant, you can always create a new cluster.\n\n<<Create a New Cluster>> [https://cloud.qdrant.io/accounts/0af2226f-c23a-42f5-a563-46201e5762ea/clusters/create?template=standard]\n\n\n\nHappy building,\n\n\n\nThe Qdrant Team\n\n<<logo>> [https://qdrant.to/cloud]\n\n\n\n\n\n\n\nYou have received this email because you have an account with Qdrant. Please do not reply to this email. Need help? If you're a customer, our support team is here for you: contact us [https://support.qdrant.io/]. Using the free tier or open source? Join our Discord community [https://discord.com/invite/qdrant] to get help, share ideas, and connect with other users.\n\nQdrant Solutions GmbH | Chausseestraße 86 10115 Berlin, Germany\n\n---\nEmail processed by GmailWatcher on 2026-02-25 00:32:41",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:33:39.431153"
+}

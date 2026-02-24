@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_003335",
+  "original_file": "Consumption history API, change your Project's default Branch, extension updates",
+  "received_from": "Neon Changelog <changelog@neon.tech>",
+  "received_date": "Fri, 06 Feb 2026 22:12:44 +0000",
+  "email_subject": "Consumption history API, change your Project's default Branch, extension updates",
+  "email_body": "Neon\n\n\n\n--------------\n\nNeon Changelog\n\n--------------\n\n\n\n*\n\nImproved consumption history API for Scale Plan all paid Plans\n\n*\n\nPostgres extension updates\n\n*\n\nChange your project's default branch via API\n\n\n\nRead the full Changelog ( https://neon.com/docs/changelog?ref=Changelog+49+-+Feb+6 )\n\n\n\nIn case you missed it...\n\n\n\n* The New v0 Is Ready for Production Apps and Agents ( https://neon.com/blog/the-new-v0-is-ready-for-production-apps-and-agents?ref=Changelog+49+-+Feb+6 )\n\n* How Zite Provisions Isolated Postgres Databases for Every User ( https://neon.com/blog/how-zite-provisions-isolated-postgres-databases-for-every-user?ref=Changelog+49+-+Feb+6 )\n\n* Agentuity: A Cloud Where Agents Can Actually Build Infra ( https://neon.com/blog/agentuity-a-cloud-where-agents-can-actually-build?ref=Changelog+49+-+Feb+6 )\n\n\n\nNeon LLC, 209 Orange Street, Wilmington, DE 19801, USA - Unsubscribe ( https://track.customer.io/unsubscribe/dgT7swoDAPD_PO__PAGcNQO8Je9gLxsLi2kCZOU= )\n\n---\nEmail processed by GmailWatcher on 2026-02-25 00:32:40",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:33:35.637881"
+}

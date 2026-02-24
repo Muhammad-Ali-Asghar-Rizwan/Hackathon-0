@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002512",
+  "original_file": "New login to your Hugging Face account",
+  "received_from": "huggingface <website@huggingface.co>",
+  "received_date": "Fri, 20 Feb 2026 21:00:02 +0000",
+  "email_subject": "New login to your Hugging Face account",
+  "email_body": "<html>\n\n<head>\n\n\n\n<style>\n\nhtml {\n\n\tfont-family: serif;\n\n\tfont-size: 14px;\n\n}\n\nimg {\n\n\tmax-width: 100%;\n\n}\n\nblockquote {\n\n\tborder-left: 3px solid #ccc;\n\n\tmargin: 0 0;\n\n\tpadding: 0 10px;\n\n}\n\n</style>\n\n\n\n</head>\n\n<body>\n\n<div style=\"background-color: #f8f8f8; padding-top: 40px; padding-bottom: 30px;\">\n\n\t<div style=\"max-width: 600px; margin: auto;\">\n\n\t\t<div style=\"background-color: #fff; padding: 20px 16px; color: #222; font-size: 14px; line-height: 1.4; text-align: left; border-radius: 12px;\">\n\n\t\t\t<img style=\"width: 64px; margin-bottom: 16px; display:block;\" src=\"https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/oqb5eeTV3AZwnD3IYggVH.png\">\n\n\t\t\t<p>Hi Ali Asghar (<a href=\"https://huggingface.co/aliasghar6572\">@aliasghar6572</a>),</p>\n\n\t\t\t<p>We noticed a new login to your HF account. Here are the details:</p>\n\n\t\t\t<p>\n\n\t\t\t<strong>Location:</strong> Pakistan, Karachi (Approximate location)<br/>\n\n\t\t\t<strong>Time:</strong> 20 Feb 2026 09:00 PM..PM UTC<br/>\n\n\t\t\t</p>\n\n\t\t\t<p>If you logged in to your account recently, there's nothing for you to do right now.</p>\n\n\t\t\t<p>If you don't recognize this login, we recommend you change your password to a strong one you haven't used before by clicking <a href=\"https://huggingface.co/settings/account\">here</a>. You can also reply to this email directly if you need further assistance.</p>\n\n\t\t\t<p>Cheers,</p>\n\n\t\t\t<p>The Hugging Face team</p>\n\n\t\t\t\n\n\t\t</div>\n\n\t\t<div style=\"padding: 20px; padding-top: 25px; color: #AAA; text-align: center;\">\n\n\t\t\t<div style=\"line-height: 1.4; font-size: 11px;\">\n\n\t\t\t\tHugging Face: The AI community building the future.\n\n\t\t\t</div>\n\n\t\t\t\n\n\t\t</div>\n\n\t</div>\n\n</div>\n\n</body>\n\n</html>\n\n\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:51:03",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:12.646353"
+}

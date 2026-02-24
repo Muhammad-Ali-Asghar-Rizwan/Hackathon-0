@@ -1,0 +1,33 @@
+From: Railway <hello@news.railway.app>
+To: programingmaster22@gmail.com
+Date: Sat, 21 Feb 2026 02:01:54 +0000
+Subject: DDoS protection, Railway domains, better canvas state
+---
+
+Railway Logo
+
+***************
+Changelog Time!
+***************
+
+It's Friday and you know what that means! Here's a summary of the stuff we shipped this week:
+
+* DDoS protection
+* Buy domains on Railway to Priority Boarding
+* Better canvas state across environments
+* Fixes and improvements
+
+Read the changelog ( https://railway.com/changelog/2026-02-20-domains?utm_campaign=Changelog&utm_content=Changelog+Template&utm_medium=email_action&utm_source=customer.io )
+
+If you have any thoughts/feedback on the changes we're making, reach out on Central Station ( https://station.railway.com/new?type=feedback&utm_campaign=Changelog&utm_content=Changelog+Template&utm_medium=email_action&utm_source=customer.io )!
+
+Regards,
+
+Your friends at Railway
+
+Unsubscribe from marketing emails ( https://railway.com/preferences?token=75d83244-3087-49e8-a95b-a488740b3b4d&utm_campaign=Changelog&utm_content=Changelog+Template&utm_medium=email_action&utm_source=customer.io )
+
+© 2025 Railway Corp. All rights reserved.
+
+---
+Email processed by GmailWatcher on 2026-02-24 23:51:02

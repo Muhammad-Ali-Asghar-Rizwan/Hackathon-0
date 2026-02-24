@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002509",
+  "original_file": "Cursor plugin, new Cell in aws-eu-central-1, CircleCI Orbs",
+  "received_from": "Neon Changelog <changelog@neon.tech>",
+  "received_date": "Fri, 20 Feb 2026 21:53:25 +0000",
+  "email_subject": "Cursor plugin, new Cell in aws-eu-central-1, CircleCI Orbs",
+  "email_body": "Neon\n\n\n\n--------------\n\nNeon Changelog\n\n--------------\n\n\n\n*\n\nUse Cursor? Install the official Neon plugin\n\n*\n\nNew EU capacity, update your IP Allowlists\n\n*\n\nCircleCI integration\n\n\n\nRead the full Changelog ( https://neon.com/docs/changelog?ref=Changelog+51+-+Feb+20 )\n\n\n\nIn case you missed it...\n\n\n\n* Neon Is a Cursor Plugin - All the details ( https://neon.com/blog/neon-is-a-cursor-plugin?ref=Changelog+51+-+Feb+20 )\n\n* How to build a Usage Dashboard with Neon's Consumption API ( https://neon.com/guides/usage-dashboard-consumption-api?ref=Changelog+51+-+Feb+20 )\n\n\n\nRun this in your terminal to give AI tools Neon superpowers:\n\nnpx neonctl@latest init\n\nAdds plugins, MCP, skills for Claude, Cursor, Copilot, etc... Docs ( https://neon.com/docs/reference/cli-init?ref=Changelog+51+-+Feb+20#npx )\n\n\n\nNeon LLC, 209 Orange Street, Wilmington, DE 19801, USA - Unsubscribe ( https://track.customer.io/unsubscribe/dgT7swoDAPD_PO__PAGcfQsOK76p0tF1w4Y5T00= )\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:51:03",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:09.336353"
+}

@@ -1,0 +1,130 @@
+From: Vercel <notifications@vercel.com>
+To: programingmaster22@gmail.com
+Date: Sun, 8 Feb 2026 20:46:17 +0000
+Subject: New sign-in detected on your Vercel account
+---
+
+Vercel
+
+Hi muhammad-ali-asghar-rizwan,
+
+Your Vercel account programingmaster22@gmail.com was recently
+signed-in from a new location, device or browser.
+
+Location
+Time
+Browser
+IP
+User agent
+Don't recognize this activity?
+
+Review your recent activity (https://e2.knock.app/t/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoc3QiOiJlMi5rbm9jay5hcHAiLCJpYXQiOjE3NzA1ODM1NzcxOTE1MTMsImlkeCI6MCwibWlkIjoiMzlQMnFnOTE1eGxEbGo5SExCY3ZyeThaR2o1IiwidXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tL2FjY291bnQvYWN0aXZpdHkifQ.pr1Sx8X-0y7XOBImyTLt690ED6DJMU5zHZWL86x4okA)
+and access tokens (https://e2.knock.app/t/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoc3QiOiJlMi5rbm9jay5hcHAiLCJpYXQiOjE3NzA1ODM1NzcxOTE2NTgsImlkeCI6MCwibWlkIjoiMzlQMnFnOTE1eGxEbGo5SExCY3ZyeThaR2o1IiwidXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tL2FjY291bnQvc2V0dGluZ3MvdG9rZW5zIn0.PYj1N3nVL2S8LZoem0Tt8uIJfXXHGoGPl4nIVvWjeds)
+now.
+
+We are sending you this email because we were unable to determine
+if you have signed-in from this location or browser before. This
+may be because you are traveling, using a VPN or Private Relay, a
+new or updated browser, or another person is using your account.
+
+-----------------------------------------------------------------
+
+If you’d like to report an issue, reach out to Vercel Help
+(https://e2.knock.app/t/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoc3QiOiJlMi5rbm9jay5hcHAiLCJpYXQiOjE3NzA1ODM1NzcxOTE3NzMsImlkeCI6MCwibWlkIjoiMzlQMnFnOTE1eGxEbGo5SExCY3ZyeThaR2o1IiwidXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tL2hlbHA_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPW5vdGlmaWNhdGlvbnMpLiJ9.-fA8GRWDX1W6-2txCKsfbujR_Up58iIJpcnjAMMfQ74
+
+Copyright © 2025 Vercel Inc.
+(https://e2.knock.app/t/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoc3QiOiJlMi5rbm9jay5hcHAiLCJpYXQiOjE3NzA1ODM1NzcxOTE4OTIsImlkeCI6MCwibWlkIjoiMzlQMnFnOTE1eGxEbGo5SExCY3ZyeThaR2o1IiwidXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1ub3RpZmljYXRpb25zIn0.18-wrjyX78ZE4xbJyN1dmjWpLVYuvwOs1EqdxgvK7GQ)
+All rights reserved.
+440 N Barranca Ave #4133 Covina, CA 91723
+
+Manage your notification settings
+(https://e2.knock.app/t/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoc3QiOiJlMi5rbm9jay5hcHAiLCJpYXQiOjE3NzA1ODM1NzcxOTE5ODgsImlkeCI6MCwibWlkIjoiMzlQMnFnOTE1eGxEbGo5SExCY3ZyeThaR2o1IiwidXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tL2Q_dG89JTJGJTVCdGVhbSU1RCUyRiU3RSUyRnNldHRpbmdzJTJGbm90aWZpY2F0aW9ucyZ0aXRsZT1Ob3RpZmljYXRpb24rU2V0dGluZ3MifQ.XZhiaeJQZOD82RvjT5vgr9Jz2U3F9eS5Njd1Hp_Hy78)
+
+p {
+color:#000;
+font-family:
+Geist,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI"
+,"Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid
+Sans","Helvetica Neue",sans-serif;
+font-size: 14px;
+line-height: 24px;
+overflow-wrap: anywhere;
+}
+.break-all {
+color:#000;
+font-family:
+Geist,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI"
+,"Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid
+Sans","Helvetica Neue",sans-serif;
+font-size: 14px;
+line-height: 24px;
+word-break: break-all
+}
+h1 {
+color: #000;
+font-family: Geist,-apple-system, BlinkMacSystemFont, "Segoe UI",
+"Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid
+Sans","Helvetica Neue",sans-serif;
+font-size: 24px;
+font-weight: normal;
+margin: 30px 0;
+padding: 0;
+}
+pre {
+font-family: "Geist
+Mono",ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation
+Mono","Courier New",monospace
+width: 100%;
+max-width: 465px;
+overflow: hidden;
+text-overflow: ellipsis;
+color: #171717;
+border: 1px solid #e5e5e5;
+padding: 20px;
+border-radius: 6px;
+}
+.block-button.block-button--solid.block-button--sm {
+background-color:#000;
+border-radius:5px;
+color: #fff;
+display: inline-block;
+font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe
+UI" ,"Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid
+Sans","Helvetica Neue",sans-serif;
+font-size:14px;
+font-weight:500;
+line-height:50px;
+text-align:center;
+text-decoration:none;
+width:200px;
+}
+strong {
+color:#000;
+font-weight:bold;
+}
+a {
+color:#067df7;
+text-decoration:none;
+}
+code.inline {
+color:rgb(189,16,224);
+text-decoration:none;
+font-family:Menlo,Monaco,"Lucida Console","Liberation
+Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier
+New",monospace,serif;
+font-size:0.9em;
+}
+ul {
+padding-left: 20px;
+}
+li, .usage {
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+"Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid
+Sans","Helvetica Neue",sans-serif;
+font-size:14px;
+line-height: 2em;
+color:#000;
+}
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:00:25

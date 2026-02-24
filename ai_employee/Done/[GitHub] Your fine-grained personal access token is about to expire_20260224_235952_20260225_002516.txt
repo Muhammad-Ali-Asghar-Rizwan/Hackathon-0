@@ -1,0 +1,20 @@
+From: GitHub <noreply@github.com>
+To: Muhammad Ali Asghar Rizwan <programingmaster22@gmail.com>
+Date: Sun, 15 Feb 2026 02:10:34 -0800
+Subject: [GitHub] Your fine-grained personal access token is about to expire
+---
+
+Hi Muhammad-Ali-Asghar-Rizwan,
+
+We noticed your fine-grained personal access token "new token ", will expire in 7 days.
+
+If this token is still needed, visit https://github.com/settings/personal-access-tokens/10969155/regenerate to generate an equivalent.
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Thanks,
+The GitHub Team
+
+
+---
+Email processed by GmailWatcher on 2026-02-24 23:59:52

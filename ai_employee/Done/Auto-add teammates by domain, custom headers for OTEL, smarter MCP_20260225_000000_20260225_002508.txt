@@ -1,0 +1,31 @@
+From: Neon Changelog <changelog@neon.tech>
+To: programingmaster22@gmail.com
+Date: Fri, 13 Feb 2026 20:48:39 +0000
+Subject: Auto-add teammates by domain, custom headers for OTEL, smarter MCP
+---
+
+Neon
+
+--------------
+Neon Changelog
+--------------
+
+*
+Add all users from your domain to the same Neon Team
+*
+Neon MCP now reads live Neon Docs
+*
+Custom API key header option for OTEL export
+
+Read the full Changelog ( https://neon.com/docs/changelog?ref=Changelog+50+-+Feb+13 )
+
+In case you missed it...
+
+* add-mcp (GitHub ( https://github.com/neondatabase/add-mcp?ref=Changelog+50+-+Feb+13 ), Blog ( https://neon.com/blog/add-mcp?ref=Changelog+50+-+Feb+13 )) open-source tool for easier MCP installs
+* Neon Data Report: We benchmarked autoscaling compute and cost efficiency across the entire platform ( https://neon.com/autoscaling-report?ref=Changelog+50+-+Feb+13 )
+* Resend webhook ingester to centralize all your email data in your Neon database ( https://resend.com/docs/webhooks/ingester?ref=Changelog+50+-+Feb+13#neon )
+
+Neon LLC, 209 Orange Street, Wilmington, DE 19801, USA - Unsubscribe ( https://track.customer.io/unsubscribe/dgT7swoDAPD_PO__PAGcWMM5iao88y9yhB1E-Q0= )
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:00:00

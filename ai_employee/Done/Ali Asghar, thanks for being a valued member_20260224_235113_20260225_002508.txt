@@ -1,0 +1,1030 @@
+From: LinkedIn Premium <linkedin@em.linkedin.com>
+To: <programingmaster22@gmail.com>
+Date: Wed, 18 Feb 2026 17:44:51 -0800
+Subject: Ali Asghar, thanks for being a valued member
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en">
+
+<head>
+    <!--[if gte mso 9]><xml>      <o:OfficeDocumentSettings>      <o:AllowPNG/>      <o:PixelsPerInch>96</o:PixelsPerInch>      </o:OfficeDocumentSettings>      </xml>    <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width">
+    <title></title>
+    <style type="text/css">
+        span,
+        td,
+        table,
+        div {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .st-email-body {
+            width: 100% !important;
+            -webkit-text-size-adjust: 100%;
+            margin: 0 auto !important;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+
+        span.st-preheader {
+            display: none !important;
+        }
+
+        td img+div {
+            display: none;
+        }
+
+        a[href^="tel"],
+        a[href^="sms"] {
+            text-decoration: none;
+            color: inherit !important;
+            pointer-events: none;
+            cursor: default;
+        }
+
+        u+.st-email-body a {
+            color: inherit;
+            text-decoration: none;
+            font-size: inherit;
+            font-family: inherit;
+            font-weight: inherit;
+            line-height: inherit;
+        }
+
+        *[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        a,
+        a:hover,
+        a:link,
+        a:visited {
+            text-decoration: none !important;
+            outline: none;
+        }
+
+        p {
+            margin: 0;
+            padding: 0;
+        }
+
+        .st-hide-desktop {
+            display: none;
+            font-size: 0;
+            height: 0;
+            min-height: 0;
+            max-height: 0;
+            line-height: 0;
+            mso-hide: all;
+        }
+
+        .st-gmail-fix {
+            display: none !important;
+        }
+    </style>
+    <style>
+        @media screen and (max-width: 480px) {
+
+            .st-col,
+            .st-mobile-full-width,
+            .st-module-wrapper-table,
+            .st-wrapper,
+            .st-wrapper-table {
+                width: 100% !important
+            }
+
+            .st-col {
+                padding: 0 !important
+            }
+
+            .st-resize {
+                width: 100% !important
+            }
+
+            .st-mobile-width-constraint,
+            .st-resize {
+                display: block !important;
+                height: auto !important
+            }
+
+            .st-mobile-width-constraint {
+                max-width: 100% !important
+            }
+
+            .st-equal-height,
+            .st-height-auto {
+                height: auto !important
+            }
+
+            .st-hide-desktop {
+                display: table-row !important
+            }
+
+            .st-hide-mobile {
+                display: none !important
+            }
+
+            .st-mobile-inline {
+                display: inline !important
+            }
+
+            .show-img-mobile {
+                display: table-row !important;
+                width: 100% !important;
+                float: none;
+                overflow: visible !important;
+                height: auto !important
+            }
+
+            .st-dynamic-1124-4 {
+                background-image: none !important;
+            }
+
+            .st-dynamic-1134-6,
+            u+.st-email-body .st-dynamic-1134-6 img {
+                width: 100% !important;
+                max-width: 512px !important;
+            }
+
+            .st-dynamic-1175-34,
+            u+.st-email-body .st-dynamic-1175-34 img {
+                width: 100% !important;
+                max-width: 128px !important;
+            }
+
+            .st-dynamic-1237-87,
+            u+.st-email-body .st-dynamic-1237-87 img {
+                width: 100% !important;
+                max-width: 48px !important;
+            }
+
+            .st-wrapper-table {
+                width: 100% !important;
+                max-width: 480px !important;
+                margin: 0 auto;
+            }
+        }
+
+        #MessageViewBody .st-module-wrapper-table {
+            margin-top: -1px
+        }
+
+        @media (max-width:511px) and (min-width:481px) {
+            .st-module-wrapper-table {
+                margin-top: -1px !important;
+            }
+        }
+
+        div>u+.body .st-module-wrapper-table {
+            margin-top: 0px !important
+        }
+    </style><!--[if !mso]><!-->
+    <style>
+        ul,
+        ol {
+            margin-left: 15px;
+            padding-left: 0px
+        }
+    </style>
+    <!--<![endif]--><!--[if mso]>    <style>        table{            border-collapse: collapse;        }                span.MsoHyperlink {            mso-style-priority:99;            color:inherit;        }        span.MsoHyperlinkFollowed {            mso-style-priority:99;            color:inherit;        }        ol li, ul li {margin-top:0px !important;margin-bottom:0px !important;}    </style><![endif]--><!--[if gte mso 9]>    <style>        .st-mso-full-width{            width: 100%;        }            </style><![endif]--><!--[if IEMobile]>    <style type="text/css">        .st-mso-full-width{            width: 100%;        }    </style><![endif]-->
+    <style>
+        .aligned-bullets ul {
+            list-style-position: outside !important;
+            padding-left: 20px !important;
+            padding-top: 12px !important;
+        }
+
+        .aligned-bullets ol {
+            list-style-position: outside !important;
+            padding-left: 20px !important;
+            padding-top: 12px !important;
+        }
+
+        .border-radius {
+            border-radius: 8px;
+        }
+
+        .border-radius-bs {
+            border-bottom-left-radius: 8px !important;
+            border-bottom-right-radius: 8px !important;
+        }
+
+        .border-radius-bs img {
+            border-bottom-left-radius: 8px !important;
+            border-bottom-right-radius: 8px !important;
+        }
+
+        .border-radius-ts {
+            border-top-left-radius: 8px !important;
+            border-top-right-radius: 8px !important;
+        }
+
+        .border-radius-ts img {
+            border-top-left-radius: 8px !important;
+            border-top-right-radius: 8px !important;
+        }
+
+        .button td {
+            -webkit-border-radius: 50px !important;
+            -moz-border-radius: 50px !important;
+            border-radius: 50px !important;
+            overflow: hidden !important;
+        }
+
+        .minw-48 img {
+            min-width: 48px !important;
+        }
+
+        .di-fix {
+            mso-padding-top-alt: 18pt !important;
+        }
+
+        .bullets-pb-12 ul li {
+            padding-bottom: 12px !important;
+        }
+
+        .bullets-pb-12 ol li {
+            padding-bottom: 12px !important;
+        }
+
+        @media all and (max-width: 480px) {
+            .mob-pb-0 {
+                padding-bottom: 0px !important;
+            }
+
+            .mob-ps-0 {
+                padding-right: 0px !important;
+                padding-left: 0px !important;
+            }
+
+            .mob-ps-50 {
+                padding-right: 50px !important;
+                padding-left: 50px !important;
+            }
+
+            .center-element td {
+                margin: 0 auto !important;
+                text-align: center !important;
+            }
+
+            .center-element {
+                text-align: center !important;
+            }
+
+            .center-element table {
+                margin: 0 auto !important;
+            }
+
+            .center-element p {
+                text-align: center !important;
+            }
+
+            .center-element span {
+                text-align: center !important;
+            }
+
+            .center-element img {
+                margin: 0 auto !important;
+            }
+
+            .mob-w-52 {
+                width: 52% !important;
+                min-width: 52% !important;
+                max-width: 52% !important;
+            }
+
+            .mob-w-52 {
+                font-size: 12px !important;
+            }
+
+            .mob-w-52 p {
+                font-size: 12px !important;
+            }
+
+            .mob-w-52 p span {
+                font-size: 12px !important;
+            }
+
+            .mob-w-22 {
+                width: 22% !important;
+                min-width: 22% !important;
+                max-width: 22% !important;
+            }
+
+            .mob-w-2 {
+                width: 2% !important;
+                min-width: 2% !important;
+                max-width: 2% !important;
+            }
+
+            .mob-fs-13 {
+                font-size: 13px !important;
+            }
+
+            .mob-fs-13 p {
+                font-size: 13px !important;
+            }
+
+            .mob-fs-13 p span {
+                font-size: 13px !important;
+            }
+
+            .column50a p {
+                text-align: left;
+                font-size: 18px;
+                line-height: 1.5em;
+                color: #000000;
+                font-family: Helvetica Neue, Arial, sans-serif;
+                padding: 20px 20px 15px 20px;
+            }
+
+            .padlr0m td {
+                width: 0;
+                padding: 0 5px;
+            }
+        }
+    </style>
+</head>
+
+<body class="st-email-body st-center-gmail">
+    <div lang="en">
+        <div
+            style="font-size:0px; display:none; visibility:hidden; opacity:0; color:transparent; max-height:0px; height:0; width:0; mso-hide:all;">
+            Unlock a free trial of LinkedIn Premium &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847;
+            &#8199;&#847; &#8199;&#847; &#8199;&#847; &#8199;&#847; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy;
+            &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &shy; &nbsp; </div>
+            
+           
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#F3F2EF"
+            class="st-wrapper-table" style="width: 100%;">
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%;">
+                                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="512"
+                                    class="st-mso-full-width st-mobile-full-width" style="width: 512px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="512">
+                                            <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                role="presentation">
+                                                <tr>
+                                                    <td width="100%" valign="top" align="center" style="width: 100%;">
+                                                        <!-- /// HEADER START --> </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="padt10m" align="center"
+                                                        style="padding-top: 16px; padding-bottom: 16px;">
+                                                        <table role="presentation" width="87%" border="0" align="center"
+                                                            cellpadding="0" cellspacing="0">
+                                                            <tr> <!-- LOGO START -->
+                                                                <td width="100" align="left"
+                                                                    style="padding-right: 12px;"><a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,297876&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=ujfNIvNBGgAWTYJuiQqUibK8ed94TtkmHAIgFtttips" _label="LOGO" _category="CTA" ><img
+                                                                            src="https://res1.em.linkedin.com/res/img/F4F21F263E4CC482C065677687C174D2.png"
+                                                                            width="100" alt="LinkedIn"
+                                                                            style="width: 100%; max-width: 84px; display: block; border: 0; color: black; font-size: 20px; font-weight: bold; font-family: sans-serif;"></a>
+                                                                </td> <!-- LOGO END --> <!-- NAME/PROFILE START -->
+                                                                <td class="h3m" width="150" valign="top" align="right"
+                                                                    style="padding-top:3px; font-size: 14px; color: #191919; font-family: Helvetica Neue, Arial, sans-serif;">
+                                                                    <a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,297878&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=SiCCc-SJivRID_23jSO05PwH5P5E0Yf83_xSkfQBpAc" _label="PROFILE" _category="CTA" ><img
+                                                                                    alt
+                                                                                    src="https://media.licdn.com/dms/image/v2/D4D03AQEUWxDRvX3Tjg/profile-displayphoto-scale_400_400/B4DZoV9hyXJcAk-/0/1761305043228?e=1772668800&v=beta&t=k-ejmOrr7KGJVmfGyESXOTQ1sRNM7dcqD4OldMWpsYc"
+                                                                                    style="display:block; border: 0; background-color: #ffffff; -webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; overflow: hidden;"
+                                                                                    width="32"></a>
+                                                                            
+                                                                </td> <!-- NAME/PROFILE END -->
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr> <!-- HEADER END /// -->
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top"
+                                style="width: 100%; padding-top: 16px; padding-bottom: 16px;">
+                                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="512"
+                                    class="st-mso-full-width st-mobile-full-width" style="width: 512px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="512">
+                                            <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                role="presentation">
+                                                <tr>
+                                                    <td width="100%" valign="top" align="center"
+                                                        class="st-dynamic-1134-6" style="width: 100%;"><img border="0"
+                                                            valign="top" width="512"
+                                                            src="https://res1.em.linkedin.com/res/img/466BAD3738297AED8ADFD9BC8DB686F3.png"
+                                                            alt="VIP Image" title="VIP Image" title
+                                                            class="st-mobile-width-constraint"
+                                                            style="border: 0px; display: block; width: 512px; max-width: 100%;">
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 20px; font-weight: 700; letter-spacing: normal; line-height: 24px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;"><span
+                                                                            style="font-size: 20px; line-height: 24px;">Standing
+                                                                            out. That’s&nbsp;Premium.</span></p>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    class="aligned-bullets bullets-pb-12"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 24px; padding-top: 4px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;">Try
+                                                                        LinkedIn Premium free for one&nbsp;month.</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="center"
+                                                                    class="button"
+                                                                    style="padding-top: 16px; width: 100%;">
+                                                                    <table role="presentation" cellpadding="0"
+                                                                        cellspacing="0" border="0"
+                                                                        style="border-collapse: initial;">
+                                                                        <tr>
+                                                                            <td width="100%" bgcolor="#0A66C2"
+                                                                                align="center" height="45"
+                                                                                valign="middle"
+                                                                                style="mso-padding-alt:0px 24px 0px 24px; border-width:1px; border-style: solid; border-color: #0a66c2; height: 45px; width: 100%; text-align: center; background-color: #0a66c2; vertical-align: middle">
+                                                                                <a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,297879&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=5j9q9k2LvsIEO3Fsxe4-Xuj6x0AXCsek8VzbrtJmGmQ" target="_blank" bgcolor="#0A66C2" valign="middle" style="mso-line-height-rule:exactly; text-align:center; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-size: 16px; font-weight: 700; letter-spacing: normal; line-height: 20px; padding-right: 24px; padding-left: 24px; text-decoration: none; display: table-cell; height: 45px; border-radius: 0px; vertical-align: middle; box-sizing: content-box" _label="CTA_JSS" _category="CTA" ><span
+                                                                                        style="margin: 0px; color: #ffffff;"><span
+                                                                                            style="font-size: 16px; line-height: 20px;">
+                                                                                            Try for free
+                                                                                        </span></span></a> </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    class="aligned-bullets bullets-pb-12"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 24px; padding-top: 4px; padding-bottom: 0px; width: 100%;">
+                                                                    <p
+                                                                        style="margin: 0px; text-align: center; font-size: 20px;">
+                                                                        <strong>What kind of boost can Premium
+                                                                            subscribers&nbsp;get?</strong></p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="center"
+                                                                    class="st-dynamic-1175-34"
+                                                                    style="width: 100%; padding-top: 0px;"><img
+                                                                        border="0" valign="top" width="200"
+                                                                        src="https://res1.em.linkedin.com/res/img/F886C8DA5FE576CDDC9E23E477FA1326.png"
+                                                                        alt="2.7x" title="2.7x"
+                                                                        class="st-mobile-width-constraint"
+                                                                        style="border: 0px; display: block; width: 128px; max-width: 100%;">
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 20px; font-weight: 700; letter-spacing: normal; line-height: 24px; padding-top: 16px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;"><span
+                                                                            style="font-size: 20px; line-height: 24px;">2.7x
+                                                                            more likely to be hired
+                                                                            through&nbsp;LinkedIn*</span></p>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 24px; padding-top: 8px; padding-bottom: 0px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;">Top
+                                                                        applicant jobs allows you to see job postings
+                                                                        where you'll be a good fit, based on your skills
+                                                                        and&nbsp;experience.</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="center"
+                                                                    class="st-dynamic-1175-34"
+                                                                    style="width: 100%; padding-top: 0px;"><img
+                                                                        border="0" valign="top" width="128"
+                                                                        src="https://res1.em.linkedin.com/res/img/0B850C8DA756A5D706629C169AA21170.png"
+                                                                        alt="2x" title="2x"
+                                                                        class="st-mobile-width-constraint"
+                                                                        style="border: 0px; display: block; width: 80px; height: 80px;  max-width: 100%;">
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 20px; font-weight: 700; letter-spacing: normal; line-height: 24px; padding-top: 0px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;"><span
+                                                                            style="font-size: 20px; line-height: 24px;">Stand
+                                                                            out for nearly 2x as
+                                                                            many&nbsp;opportunities*</span></p>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 24px; padding-top: 8px; padding-bottom: 0px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;">Use our
+                                                                        AI writing assistant to strengthen your profile
+                                                                        and confidently draft messages to
+                                                                        hiring&nbsp;managers.</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="center"
+                                                                    class="st-dynamic-1175-34"
+                                                                    style="width: 100%; padding-top: 0px;"><img
+                                                                        border="0" valign="top" width="128"
+                                                                        src="https://res1.em.linkedin.com/res/img/F946A844D3C488C090A96BE79FE57213.png"
+                                                                        alt="11x" title="11x"
+                                                                        class="st-mobile-width-constraint"
+                                                                        style="border: 0px; display: block; width: 128px; max-width: 100%;">
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 20px; font-weight: 700; letter-spacing: normal; line-height: 24px; padding-top: 16px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;"><span
+                                                                            style="font-size: 20px; line-height: 24px;">Get
+                                                                            11x more profile&nbsp;views*</span></p>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 24px; padding-top: 8px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;">Know
+                                                                        who's viewed your profile and increase
+                                                                        connection&nbsp;opportunities.</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="center"
+                                                                    style="padding-top: 1px; width: 100%;">
+                                                                    <!--[if mso]>        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" style="height:35pt; v-text-anchor:middle; width:121pt; mso-position-horizontal: center" arcsize="109%" strokecolor="#0A66C2" strokeweight="1pt" fillcolor="#FFFFFF">          <w:anchorlock/>          <v:textbox inset="0,0,0,0"><p style="text-align: center; font-family: Helvetica, Arial, Sans-serif; color: #0A66C2; font-size: 16px; font-weight: 700; letter-spacing: normal; mso-line-height-rule: exactly; line-height: 16px"><![endif]-->
+                                                                    <!--[if !mso]><!-->
+                                                                    <table role="presentation" cellpadding="0"
+                                                                        cellspacing="0" border="0"
+                                                                        style="border-collapse: initial;">
+                                                                        <tr>
+                                                                            <td width="100%" align="center" height="45"
+                                                                                valign="middle"
+                                                                                style="mso-padding-alt:0px 24px 0px 24px; border-radius:50px; border-width: 1px; border-style: solid; border-color: #0a66c2; height: 45px; width: 100%; text-align: center; vertical-align: middle">
+                                                                                <!--<![endif]--> <a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,29787a&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=KhBwgzmDN2q6Jeav0_2FND82nBr7On-UEVxMpBBl5bk" target="_blank" valign="middle" style="mso-line-height-rule:exactly; text-align:center; font-family: Helvetica, Arial, sans-serif; color: #0a66c2; font-size: 16px; font-weight: 700; letter-spacing: normal; line-height: 20px; padding-right: 24px; padding-left: 24px; text-decoration: none; display: table-cell; height: 45px; border-radius: 50px; vertical-align: middle; box-sizing: content-box" _label="CTA_JSS" _category="CTA" ><span
+                                                                                        style="margin: 0px; color: #0a66c2;"><span
+                                                                                            style="font-size: 16px; line-height: 20px;">
+                                                                                            Try for free
+                                                                                        </span></span></a>
+                                                                                <!--[if !mso]><!--></td>
+                                                                        </tr>
+                                                                    </table> <!--<![endif]-->
+                                                                    <!--[if mso]>            </p></v:textbox>          </v:roundrect>        <![endif]-->
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    class="aligned-bullets bullets-pb-12"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 24px; padding-top: 4px; width: 100%;">
+                                                                    <p style="margin: 0px; text-align: center;">
+                                                                        <strong>Take advantage of Premium's
+                                                                            exclusive&nbsp;benefits.</strong></p>
+                                                                    <p style="margin: 0px; text-align: center;">Cancel
+                                                                        anytime. Offer ends 02/26/2026.
+                                                                    </p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" bgcolor="#FFFFFF" valign="top" style="width: 100%; padding: 16px 33px;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                                    width="100%" style="width: 100%;">
+                                    <tr>
+                                        <td width="100%" valign="top" align="left">
+                                            <table role="presentation" cellpadding="0" cellspacing="0" border="0"
+                                                width="446" class="st-mso-full-width st-mobile-full-width"
+                                                style="width: 446px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="446">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                            role="presentation">
+                                                            <tr>
+                                                                <td width="100%" valign="top" align="left"
+                                                                    class="aligned-bullets bullets-pb-12"
+                                                                    style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 16px; font-weight: 400; letter-spacing: normal; line-height: 24px; padding-top: 4px; width: 100%;">
+                                                                    <p style="margin: 0px;">*LinkedIn, 2025</p>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" valign="top"
+                                style="width: 100%; padding-top: 16px; padding-right: 33px; padding-left: 33px;">
+                                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="446"
+                                    class="st-mso-full-width st-mobile-full-width" style="width: 446px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="446">
+                                            <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                role="presentation">
+                                                <tr>
+                                                    <td width="100%" valign="top" align="left"
+                                                        style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 14px; font-weight: normal; letter-spacing: normal; line-height: 21px; width: 100%;">
+                                                        <p style="margin: 0px;"><span
+                                                                style="font-size: 14px; line-height: 21px;">Terms and
+                                                                Conditions:</span></p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="100%" valign="top" align="left"
+                                                        style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 14px; font-weight: normal; letter-spacing: normal; line-height: 21px; padding-top: 12px; width: 100%;">
+                                                        <p style="margin: 0px;">After your promotional period, you
+                                                            automatically will be charged for a subscription on a
+                                                            monthly or annual basis (at your choice) unless you cancel.
+                                                            This promotion ends on 02/26/2026. <a style="color: #191919;" href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,29787b&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=QneODpP9mLzRWcVnDA-5uWsno01Mw1ejcir6q6TWcYo" label="LEARN_MORE" category="CTA" ><span
+                                                                        style="color: #0a66c2;"><u>Learn&nbsp;more</u></span></a>.
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="100%" valign="top" align="left"
+                                                        style="text-align: left; font-family: Helvetica, Arial, sans-serif; color: #191919; font-size: 14px; font-weight: normal; letter-spacing: normal; line-height: 21px; padding-top: 12px; width: 100%;">
+                                                        <p style="margin: 0px;">For Who's Viewed Your Profile, first
+                                                            &amp; last name may not be listed for profile viewers who
+                                                            have chosen to remain semi- or fully-anonymous via their
+                                                            privacy settings. InMail credits expire after 90 days or
+                                                            when the subscription&nbsp;ends.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="100%" valign="top" align="center" class="di-fix"
+                                                        style="padding: 24px 0px 0px; width: 100%;">
+                                                        <p height="1" width="100%"
+                                                            style="mso-line-height-rule:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; text-size-adjust:100%; width: 100%; height: 1px; max-height: 1px; background-color: #d3d3d3; margin: 0px; font-size: 1px; line-height: 1px">
+                                                            &nbsp; </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" valign="top" align="center" class="st-dynamic-1124-4">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="512"
+                        class="st-wrapper st-wrapper-background st-module-wrapper-table" style="width: 512px;">
+                        <tr>
+                            <td width="100%" valign="top" style="width: 100%;">
+                                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="512"
+                                    class="st-mso-full-width st-mobile-full-width" style="width: 512px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="512">
+                                            <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                                role="presentation">
+                                                <tr>
+                                                    <td width="100%" valign="top" align="center" style="width: 100%;">
+                                                        <!-- /// FOOTER START --> </td>
+                                                </tr>
+                                                <tr>
+                                                    <td
+                                                        style="background-color: #F3F2EF; padding-top: 12px; padding-bottom: 36px;">
+                                                        <html lang="en">
+<head>
+<title>Footer Mercado English</title>
+</head>
+<body>
+<table role="presentation" width="87%" border="0" align="center" cellpadding="0" cellspacing="0"><!-- COPY START -->
+<tbody>
+<tr>
+<td style="padding-top: 24px; text-align: left; font-size: 14px; line-height: 1.3em; color: #191919; font-family: Helvetica Neue, Arial, sans-serif;">This email was intended for Ali Asghar M.Rizwan (✨ Elevate Your Digital Experience Secure ?, AI-Driven ? Applications with FREE Consultation ?  Aspiring Developer Skilled in React ⚛️, Next.js ?, and Autonomous Agents ?GENERATION) <br><a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,297819&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=coEhImpEAaXDjdFDtICr9DVz58QZsP6T8YdfNqbXk3Q" _label="Security_Footer" _category="Footer" ><span style="color: #0a66c2; text-decoration: underline;">Learn why we included this.</span></a> <br><br>This is an occasional email to help you get the most out of LinkedIn. <br><br> <a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,297872&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWwmcDE9QVFGSXpfT0xvckNJdWdBQUFaYnhyWDdmOV91eE5zTDZKTGYzRTFlWVNyTy1kRmQ3SUlnOXUwR0hVVU5DTUk4d0c0ZTN3U3FaMy1wbFY2dTFBVjEwREgyUEotbyZwMj00MzgzOTQxJnAzPTcyMzU1OTImcDQ9MjAyNi0wMi0xOA&s=pPls3ckn8ItXiv3XJIPlZd9ypGbHxnVWLy92OIL80nY" _label="UNSUB" _category="unsub" _type="optout" ><span style="color: #0a66c2; text-decoration: underline;">Unsubscribe</span></a> ·  <a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,29781b&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=70dwqryYIhAyvhl0fZk-SDmHYXT98IZ1jRUE2n3vmSw" _label="HELP_ENGLISH" _category="Footer" ><span style="color: #0a66c2; text-decoration: underline;">Help</span></a></td>
+</tr>
+<!-- COPY END --> <!-- IMAGE START -->
+<tr>
+<td style="padding-top: 24px;"><a href="https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,29781d&e=bWNpZD03MjU2NzM4NjQzMzU1MDEzMTIwJnRyaz1lbWwtbWt0Zy1wcmVtLWFjcS1mdC1jYXJlZXItam9iYXBwdHJpZ2dlciZzcmM9ZS1lbWw&s=HRC7GX1pOt7trcKt75OOPiahW7-5_0HRvMf6rVgnZp8" _label="LOGO" _category="Footer" ><img src="https://res1.em.linkedin.com/res/tracking/linkedin-blue-80x20.png" width="80" alt="LinkedIn" style="display: block; border: 0; color: black; font-size: 20px; font-weight: bold; font-family: sans-serif;"></a></td>
+</tr>
+<!-- IMAGE END --> <!-- COPY START -->
+<tr>
+<td style="padding-top: 20px;padding-bottom: 24px; text-align: left; font-size: 14px; line-height: 1.3em; color: #191919; font-family: Helvetica Neue, Arial, sans-serif;">©2026,
+
+LinkedIn Ireland Unlimited Company.
+
+All rights reserved. <br>
+
+LinkedIn Ireland Unlimited Company, Gardner House, Wilton Plaza, Wilton Place, Dublin 2, Ireland.
+
+<br>LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.</td>
+</tr>
+<!-- COPY END --></tbody>
+</table>
+</body>
+</html>
+                                                    </td>
+                                                </tr> <!-- FOOTER END /// -->
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr><!--[if false]><!-->
+            <tr>
+                <td class="st-gmail-fix" style="font-size:0; line-height: 0; height: 0; min-width: 512px;"> &nbsp; </td>
+            </tr><!--<![endif]-->
+    </div>
+</body>
+
+</html></p>
+
+<img height='0' width='0' alt='' src='https://t1.em.linkedin.com/r/?id=h67bba146-f8c7-4f59-b7b6-f52fdf18edb0,6e6808,1'/></body>
+</html>
+
+
+
+---
+Email processed by GmailWatcher on 2026-02-24 23:51:13

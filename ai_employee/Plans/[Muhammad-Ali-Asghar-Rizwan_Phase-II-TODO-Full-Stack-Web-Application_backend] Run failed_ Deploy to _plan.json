@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002516",
+  "original_file": "[Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend] Run failed: Deploy to Hugging Face - main (578d0ed)",
+  "received_from": "Muhammad Ali Asghar Rizwan <notifications@github.com>",
+  "received_date": "Fri, 20 Feb 2026 08:45:02 -0800",
+  "email_subject": "[Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend] Run failed: Deploy to Hugging Face - main (578d0ed)",
+  "email_body": "[Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend] Deploy to Hugging Face workflow run\n\n\n\nRepository: Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend\n\nWorkflow: Deploy to Hugging Face\n\nDuration: 11.0 seconds\n\nFinished: 2026-02-20 16:44:42 UTC\n\n\n\nView results: https://github.com/Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_backend/actions/runs/22232681519\n\n\n\nJobs:\n\n  * deploy failed (1 annotation)\n\n\n\n-- \n\nYou are receiving this because you are subscribed to this thread.\n\nManage your GitHub Actions notifications: https://github.com/settings/notifications\n\n\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:51:05",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:16.291192"
+}

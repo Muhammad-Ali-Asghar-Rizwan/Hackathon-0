@@ -1,0 +1,1154 @@
+From: GitGuardian Team <support@gitguardian.com>
+To: programingmaster22@gmail.com
+Date: Wed, 18 Feb 2026 21:11:52 +0000 (UTC)
+Subject: Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend - 5 internal incidents detected
+---
+
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en" style="min-height: 100%; background: #f4f6f7">
+
+<head>
+  <!-- The character set should be utf-8 -->
+  
+  <meta name="viewport" content="width=device-width">
+  
+
+  <!-- Link to the email's CSS, which will be inlined into the email -->
+  <title>GitGuardian security alert</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i&display=swap");
+
+    @media only screen {
+      html {
+        min-height: 100%;
+        background: #f3f3f3;
+      }
+    }
+
+    @media only screen and (max-width: 596px) {
+      .small-float-center {
+        margin: 0 auto !important;
+        float: none !important;
+        text-align: center !important;
+      }
+
+      .small-text-center {
+        text-align: center !important;
+      }
+
+      .small-text-left {
+        text-align: left !important;
+      }
+
+      .small-text-right {
+        text-align: right !important;
+      }
+    }
+
+    @media only screen and (max-width: 596px) {
+      .hide-for-large {
+        display: block !important;
+        width: auto !important;
+        overflow: visible !important;
+        max-height: none !important;
+        font-size: inherit !important;
+        line-height: inherit !important;
+      }
+    }
+
+    @media only screen and (max-width: 596px) {
+
+      table.body table.container .hide-for-large,
+      table.body table.container .row.hide-for-large {
+        display: table !important;
+        width: 100% !important;
+      }
+    }
+
+    @media only screen and (max-width: 596px) {
+      table.body table.container .callout-inner.hide-for-large {
+        display: table-cell !important;
+        width: 100% !important;
+      }
+    }
+
+    @media only screen and (max-width: 596px) {
+      table.body table.container .show-for-large {
+        display: none !important;
+        width: 0;
+        mso-hide: all;
+        overflow: hidden;
+      }
+    }
+
+    @media only screen and (max-width: 596px) {
+      table.body img {
+        width: auto;
+        height: auto;
+      }
+
+      table.body center {
+        min-width: 0 !important;
+      }
+
+      table.body .container {
+        width: 95% !important;
+      }
+
+      table.body .columns,
+      table.body .column {
+        height: auto !important;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+      }
+
+      table.body .columns .column,
+      table.body .columns .columns,
+      table.body .column .column,
+      table.body .column .columns {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      table.body .collapse .columns,
+      table.body .collapse .column {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      td.small-1,
+      th.small-1 {
+        display: inline-block !important;
+        width: 8.33333% !important;
+      }
+
+      td.small-2,
+      th.small-2 {
+        display: inline-block !important;
+        width: 16.66667% !important;
+      }
+
+      td.small-3,
+      th.small-3 {
+        display: inline-block !important;
+        width: 25% !important;
+      }
+
+      td.small-4,
+      th.small-4 {
+        display: inline-block !important;
+        width: 33.33333% !important;
+      }
+
+      td.small-5,
+      th.small-5 {
+        display: inline-block !important;
+        width: 41.66667% !important;
+      }
+
+      td.small-6,
+      th.small-6 {
+        display: inline-block !important;
+        width: 50% !important;
+      }
+
+      td.small-7,
+      th.small-7 {
+        display: inline-block !important;
+        width: 58.33333% !important;
+      }
+
+      td.small-8,
+      th.small-8 {
+        display: inline-block !important;
+        width: 66.66667% !important;
+      }
+
+      td.small-9,
+      th.small-9 {
+        display: inline-block !important;
+        width: 75% !important;
+      }
+
+      td.small-10,
+      th.small-10 {
+        display: inline-block !important;
+        width: 83.33333% !important;
+      }
+
+      td.small-11,
+      th.small-11 {
+        display: inline-block !important;
+        width: 91.66667% !important;
+      }
+
+      td.small-12,
+      th.small-12 {
+        display: inline-block !important;
+        width: 100% !important;
+      }
+
+      .columns td.small-12,
+      .column td.small-12,
+      .columns th.small-12,
+      .column th.small-12 {
+        display: block !important;
+        width: 100% !important;
+      }
+
+      table.body td.small-offset-1,
+      table.body th.small-offset-1 {
+        margin-left: 8.33333% !important;
+        margin-left: 8.33333% !important;
+      }
+
+      table.body td.small-offset-2,
+      table.body th.small-offset-2 {
+        margin-left: 16.66667% !important;
+        margin-left: 16.66667% !important;
+      }
+
+      table.body td.small-offset-3,
+      table.body th.small-offset-3 {
+        margin-left: 25% !important;
+        margin-left: 25% !important;
+      }
+
+      table.body td.small-offset-4,
+      table.body th.small-offset-4 {
+        margin-left: 33.33333% !important;
+        margin-left: 33.33333% !important;
+      }
+
+      table.body td.small-offset-5,
+      table.body th.small-offset-5 {
+        margin-left: 41.66667% !important;
+        margin-left: 41.66667% !important;
+      }
+
+      table.body td.small-offset-6,
+      table.body th.small-offset-6 {
+        margin-left: 50% !important;
+        margin-left: 50% !important;
+      }
+
+      table.body td.small-offset-7,
+      table.body th.small-offset-7 {
+        margin-left: 58.33333% !important;
+        margin-left: 58.33333% !important;
+      }
+
+      table.body td.small-offset-8,
+      table.body th.small-offset-8 {
+        margin-left: 66.66667% !important;
+        margin-left: 66.66667% !important;
+      }
+
+      table.body td.small-offset-9,
+      table.body th.small-offset-9 {
+        margin-left: 75% !important;
+        margin-left: 75% !important;
+      }
+
+      table.body td.small-offset-10,
+      table.body th.small-offset-10 {
+        margin-left: 83.33333% !important;
+        margin-left: 83.33333% !important;
+      }
+
+      table.body td.small-offset-11,
+      table.body th.small-offset-11 {
+        margin-left: 91.66667% !important;
+        margin-left: 91.66667% !important;
+      }
+
+      table.body table.columns td.expander,
+      table.body table.columns th.expander {
+        display: none !important;
+      }
+
+      table.body .right-text-pad,
+      table.body .text-pad-right {
+        padding-left: 10px !important;
+      }
+
+      table.body .left-text-pad,
+      table.body .text-pad-left {
+        padding-right: 10px !important;
+      }
+
+      table.menu {
+        width: 100% !important;
+      }
+
+      table.menu td,
+      table.menu th {
+        width: auto !important;
+        display: inline-block !important;
+      }
+
+      table.menu.vertical td,
+      table.menu.vertical th,
+      table.menu.small-vertical td,
+      table.menu.small-vertical th {
+        display: block !important;
+      }
+
+      table.menu[align="center"] {
+        width: auto !important;
+      }
+
+      table.button.small-expand,
+      table.button.small-expanded {
+        width: 100% !important;
+      }
+
+      table.button.small-expand table,
+      table.button.small-expanded table {
+        width: 100%;
+      }
+
+      table.button.small-expand table a,
+      table.button.small-expanded table a {
+        text-align: center !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      table.button.small-expand center,
+      table.button.small-expanded center {
+        min-width: 0;
+      }
+    }
+
+    /* GG custom media queries */
+    @media only screen and (max-width: 596px) {
+
+      table.email-card th.email-card__occurrence .email-card__source-icon-grouping {
+        padding-left: 12px;
+      }
+
+      table.email-card th.email-card__occurrence .alert-occurrence__source {
+        padding-left: 12px;
+      }
+
+      /* Assigation email */
+
+      table.email-card td.email-card__assignation-buttons.column {
+        padding: 0 12px 12px 12px !important;
+        text-align: left !important;
+      }
+
+      /* END Assignation email*/
+
+      /* Email card */
+
+      table.email-card th.email-card__infos.columns {
+        padding: 12px 0 12px 12px !important;
+      }
+
+      table.email-card th.email-card__buttons.columns {
+        padding: 12px !important;
+      }
+      /* END email card */
+      /* Button responsive behavior */
+
+      .primary-button.responsive {
+        width: 100% !important;
+        padding: 12px 0px !important;
+
+      }
+
+      /* End Button responsive behavior */
+
+      table.email-card__wrapper th.email-card__item {
+        width: 100% !important;
+      }
+
+    }
+    /* END GG custom media queries */
+  </style>
+</head>
+
+<body style='width: 100% ! important; min-width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; background-color: #edeff2; margin: 0; padding: 0'>
+  
+  <table class="body full-width" data-made-with-foundation style='border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; background: #edeff2; height: 100%; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; border-radius: 8px; margin: 0; padding: 0'>
+    <tr style="vertical-align: top; text-align: left; padding: 0">
+      <!-- The class, align, and <center> tag center the container -->
+      <td class="float-center email-wrapper" align="center" valign="top" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: center; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; float: none; margin: 0 auto; padding: 0 0 16px'>
+        <center style="width: 100%; min-width: 580px">
+          <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="16px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 16px; font-size: 16px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+          <!-- header -->
+          
+<!-- header -->
+<table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="26px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 26px; font-size: 26px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+
+<!-- <center> -->
+  <table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0">
+    <tbody>
+      <tr style="vertical-align: top; text-align: left; padding: 0">
+        <td class="gg-logo x-padding-24" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; width: 124px; margin: 0; padding: 0 24px'>
+          <img width="124" valign="top" src="https://static.gitguardian.com/gg-logo-mail.png" alt="gg-logo" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+<!-- </center> -->
+
+<table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="26px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 26px; font-size: 26px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+
+<!-- header -->
+
+          <table align="center" class="container float-center radius-8" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: inherit; background: white; width: 580px; float: none; border-radius: 8px; margin: 0 auto; padding: 0">
+            <tr style="vertical-align: top; text-align: left; padding: 0">
+              <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="36px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 36px; font-size: 36px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                <!-- content -->
+                
+
+<!-- secrets title section  -->
+
+
+<table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0">
+  <tbody>
+    <tr style="vertical-align: top; text-align: left; padding: 0">
+      <th class="x-padding-24 " style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 24px'>
+        <h1 class="h2 bold nocut email-title" style='color: inherit; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: 700; text-align: left; line-height: 26px; word-wrap: normal; font-size: 20px; word-break: normal; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; -o-hyphens: none; hyphens: none; margin: 0; padding: 0'>
+          <span class="blue-500" data-cy="incident_count" style="color: #4e73db">5</span> internal secret
+           incidents detected!
+        </h1>
+      </th>
+    </tr>
+  </tbody>
+</table>
+
+<table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+
+<!-- END secrets title section  -->
+
+<!-- secret card  -->
+
+<table class="full-width" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; padding: 0">
+  
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+      <table class="row email-card" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+        <tr style="vertical-align: top; text-align: left; padding: 0">
+          <th class="small-12 large-12 first columns email-card__wrapper-global" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 564px; margin: 0 auto; padding: 0 24px'>
+            <table class="email-card__wrapper" style="border-spacing: 0; border-collapse: separate; vertical-align: top; text-align: left; border: 1px solid #e9edf5; border-radius: 8px; width: 100%; padding: 0">
+              <tr style="vertical-align: top; text-align: left; padding: 0">
+                <th style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__infos email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 12px 0 12px 12px'>
+                        <p style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                          <span class="blue-500 bold h2" style="font-size: 20px; line-height: 26px; font-weight: 700; color: #4e73db">OpenRouter API Key</span>
+                          
+                        </p>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="4px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 4px; font-size: 4px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                        <p class="gray-900 h4" style='color: #a6afbf ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'><span class="tt-lowercase" style="text-transform: lowercase">2026-02-18 09:04:00 PM</span> (UTC)</p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__buttons email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7qctykkuYXP7LnMXQSiPEKt5AnmW4ol6yubEPa6wn0PnvO2xb0OntsQirvJ0n6OBhHAEK-2Fa-2FIr9LylmsLPMr7jE-3DHcPH_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L-2BlOQWBbpw-2BW-2FblmvO-2FsK8Mi6febDM9dycn11EZBNwLO0PJpum6QiyiwpSyfOAA5dCD5GawnW-2Fs1lPvFKdqmPw3TTYf630X8s98lfUH-2BoM-2B4mMggMdCR-2FXmSOaqmADbQU8jPWDOQaxvSRXJKVy1OujiqyROUK9qS3dl6KTinlx0-2B7KANZQqTkXVXqXf-2Fsl6No5zcNvWUdrcQJLK2B4tlDW8-3D" class="primary-button break-button" data-cy="see_on_gitguardian" style='color: white; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; text-decoration: none; background: #4e73db; border-radius: 4px; display: inline-block; border: 1px solid #e9edf5; width: 100%; margin: 0; padding: 8px 0'>See on GitGuardian</a>
+                      </th>
+                    </tr>
+                  </table>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit 272e392)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYEaBkVUEZFry3eIq8zhPXRLlm3Dr8P1idW8yTK3-2FtK-2BDvzhDHg9csHaM6QSOIJQxCNiUfQCspBFD54wNtgq4W9HHdgYFDF-2F3sUnG2NFn0Xyfy-2B1KwcT5o4VvzCfePP218CFKPtFwmEQLE3IoB28sx9Sd2uUOyE32XBDkgfuHuHCXI7aU_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L4Vr-2BZEmvEF6UrXU9cEUKn9SC3ga56DFaehukoKjUk11EmnFiMnh-2FuB8PkjgZZa5HjYQtzBLkJiXXz0UYcelCH02TfowR-2BTm60XxriC7ZW2u44NrljihPblLGnl2QFfjmTI-2BTlcFCpEsKV-2FL8qHQPKfDMbQ18pL7dSRP-2B7R0U4Q3NxzNXqUjEGOxSgANj6W-2BRe6X3HOFoHwk01267BX8y2A-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit add32c2)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYAn4AA0ow7FkyDPvzuVKV9dD3ml0Ov1QzAXf-2Fj40HA0i7hnU8K5OJuqKjvlJAX-2FSwEgucsUPZaxKSnnHOmnBgffQ3A3Z8eR0cgoI1JP6qnJyfNtAiPnStSxFHjLons1uZ20AsuvElOrkfQtwEWt40ZSFUrGqdPxksf89WF4cloa7pvfX_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L1ma-2FHwo5yXPhA-2FemNQCbT5iAz95RKxFiztmIDgcXxigKv4zoDvkSC48mgVJ88WQueW2BNh5hj-2BtUlcy1f9INmMEHLSbAKq-2Fdr13juJNulZxzOQ03bpPeAsT2a0np3Kw9LZiGKZD5XW39FDOy-2FZPENZ967jWWfBLSGcOQMABEL4Q9STpqnd9zr-2BNhqCWRjtAKjz-2BCfsZ3RLL2asiqH6N9hA-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 12px'>
+                        
+                        <p class="darkgray-100 h6" style='color: #8690a7 ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 14px; font-size: 12px; margin: 0; padding: 0'> And 1 other
+                          occurrence </p>
+                        
+                      </th>
+                    </tr>
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </th>
+              </tr>
+            </table>
+          </th>
+          <th class="expander" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; visibility: hidden; width: 0; margin: 0; padding: 0 ! important'></th>
+        </tr>
+      </table>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+  
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+      <table class="row email-card" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+        <tr style="vertical-align: top; text-align: left; padding: 0">
+          <th class="small-12 large-12 first columns email-card__wrapper-global" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 564px; margin: 0 auto; padding: 0 24px'>
+            <table class="email-card__wrapper" style="border-spacing: 0; border-collapse: separate; vertical-align: top; text-align: left; border: 1px solid #e9edf5; border-radius: 8px; width: 100%; padding: 0">
+              <tr style="vertical-align: top; text-align: left; padding: 0">
+                <th style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__infos email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 12px 0 12px 12px'>
+                        <p style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                          <span class="blue-500 bold h2" style="font-size: 20px; line-height: 26px; font-weight: 700; color: #4e73db">PostgreSQL Credentials</span>
+                          
+                        </p>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="4px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 4px; font-size: 4px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                        <p class="gray-900 h4" style='color: #a6afbf ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'><span class="tt-lowercase" style="text-transform: lowercase">2026-02-18 09:04:00 PM</span> (UTC)</p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__buttons email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7qctykkuYXP7LnMXQSiPEKt5AnmW4ol6yubEPa6wn0PnvO2xb0OntsQirvJ0n6OBhNHA9-2Bx5yNQDiEG7N0GRNSc-3D_GKA_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1LxFFMO6jUayKQGYAe7bZCUCVnk90YzeI2ya3QctGOzeFa8S2vtZqerufj1vhFXrRCudFSgt8H3bFro4q0MF483EBUJtuiWvva7u0ZG48jr5WO1glAfj4T-2BVX5T3hHGCvkc4lTH-2Bt2zxutAl-2BX6OeYTSGZy-2BfsW0nuBI9i7JrtVMvn3S-2BuL7j8y-2BiuaziTfdqramSLRy-2FZsbNrXpl5WN6ty8-3D" class="primary-button break-button" data-cy="see_on_gitguardian" style='color: white; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; text-decoration: none; background: #4e73db; border-radius: 4px; display: inline-block; border: 1px solid #e9edf5; width: 100%; margin: 0; padding: 8px 0'>See on GitGuardian</a>
+                      </th>
+                    </tr>
+                  </table>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit 2eadd99)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYHXoHq5gUjz6JY41yI8QC8LScvJeAMmQ6IUfhnXp5yiZm6SjeJPwZiKKoBq01DKCWEeJkla20jLN3-2BulDV1xkI5KvM9l9ez2SmBHuP7bWzMV1zNqj-2Fvdu-2F2CQ5p1tk6Lta5xc-2BkZEdjesSy1nNcj6J0IEpRfZMjChuktxGpA6S-2BAAVZu_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L3qcV0nNQRLE9STOxw2KvqAxH-2FJJ3qtBd7VhtfWhlEcBzqN7Sjg1T3esOseeYZkBEXW4cZO2pRkWiUFVWdiT5Jil-2B-2F3nF2C2QCJAEDdC70FGwFTBpr4foZLzyYcjKXvc-2BbI8zWQadzBdzUDT-2BM0M-2BbPs9e7ZMgDX3nSHKBT3A8oFX7e7oANaNppHRhe7CtVFyJ3AbStcJPX8Iij7Km7bsnQ-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit 272e392)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYEaBkVUEZFry3eIq8zhPXRLlm3Dr8P1idW8yTK3-2FtK-2BDvzhDHg9csHaM6QSOIJQxCNiUfQCspBFD54wNtgq4W9HHdgYFDF-2F3sUnG2NFn0Xyfy-2B1KwcT5o4VvzCfePP218CFKPtFwmEQLE3IoB28sx9TYFDrdYZMfYQPrGsGNxTFUu80j_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L-2BQxrG8isElfZY0-2BTFj39eEBPY-2FlP7YToGLEyR87tiDU-2FPEJ3EPyApqEYSsYiq26LMIOHlcIvny1sw9P8XYWRn-2FlYuukEFUGsuBiosAjAnQDlFBL8S2sYehEostAaL9ZhMZ0jLf8Vc7lmjbrWCM1yrEVGLJXEPfTJ2-2B-2B2CIC9uhC-2BUeWPs9lh0qY7smpjA-2BUfhhUJ0ymNgQdCkJU0zPz7nY-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 12px'>
+                        
+                        <p class="darkgray-100 h6" style='color: #8690a7 ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 14px; font-size: 12px; margin: 0; padding: 0'> And 1 other
+                          occurrence </p>
+                        
+                      </th>
+                    </tr>
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </th>
+              </tr>
+            </table>
+          </th>
+          <th class="expander" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; visibility: hidden; width: 0; margin: 0; padding: 0 ! important'></th>
+        </tr>
+      </table>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+  
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+      <table class="row email-card" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+        <tr style="vertical-align: top; text-align: left; padding: 0">
+          <th class="small-12 large-12 first columns email-card__wrapper-global" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 564px; margin: 0 auto; padding: 0 24px'>
+            <table class="email-card__wrapper" style="border-spacing: 0; border-collapse: separate; vertical-align: top; text-align: left; border: 1px solid #e9edf5; border-radius: 8px; width: 100%; padding: 0">
+              <tr style="vertical-align: top; text-align: left; padding: 0">
+                <th style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__infos email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 12px 0 12px 12px'>
+                        <p style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                          <span class="blue-500 bold h2" style="font-size: 20px; line-height: 26px; font-weight: 700; color: #4e73db">JSON Web Token</span>
+                          
+                        </p>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="4px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 4px; font-size: 4px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                        <p class="gray-900 h4" style='color: #a6afbf ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'><span class="tt-lowercase" style="text-transform: lowercase">2026-02-18 09:04:00 PM</span> (UTC)</p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__buttons email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7qctykkuYXP7LnMXQSiPEKt5AnmW4ol6yubEPa6wn0PnvO2xb0OntsQirvJ0n6OBhBYFBdw-2Fm0zYga-2BgF0ScL4U-3Dx8xU_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L1-2Bi4H8NZ-2BUhp0HQLOHY0UtQGv2DvDHY-2BLQZxt9Tmj8X8Sin4E11ALVek6DpwINVLgsvD7NPPjTMhzaCGh4XSBqErQOkTYOlquUMGLzqoEkr-2FY7aReBntPrcDmdC0T4rnwfZ7AQ3BfkPSj8Wvzf5acQxZAQ1ULh4uc-2FW5c8PTTSVjY53HTPnOjH-2BHdYjeQdG48FfzqrEIhJrYMbOxvo-2FvqY-3D" class="primary-button break-button" data-cy="see_on_gitguardian" style='color: white; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; text-decoration: none; background: #4e73db; border-radius: 4px; display: inline-block; border: 1px solid #e9edf5; width: 100%; margin: 0; padding: 8px 0'>See on GitGuardian</a>
+                      </th>
+                    </tr>
+                  </table>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit 272e392)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYEaBkVUEZFry3eIq8zhPXRLlm3Dr8P1idW8yTK3-2FtK-2BDvzhDHg9csHaM6QSOIJQxCNiUfQCspBFD54wNtgq4W9HHdgYFDF-2F3sUnG2NFn0Xyfy-2B1KwcT5o4VvzCfePP218CFKPtFwmEQLE3IoB28sx9REgzLh-2B-2BHsK8R4H4O82niSMm7w_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L82ymoR7zVCPajnPg2gouYvFpyj9idc55DGzoR4Zbgp4j80J-2Fbve-2FybVZ8gvnDnMp91aLMDR3hSOSIDLHzXbws4S0eGilsHNX0SiYstnt4kL-2FBmWFLGE-2Bv21Idg1d-2B8hxCazb1AAsbZexn4-2FGSZg2iwYDfMaohqiwGw2-2Biyrbqsy6WbkzIKWH783ZxVI3smaT-2BCvz2LDVR211Ma4hqj3a5E-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit 2eadd99)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYHXoHq5gUjz6JY41yI8QC8LScvJeAMmQ6IUfhnXp5yiZm6SjeJPwZiKKoBq01DKCWEeJkla20jLN3-2BulDV1xkI5KvM9l9ez2SmBHuP7bWzMV1zNqj-2Fvdu-2F2CQ5p1tk6Lta5xc-2BkZEdjesSy1nNcj6J06YbmAPFRBtr9JxyhasFK2JbhG_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L4q75bfJsul3qlBw2vYZYvUjuM-2FrebCbcVT5-2BYngSUVjK6pDecPLy1IYUxKazqOuhRZuoTYcuJks283YeZdboTbkzUbSQ-2FzhRu88tMV4QvW1KfxRuNLlwbOjLjk6xU4sbRtcBe8G-2BMMr9tGwEDPZNh62VgdV-2ByJEkjqsVPedzEwSOvCfpzW4C1jv7PGw-2BD48csO1dUNvNEfMO7YxLC7iCvw-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 12px'>
+                        
+                        <p class="darkgray-100 h6" style='color: #8690a7 ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 14px; font-size: 12px; margin: 0; padding: 0'> And 1 other
+                          occurrence </p>
+                        
+                      </th>
+                    </tr>
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </th>
+              </tr>
+            </table>
+          </th>
+          <th class="expander" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; visibility: hidden; width: 0; margin: 0; padding: 0 ! important'></th>
+        </tr>
+      </table>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+  
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+      <table class="row email-card" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+        <tr style="vertical-align: top; text-align: left; padding: 0">
+          <th class="small-12 large-12 first columns email-card__wrapper-global" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 564px; margin: 0 auto; padding: 0 24px'>
+            <table class="email-card__wrapper" style="border-spacing: 0; border-collapse: separate; vertical-align: top; text-align: left; border: 1px solid #e9edf5; border-radius: 8px; width: 100%; padding: 0">
+              <tr style="vertical-align: top; text-align: left; padding: 0">
+                <th style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__infos email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 12px 0 12px 12px'>
+                        <p style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                          <span class="blue-500 bold h2" style="font-size: 20px; line-height: 26px; font-weight: 700; color: #4e73db">Cohere API Key</span>
+                          
+                        </p>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="4px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 4px; font-size: 4px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                        <p class="gray-900 h4" style='color: #a6afbf ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'><span class="tt-lowercase" style="text-transform: lowercase">2026-02-18 09:04:00 PM</span> (UTC)</p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__buttons email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7qctykkuYXP7LnMXQSiPEKt5AnmW4ol6yubEPa6wn0PnvO2xb0OntsQirvJ0n6OBhEotZFtDPz8gOIArrdOlAUQ-3DDl0l_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1Lzg3OkloJvP4o3TOwFggCX7uQAFxdox5PfwNnoaGd9yS1Z-2BP329Y9KviFeHWR1cpGZqUe53b2okre3nxt6cjMcJyi65cvh2uql0UjGayjd7iPQhTTjsvWAc03WQt7W1R70OZRObUqAtZUiVMTlor-2BLmr5o2XdbDOyJraTe1Azfin5flcAA2tnpni7JymxYNC2Ce5B-2FCHlCq5gwrbf4BAb7g-3D" class="primary-button break-button" data-cy="see_on_gitguardian" style='color: white; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; text-decoration: none; background: #4e73db; border-radius: 4px; display: inline-block; border: 1px solid #e9edf5; width: 100%; margin: 0; padding: 8px 0'>See on GitGuardian</a>
+                      </th>
+                    </tr>
+                  </table>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit add32c2)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYAn4AA0ow7FkyDPvzuVKV9dD3ml0Ov1QzAXf-2Fj40HA0i7hnU8K5OJuqKjvlJAX-2FSwEgucsUPZaxKSnnHOmnBgffQ3A3Z8eR0cgoI1JP6qnJyfNtAiPnStSxFHjLons1uZ20AsuvElOrkfQtwEWt40ZTghoPmGLvPIYlSsU0j9YjVRdHP_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L3j2CK-2FRIuvmDqfnEOxk8z94jjv29ohedT3D6-2Fb9E78wS7vbN8LEjDE1cDyOq3GrsUG3vBUzg-2FVBwukSwlXGRQWFdpWdmjIP3AbMJW090eC8Qr-2BBd0QuW2VQoXCnACcozIT7KwLIFJGdjf3JtYLRknUq8VU-2B71AxB3ISKuwgWIEL3Q1hRJonm1-2BJyReLTa-2Bwo4eYlVBX7gYIzykaTQs2PDs-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit 272e392)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYEaBkVUEZFry3eIq8zhPXRLlm3Dr8P1idW8yTK3-2FtK-2BDvzhDHg9csHaM6QSOIJQxCNiUfQCspBFD54wNtgq4W9HHdgYFDF-2F3sUnG2NFn0Xyfy-2B1KwcT5o4VvzCfePP218CFKPtFwmEQLE3IoB28sx9Qw-2BEL-2BK8OW6wY4veBbG74j_73k_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L3mDxVPErDjsPzEWW65v2Sp-2Bu8U9wTzZk3pq0YOgStzof-2FZSUtqSi6khZdlPH-2Bez1D3N1fii8zMNStOxpKHDzCoWILyGWwy2w16oZpWS9EJ1ESdFvTGvlDSUtDS6lghXRzqCXdAC9cof8TEBpRFkTzmbizVDsqkmY-2Brei4ro14E-2BqDvFY-2B0T3VoFagGNU0VTBrZwT78SGSlL2GO8zu03LuI-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 12px'>
+                        
+                        <p class="darkgray-100 h6" style='color: #8690a7 ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 14px; font-size: 12px; margin: 0; padding: 0'> And 1 other
+                          occurrence </p>
+                        
+                      </th>
+                    </tr>
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </th>
+              </tr>
+            </table>
+          </th>
+          <th class="expander" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; visibility: hidden; width: 0; margin: 0; padding: 0 ! important'></th>
+        </tr>
+      </table>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+  
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+      <table class="row email-card" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+        <tr style="vertical-align: top; text-align: left; padding: 0">
+          <th class="small-12 large-12 first columns email-card__wrapper-global" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 564px; margin: 0 auto; padding: 0 24px'>
+            <table class="email-card__wrapper" style="border-spacing: 0; border-collapse: separate; vertical-align: top; text-align: left; border: 1px solid #e9edf5; border-radius: 8px; width: 100%; padding: 0">
+              <tr style="vertical-align: top; text-align: left; padding: 0">
+                <th style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__infos email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 12px 0 12px 12px'>
+                        <p style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                          <span class="blue-500 bold h2" style="font-size: 20px; line-height: 26px; font-weight: 700; color: #4e73db">OpenAI Project API Key v2</span>
+                          
+                        </p>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="4px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 4px; font-size: 4px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                        <p class="gray-900 h4" style='color: #a6afbf ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'><span class="tt-lowercase" style="text-transform: lowercase">2026-02-18 09:04:00 PM</span> (UTC)</p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__buttons email-card__item" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7qctykkuYXP7LnMXQSiPEKt5AnmW4ol6yubEPa6wn0PnvO2xb0OntsQirvJ0n6OBhOiaPG3UWZSlaSoF-2B7TWj1o-3DMRTy_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L0wHtzWxmzhPxaAewjFS72OUQ6BhYD9FwW9SgbgK4l45Hl3qFCNX-2BYJ99HvcE5qbqoLNWv6JAPpy3WYXxE4ZZFm9h-2FV8bJYOFSRnEJ3Ut9-2BQ6G0OzuuwzOJQzOJB0jx8SVKne8gg-2FZZ-2Ff410BLLyTX31hh4Y3dq0kvSNE0RtuHm4DS3OPpAR9XTT7Px4pBrakEgy596NdMmJA-2BcHehSDa4k-3D" class="primary-button break-button" data-cy="see_on_gitguardian" style='color: white; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; text-decoration: none; background: #4e73db; border-radius: 4px; display: inline-block; border: 1px solid #e9edf5; width: 100%; margin: 0; padding: 8px 0'>See on GitGuardian</a>
+                      </th>
+                    </tr>
+                  </table>
+                  <table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: table; padding: 0">
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit 272e392)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYEaBkVUEZFry3eIq8zhPXRLlm3Dr8P1idW8yTK3-2FtK-2BDvzhDHg9csHaM6QSOIJQxCNiUfQCspBFD54wNtgq4W9HHdgYFDF-2F3sUnG2NFn0Xyfy-2B1KwcT5o4VvzCfePP218CFKPtFwmEQLE3IoB28sx9Q4eCOm0ERFSxLUzq6IIngpA05T_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1Lwcf1sfMtOlt2yTovniTHvCUbJZJIovFHRY0zLCuoBmc8VMU6Koajx9fh4jvKrUIgbG3pR0JOP936bL4H1rkyZZV5gZFBs1HRGErrw7ojFQfHH9LRGYi6zucEgpc5Hn7S7hmCEVHuUXjCOHZeP9bkT4BbbvEwzrsz-2B0bh2xginUl4InleLP-2BQQLlljuJ5LzWDiraHOxa9Zhj8eigXTw8VcI-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="small-12 large-6 first columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 50%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <p class="h4" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 18px; font-size: 14px; margin: 0; padding: 0'>
+                          <span class="email-card__source-icon-grouping v-align-middle" style="vertical-align: middle; width: 12px; display: inline-block; margin-right: 1px">
+                            
+                              <img width="12" height="11" src="https://static.gitguardian.com/dark-github-icon.png" alt="github-icon-icon" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block">
+                            
+                          </span>
+                          Muhammad-Ali-Asghar-Rizwa&#8230;
+                          
+                            <span class="h6 letter-spacing-sm gray-900" style="font-size: 12px; line-height: 14px; letter-spacing: 0.6px; color: #a6afbf ! important">
+                              (commit add32c2)
+                            </span>
+                          
+                        </p>
+                      </th>
+                      <th class="small-12 large-3 last columns email-card__occurrence email-card__item x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; width: 25%; margin: 0 auto; padding: 0 0 4px 12px'>
+                        <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7hRs0fVemlAwI070-2FJ6tzX9s3imEcq30nrOkiGUj6ItXroIoONdhTeJXhZmZMreDNSh4NUNSGESrLkVYEuoUwVP7n6HszLoCPtk05HR7YZkbmYofrqejJi7Cs98p3iGnYAn4AA0ow7FkyDPvzuVKV9dD3ml0Ov1QzAXf-2Fj40HA0i7hnU8K5OJuqKjvlJAX-2FSwEgucsUPZaxKSnnHOmnBgffQ3A3Z8eR0cgoI1JP6qnJyfNtAiPnStSxFHjLons1uZ20AsuvElOrkfQtwEWt40ZTzFLhCe45UW0zl9CkwMT5cu_-7_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1LzV4BQLCgzUNlyRRHs-2BQd5e08Icar8zQTTPp3EOBn8baRjCPkCe2gOeuJ3ck1ftB20xp7OReES-2Fpg7PDvvvmnGnCvRfju2H3J14fvmMj-2BaE3CMMNttzNhwzMZ7Rsa2MPM8uC5BN-2FFMYcUI8rAuOWKP7scotDxxfAXMMJ8LHX9zq6DP3wTx7TBm5bhWHX0NQmPu7geP1jnd2IOcabWRCvrhk-3D" data-cy="see_on_source" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                          <span class="h6-tiny tt-uppercase letter-spacing-sm blue-500 v-align-middle alert-occurrence__source" style="font-size: 11px; line-height: 12px; text-transform: uppercase; letter-spacing: 0.6px; color: #4e73db; vertical-align: middle">
+                            See on GitHub
+                          </span>
+                        </a>
+                      </th>
+                    </tr>
+                    
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <th class="x-padding-12" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 12px'>
+                        
+                        <p class="darkgray-100 h6" style='color: #8690a7 ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 14px; font-size: 12px; margin: 0; padding: 0'> And 1 other
+                          occurrence </p>
+                        
+                      </th>
+                    </tr>
+                    <tr style="vertical-align: top; text-align: left; padding: 0">
+                      <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+                        <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </th>
+              </tr>
+            </table>
+          </th>
+          <th class="expander" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; font-size: 16px; visibility: hidden; width: 0; margin: 0; padding: 0 ! important'></th>
+        </tr>
+      </table>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+  
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td class="x-padding-24" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 24px'>
+    </td>
+  </tr>
+</table>
+
+<!-- END secret card  -->
+
+<!-- --------------------------------  -->
+
+<!-- policy breaks title section  -->
+
+<table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="20px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 20px; font-size: 20px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+
+                <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="32px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 32px; font-size: 32px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+              </td>
+            </tr>
+          </table>
+          <!-- footer -->
+          
+<table class="footer-top full-width" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; background-color: #edeff2; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0'>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="40px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 40px; font-size: 40px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+      <p align="center" valign="top" class="float-center footer-top-text h4 text-center" style='color: #8690a7 ! important; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 18px; font-size: 14px; margin: 0; padding: 0 16px'>
+        <a class="basic-link" href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7lDU7U9XURxMmTxq6GqfYD6iHhwjGaLJTnkvufrgCXiT3czT_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1LxDQ8QhV-2BtFb2TjPja-2FtPDLv6TkGPTMqvnFXW30pTiblALH1-2FVYceP-2FbNr3GEbv3iNC6q4etT8DA7911B5CEg7B0yz73YraXcd-2BeJTjbHQ-2FgAPaWYVUMeOiHvlqXnHHwPegusw6-2F3ubYqMTvpV1DiIKtRI-2FjJ0pDBmk1N1i9UeEEZBYEmWcFds55UeCYfj99TQbL1JYNwNCrKzUe5niuqlg-3D" style='color: #4e73db; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: underline; display: inline-block; margin: 0; padding: 0'>GitGuardian</a>
+        is an automated secrets detection service.
+        <br>
+        We help developers and security teams secure the modern software
+        development process.
+      </p>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="16px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 16px; font-size: 16px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+      <center style="width: 100%; min-width: 580px">
+        <table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0">
+          <tr style="vertical-align: top; text-align: left; padding: 0">
+            <th align="center" class="float-center footer-social-item footer-social-icon" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; font-size: 16px; width: 24px; float: none; margin: 0 auto; padding: 8px'>
+              <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7jECaQT-2F2dnq57Tx46Ikk-2FMasyPTkhTQHz-2Ba47nk1IddglHy_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L-2BTDAsbFlOYDbMR4vAYrbr4zhAux3V7Jd-2FTS1SJ8fZXsHpiTM6dAdWOdgOvAQsYavYDNNI-2FXGoED7hDbjT0b-2FTB43-2FDmhHVDtcMxEbb-2Fc82uwtZ16Kb5NvVsF9MGFVjE-2BUx8M2vMRmiQT76-2B-2Bag7ixLZ6imxhaS6lUswRbuRJ9vSXijOdl8S5SUPDJ-2BaJ06bnkNWYBlIFJ2MiU9Uo0KK0S4-3D" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                <img width="16" src="https://static.gitguardian.com/twitter-social-emails.png" alt="twitter" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none">
+              </a>
+            </th>
+            <th class="float-center footer-social-item footer-social-icon" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; font-size: 16px; width: 24px; float: none; margin: 0 auto; padding: 8px'>
+              <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7nayI0WNVorijcaLYTiMpNiPOV-2Btt5FMM239qU1pMffCJj3C_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L25naJn97flnvwivhIoNPa-2B3frAMvxT13b5xBPjkA8b8PHV5gB1EqDVZY837sAV-2BipK-2BP-2BI8SpjbbzqdErUkFjEZqkvu9XhYTQnJiT2s8sQh6wWxGqm7HAw-2FbYWk1h9N518lFhmIFaUaT-2FAOxYyFRw4BLO3yd-2BOEAGd6aG6N6Wb0-2BZkHtZpMQMFvZfMUXgTHnBN4VO41ZYijTjC-2FxvzKNLM-3D" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                <img width="16" src="https://static.gitguardian.com/github-social-emails.png" alt="github" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none">
+              </a>
+            </th>
+            <th class="float-center footer-social-item footer-social-icon" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.3; font-size: 16px; width: 24px; float: none; margin: 0 auto; padding: 8px'>
+              <a href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7qvt63Izd6uJM-2BuhiIcZNMF6c5-2F1EmiHIJx-2FCNO96hvTExrLHiA1wMjAheeqr3zdrQ-3D-3DjlFF_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L3zRt0GQMVzbVRCHf4uNFRnrqrGl0YXoK9FLsMil-2Fn3HW43NT16L4rVL92zeUUDVPoU0NQnfZ-2FiUa3iWs1Vy1-2FIQv9nlFJ01vt5HakHTH2dAeHmtZjL-2Bao8MZqy3aCuoXFkiphogflCQ7mtSAgs9iw6XZfODC7MONJK2UfaQ4CH0BhmlByeOQb4Oz9uuStHITy1-2B9lHRLfc1pL02Gql540c-3D" style='color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: none; margin: 0; padding: 0'>
+                <img width="16" src="https://static.gitguardian.com/linkedin-social-emails.png" alt="linkedin" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none">
+              </a>
+            </th>
+          </tr>
+        </table>
+      </center>
+      <table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="8px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 8px; font-size: 8px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+        
+          <hr class="footer-divider" style="width: 400px; border-top: 1px solid #c4cad4">
+          
+<table class="spacer float-center" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 100%; float: none; margin: 0 auto; padding: 0">
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td height="16px" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 16px; font-size: 16px; mso-line-height-rule: exactly; margin: 0; padding: 0'></td>
+  </tr>
+</table>
+
+
+<table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0">
+  <tbody>
+  <tr style="vertical-align: top; text-align: left; padding: 0">
+    <td class="x-padding-20" style='word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: #1b2d55; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.3; font-size: 16px; margin: 0; padding: 0 20px'>
+      <small class="darkgray-100" style="font-size: 80%; color: #8690a7 ! important">
+        You can change your email preferences <a class="primary basic-link" href="https://url7224.mail.gitguardian.com/ls/click?upn=u001.ZdUBw6PTdU1gpx-2BsQOq-2B7qctykkuYXP7LnMXQSiPEKt5AnmW4ol6yubEPa6wn0PnGfojMgGF7KfKlyIHH8-2FKShbA9V2Xk-2B17fnJY29j3T2oQgrh2ladSS5lhXV6gqYjWlGzU_sxC1nYq-2FIXVdVTSTewiWqp0ao0lwjUb3yDJzUekCgFSNZCQ7eGckRhmxDTNef9vl-2Fb9uFNtUX-2FKoVRGuMqV3pWVfkI5v0CRTqqpZ8Ydxs0wC-2FmQprraq4EDEO2Sr0-2Bon0q2DPiygWUqz2MFE8DA1L1x565yY20ESxWoXdX-2FgKtjj-2Fc9l6gEEeEPiS9AcXBnEzaxGNCrrjwi-2BeQepIhBX3kV2lFWo1uLwVffBfRzwM42FjqVgWD3YF7-2BfgGNPFIU2XTDZxXqgZw7kGKBNzNB3gglrjyooX6rutiESfpW3-2BbBw0YMYoNw-2Fb2tAJ-2BweeMxcyqVg7zzE1VxHOqNTf05a8AB4buxv4romU0fOywJU-2FPI-3D" data-cy="link" style='color: #4e73db; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.3; text-decoration: underline; display: inline-block; margin: 0; padding: 0'>here.</a>
+      </small>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+        
+        </center>
+      </td>
+    </tr>
+  </table>
+
+  
+<img src="https://url7224.mail.gitguardian.com/wf/open?upn=u001.rEScCwybXwXxxr8Ttg0WDeRa-2FKT7YdpqrT7Fdnm7BscrTAfQKEbo0mZo7bUquSJGm0aVPhoRlkvqBx4cojjm7eS5xHb6ilqNm-2BC2PGB7SrbbTYJrzDLQoaJuOudHzx25rI4HrR5ukaUboSOlqhmaPvHaJx8Oei-2BzovS4prgYUDU0P9HBiDP1IkUxpdIUkqGWq58CbIAk42ZNOj6C128jfqcW04oaz9TygjX2-2BA8JlQF4wXjESzyIup9ltvIcaPkfDfpef3dZRt3q6XKLBr4ZdqSJWk8cVnPCkeGiXKzdPY6pb4ipzSnsdkYyiwCaIS-2BycJ1PwY79kxSSqP5E7owD91sJq448yDhc-2B-2BEgFvKqzVRLgbpEbf5mHf5SeSpfW8WV" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+
+</html>
+
+
+---
+Email processed by GmailWatcher on 2026-02-24 23:51:16

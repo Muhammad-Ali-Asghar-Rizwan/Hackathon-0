@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002512",
+  "original_file": "OpenRouter Security Alert: API Key Exposed",
+  "received_from": "OpenRouter <security@openrouter.ai>",
+  "received_date": "Wed, 18 Feb 2026 21:25:53 +0000",
+  "email_subject": "OpenRouter Security Alert: API Key Exposed",
+  "email_body": "IMPORTANT: One of your OpenRouter API keys has been found exposed in a public repository.\n\nThe affected key ends in: ...a1c8\n\n\n\nLocation found: https://github.com/Muhammad-Ali-Asghar-Rizwan/Phase-II-TODO-Full-Stack-Web-Application_TO_Backend/blob/2eadd99d29965ac14e6ce84db92cdb352e907825/.env\n\n\n\nWe have disabled this API key and it can no longer be used.\n\n\n\nNEXT STEPS:\n\n1. Please create a new API key at: https://openrouter.ai/keys\n\n2. Update any applications using this key\n\n\n\nFor security best practices, please ensure your API keys are never committed to public repositories.\n\n\n\nIf you need any assistance, please contact support@openrouter.ai\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:51:15",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:12.997644"
+}

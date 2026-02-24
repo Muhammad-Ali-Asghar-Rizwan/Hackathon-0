@@ -1,0 +1,12 @@
+{
+  "email_id": "email_20260225_002513",
+  "original_file": "Security alert",
+  "received_from": "Google <no-reply@accounts.google.com>",
+  "received_date": "Mon, 23 Feb 2026 19:17:13 GMT",
+  "email_subject": "Security alert",
+  "email_body": "[image: Google]\n\nAuthenticator app added as sign-in step\n\n\n\n\n\nprogramingmaster22@gmail.com\n\nIf you didn't add the Authenticator app, someone might be using your\n\naccount. Check and secure your account now.\n\nCheck activity\n\n<https://accounts.google.com/AccountChooser?Email=programingmaster22@gmail.com&continue=https://myaccount.google.com/alert/nt/1771874233099?rfn%3D252%26rfnc%3D1%26eid%3D7798893549466151838%26et%3D0>\n\nYou can also see security activity at\n\nhttps://myaccount.google.com/notifications\n\nYou received this email to let you know about important changes to your\n\nGoogle Account and services.\n\n© 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\n\n\n\n---\nEmail processed by GmailWatcher on 2026-02-24 23:50:47",
+  "action_required": "send_email",
+  "action_description": "Send a response email",
+  "priority": "normal",
+  "generated_at": "2026-02-25T00:25:13.688555"
+}

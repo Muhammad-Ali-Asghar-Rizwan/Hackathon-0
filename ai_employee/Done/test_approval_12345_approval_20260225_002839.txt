@@ -1,0 +1,11 @@
+Approval Request
+
+Email ID: test_email_12345
+Original Subject: Test Email Subject
+Received From: sender@example.com
+Action Required: Send a response email
+
+Content to be processed:
+This is the content that should be sent in the response email.
+
+Approve? [YES/NO]
