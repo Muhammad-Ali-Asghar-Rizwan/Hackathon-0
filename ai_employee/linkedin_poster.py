@@ -116,7 +116,7 @@ class LinkedInPoster:
                 )
 
                 self.logger.info(log_entry)
-                print(f"Successfully posted to LinkedIn: {content[:50]}{'...' if len(content) > 50 else ''}")
+                print("LinkedIn post successful")
                 return True
             else:
                 error_msg = f"Failed to post to LinkedIn: {response.status_code} - {response.text}"

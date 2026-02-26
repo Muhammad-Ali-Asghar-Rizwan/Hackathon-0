@@ -1,7 +1,7 @@
 import os
 import sys
 from pathlib import Path
-
+from linkedin_poster import post_to_linkedin
 # Add the current directory to path
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -75,6 +75,9 @@ def test_dashboard():
     except Exception as e:
         print(f"- Dashboard test error: {e}")
         return False
+
+
+
 
 
 def main():
