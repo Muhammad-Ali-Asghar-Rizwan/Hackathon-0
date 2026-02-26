@@ -1,0 +1,28 @@
+From: Railway <hello@notify.railway.app>
+To: programingmaster22@gmail.com
+Date: Tue, 30 Dec 2025 10:05:48 +0000
+Subject: Deployment crashed for shimmering-light in wholesome-laughter!
+---
+
+Railway Logo
+
+***************
+Deploy Crashed!
+***************
+
+Uh oh. Your deployment for shimmering-light in wholesome-laughter crashed within the production environment.
+
+Restart Deployment ( https://railway.com/project/4ed729e0-c0b1-4a7f-8c89-99497eefc130/service/6e01e8de-f864-4047-8bf1-d5be23e7a53a?utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io )
+
+It might help to look at the deploy logs ( https://railway.com/project/4ed729e0-c0b1-4a7f-8c89-99497eefc130/service/6e01e8de-f864-4047-8bf1-d5be23e7a53a?id=e39228cd-f35a-47e3-ac90-9b2733f8d988&utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io ) and if you're still stuck and think we can help, feel free to reach out to us on our Discord ( https://discord.com/invite/xAm2w6g?utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io ).
+
+Regards,
+
+The Railway Team
+
+Manage email preferences ( https://railway.com/preferences?token=75d83244-3087-49e8-a95b-a488740b3b4d&preference=deployCrashedEmail&utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io )
+
+© 2025 Railway Corp. All rights reserved.
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:37:09

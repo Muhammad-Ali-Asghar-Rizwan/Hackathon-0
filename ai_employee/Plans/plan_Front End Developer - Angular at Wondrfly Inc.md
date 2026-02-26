@@ -1,0 +1,121 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Low
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Front End Developer - Angular at Wondrfly Inc. in Pakistan and 9 more new jobs
+- **From**: Indeed <donotreply@match.indeed.com>
+- **Date**: Tue, 27 Jan 2026 13:13:46 +0000
+
+## Email Content:
+Hi ALI,  It looks like your background could be a match for this Front End Developer - Angular role. Please submit a quick application if you have any interest or explore more jobs below. 
+Jobs are based on your preferences, profile and activity on Indeed &sup1;
+
+Front End Developer - Angular
+Wondrfly Inc. - Pakistan
+Rs 150,000 a month
+Easily apply
+At least 1 year leading or mentoring a technical team,. You will work on Front End development with a team of Full Stack engineers, ensuring high-quality code…
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-072be63a3fae6f82&mo=r&ad=-6NYlbfkN0CSPOMAy6zql9c-SAWuWxhL3qUdVhyo1cUtOoxk7bvS9JpVFox_s1-PpiILIoTQRQ0tf6HNF74EF080wZO3fzWPB0bmq1bbjdsoKeSIDBX6kN4pjLzB66PzsTxwDIjO7CpxsEOOR8P0k-2Y4ZuvqP4PwyJQGLfcf-gosI6yau3WDJRIb6o-6YXmEwQPaU_9_Nax5-ZW95kdiP5ZZF871cpEQQzib9ozIGakjZaZVA5aGXY4I5nyCWct1pe_Pp3wxxZ3Y5X2whcCL5m7__pecF4iDJ7QTS-Lw_dXCgI-tCPKXczBryVDvFSaOJWB3fw5Y_7aKqQc-pKSIc8kAiHSrAttHZDjZQ2ZeliAmqjkd1Z7GO3MKbA4RLk2_tQOKlHfeznyouJBsE5jN9NmFnQ1zu1ZWG9rnpbZ0M62Fp_i3yoT81anjfjH8bIvmRBI-quQfc_a84nVaCxBRG2ZuPXIGWNLQWzg9-umUk2Z9QUDW38UFlDDBH3IeIe8Lh4FQGDE0wcurtVwJ9YS4es1T8byr0MH9v9Lr29vwrYoDOHxCyqJQsKcFxIbg__9zOdSgOeHJ97yRgAQ2C3ArpdQve2ikJxcXaQBZUI1sn4-QpFBnDjQszJL6Ehkrq0l2YWFPF-ZM69kepGXIRwuiKnn6Wrr_40aDPLWKNJajjqDsdZBAlgduqA08zFTv4-6j7XLLdMTDRy7oGmQlQzuPpKhgqVv3dzZseKz0p0_x8D8QII3BsUJ_Q%3D%3D&rm=2&xkcb=SoBA6_M3o_66ZJRQgx0ObzkdCdPP&jsa=6232&camk=UoKtGZLa3XKDgJjWDxYpKA%3D%3D
+
+Full Stack Developer
+I.Q. Technologies, Inc - Pakistan
+Easily apply
+We are looking for a skilled Full Stack Developer to lead the development of web applications, digital platforms, and custom software solutions across multiple…
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-5c2612e816221e6f&mo=r&ad=-6NYlbfkN0DkVIXOXGDq3VgznYpiSBU4ixn78Z913p_hPaYZi7fC3SeYjazRURnNxZOY6I37grewiQFeRXD-ZEJ5k69J1Ly5Ee27YeM1ZLyD5sZiZZMpDNZpaS2klPtPVw3WXYKfn8yrkNQ0QDpV5QuDYWrItgsLkAzP9Pf8HOj9kRZgI5R5NL4CaPU2hqlPd_iWAFQkouaht_6hHuroWoCsfBW7i8E3ODIYl7YJ98lx2o684HF6ZatmkV1ANfmHvSfx1TZgbIvNIaph6o5j5tF5_u3H19yd38lkeejKMe-DSMJNzhRh0myuy3cKA5Bz0uquU9rGP8QimV6Diu3f4kcfea0lid2iOLNqijOu7TsQwayEf1F7BfbH8Uk5SWjXFs77yU43rC4v7qhS36EFq6p5IEzxYieGUr60mYi9OP2PVitFwnbzffmNPiz-p9gLblwNcPsh3AOi6m4NC1Auwi3oJO-971sukfPSP80wq6FS5J4l1mRq4aR4JvodwafABGXsR-Sd3G3Fi_EbJjbGqxlCTX33OVLmyk-NStg07orl-_XrbzpCastZL43khjgGXUeZJyby_GaLCoLnclz6QIiC_5BsIlMV43LIOR9pao-QB881PjpGEok-DkeZ53bAxXZMGyHDrqC0PkeT7MNp39h31NMBhWjmWfStCHIlkRjCsXxrXFDQXIPDWDw_q4NjFEPNThEklJKhQlzOLHVoj5J0tRPD2zMBN36zMPJsF5CANKOvWzxQ7Q%3D%3D&rm=2&xkcb=SoAs6_M3o_66ZJxQgx0MbzkdCdPP&jsa=6233&camk=UoKtGZLa3XLmJ8FG44pdcA%3D%3D
+
+Internal Automation Engineer (Python/AWS/Supabase) — RivetStays
+RivetStays Ontario Inc. - Pakistan
+Rs 140,000 - Rs 250,000 a month
+Easily apply
+Retool / Appsmith (or equivalent internal tools platform) *or* front-end development experience. RivetStays is hiring an *Internal Automation Engineer* to build…
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-a73e47a0ddb04a23&mo=r&ad=-6NYlbfkN0DHBNRuCbLwBDVh3hVBARPD7YvA9_DgTvaKJmXkkPPXdcM83xVO19yo2z6OylW1a9ZLJa3YYA6KPiWM_sKi8XMCquNOOUULDyDSW3Haf4azBEuCCGtEevDdR0CB_eRjDU7ccdwTAIOPvjLQLOAdil5I4jTV5AowiVv-gTFk6wW0P1RUnCHQht-bbTof-8aM_U8649Qy1cL8dO9Zgadsol2d92tK7CsYSKdfpI2ubVAklQ7-WGBe2tVD-em7K3xmOvxoOtuxPwESas9NiMw_ZcJwNnW0D4FClUZqPuVozJFJmvqlnTfZYU20l2Gt5RZ5-pWpZnoQlKgS8bFH3rzI3Z0ebKeiREnoERfGr_3gd7XpQUJ5Tx6AXLjgg4ZQHxQi1yGw0lzMBsK1VmSahx8gLjvU4qxIu5DGNQAYIXl9_TGtmrnnduIkvdA2bAAHmglJ4STcMOvyJXpxowIXuw-AtEDSYmEOf7eL5oLlvdqlSKRL20KBlNKjriofutr9K1YcJLVOi_3VialoaTqbJKoGhO5lTDtooXqn-GIQtjndvRjrtclGWzzfriHRLosvfQ2uLvvVtiSz4yqIZZWqgk0LpDYFZFADas-VuRhCZMYPeiUDsjkUAkSTM1e0oNvuD9bmhalF4z-R_7BJMsjO9PXoavjZ-bc2_vZKYhQbhLQKZO7J9FL_ozN3tkTRqNKtPlR-WV1e-0-_nzWiAU4grZWeLE94B-DtypXauq2k0cFH9uTnHg46HahKdQ4kuOqncekN6CeSvdd4gPm99GiYh_s9vDML&rm=2&xkcb=SoAx6_M3o_66ZJxQgx0VbzkdCdPP&jsa=6233&camk=UoKtGZLa3XLoAU_K_fYb0Q%3D%3D
+
+AI Automation Specialist
+DC Practice Growth LLC - Karachi
+Rs 275,000 - Rs 375,000 a month
+Easily apply
+We are looking for a highly skilled and creative *AI Automation Specialist* to join our team. Competitive compensation and flexible working arrangements.
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-ab8939614ca16822&mo=r&ad=-6NYlbfkN0ByWKzsxBEN2LBj4Oue4wo7F4ycYyEQlSrLm8-XmWJ73xPq3aFerZKH6dtkiFag9l1PmrV7pcZGW2n4RsFLa10_d5l5MDZq52128W7nLwyRa-XuzPoj1ANC5ZRkSM62B1C14Bb5M9pRxSLzBE5_WzKDpr78_5-yo8uH783dBToMVAsdfWdP-lXfrlYudCamiei8bYlnkTZbbX-GWjcRInyytj60kSe2nGFOJG8iezgYiI7CnOUyp5wglLpslkXd4sGeNpvrw2paIc-PcGE21sQUF65rd5AMsEt0FcJXQYVwvQCXfCKwD1j7cvuaK-it69YBa_5Qcr473gW3bxRsD2QfS_9SzOlML_NkuZpVrcsWan84ImaQmzS8ftFgjeQ_33DE42bkYaTV8Fht-xkPNSR954TQcobGZl50qGy_CVoeZApsre2sx7i8WdEEw5dUVe977rZ8QLvSQi5yPUnAVGkwIKBkigenWcnoDhW90zajWLknTvDy1es8kQiADQ2fhZdkZ-u5kT_FpZL7XJ0g74KwsuuIAiMVbvrbvamjZ1-mhXlHOe9lPOq8r96HXN0tCGrVIReBxi4ymzxnRGVxZZzy80_35-cfVCaQpxTr77AKXX1gjiWOcoAwTxwJwUQkamIuuFuaK3_2t4-0wqnPv357H3PZERoszCAAZmZt_oFVqUuDQYD87kljbrjrfBJ7LV_WjVed3aRZQp9VAhFN1KnezQAhkFNLTV48T8SCLZL8xQ%3D%3D&rm=2&xkcb=SoCj6_M3o_66ZJxQgx0obzkdCdPP&jsa=6233&camk=UoKtGZLa3XKN-6pwq6_DTA%3D%3D
+
+Full Stack Senior Developer (Laravel 11 / Electron)
+bos9 - Karachi Gulistan-E-Jouhar (Kp-2023)
+Rs 300,000 a month
+Easily apply
+*Final Interview* Meet the team and discuss terms. Experience with Electron or desktop application development. Implementing real time features using Pusher.
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-33876d780e59f62b&mo=r&ad=-6NYlbfkN0DAh4zEQS6pnY_glvACQ0sZj5XqRjeEgidJcItG1b3KGLUS4NHMGT8XXqZpsG1lsSbj_9TqQuFP3EM9hNQ9lPItgw-W5h_GWE_FCGz5XZ3-WPrIWvT5ig5z9zTiplCmQg-j_4OuLoHWjYvKBxnbQ2jUKQQHj5HaEY4M419KU_GyCsPJcYK0JLARR1f9xujRBeJ711nqt-E8yY0zWrYWeBvGtC5IC5LQAnyF3DFLhG6Xpntesw4RFX1i_P6GO6NPMkv4DSrLlSabqlBILPe2XmUikQzIiZHJTExcMsivxC_fwXB-ou4ZbS6DtxRh8c3cWtxig55Ur-lzvsGYWYaX5aC8WKm0We2-oIeyOg6RgckML8HF5PEvHos3vmDqyG6gPGDIrbiX9djfyYEMAk_YK6sTNVbXkwFZBVCN54vGpPU4hlM-dMs3AOfIn7YonKCWl5YjzQTppeJQoKr0mRxiZWHGWEhbbtuT6Yz-gUsNuurLFgtj2qgl2pM_XqTQWhuzwjsnHIyzrwAirfJAbwSH0Kag_uCXt45tu9BAxnzVqNszQDAWwtTA77whS2_UH8k1XGfPBupsYW0Fm-cW99n04kjt9CLrl-RQYyB3ogGcrh3VveqLdUTuQrjHZCVW6-nMHXGPjA4H3QdYPEPLArqPVlquNNt9iGNDxWc8dF2qX106jjLJMJ5SPCm84ZDV62v52Steo59aPXlCA8fJmURTPxPWqGfoPmmvRFyesqajO12ZKchNT1P7m8mVxrRJ6spZhht-Pj0jWk_wpA%3D%3D&rm=2&xkcb=SoA_6_M3o_66ZIRQgx0PbzkdCdPP&jsa=6234&camk=UoKtGZLa3XLWdkOEnBez1A%3D%3D
+
+Full Stack Developer | Mid-senior level
+I8IS INC. - Karachi Gulshan-E-Iqbal
+From Rs 75,000 a month
+Easily apply
+This is an on-site opportunity to join a passionate and growing team focused on high-performance software products. Key Achievements You’ll Contribute To*.
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-a3b910680a96592d&mo=r&ad=-6NYlbfkN0Dphguz_iMdQVfoafGO-3WRCefHk7GbYvA6OnXA092pMhSAhoq0_7u4xuXFiyPn2BFpEYrnMAHX9ggKPLhZvupo1MQLlaLwsVCQCFZH4uNIfJ6_CwsVLtyQdB2dAMBP5JuchfA62uKM8FJ9xdY7LHUBlUxxkjXB6YzLG3PrgXIQGDX3LXIzrQDvN3Nf86p0VMjKwnhY1GpEQsPQZwQ82NS3RuWY43iuhhREnE3uHf6pti6821w21gMgeVK87iqmMxniheZO0zFAnGp2dK-1qEoSCUqWfKqAcKoD4XKPt2Rmg7vRzghPXKObM8d4me7rN6THXM2HHiGl8IAq0Q7KmQwmmh7xFwE8ElOG2GvGTZfgxdeTpFSXP7uLtMut-xUxl7G71aikOwJu8mzmHmpNX6VFgHuTeC3uGLYyI4gHALStUtV1YnXJOAuk08KtDmePjEma_bdpb1r0_tIPDLisc3qAZl2qEiVu-xccMIlGCPsch4WWqoe_piWeCKMEi6mQl09BM8IeGtdYuLGwhyzOCkZbhv8gKqkqo1T1lj4wCen3Tvb2Sug8wgz3lCCFlfo3qiTtp4wsYONUvGtUEDotl2KAb_dW4uIiynobfS5-Uy3va5aAxNDDFJHVc9FPjYCgsHDxuV3eBO6a2DHHNsmxsPOEkFdLk4Wwm5o6jejS9vs7HMcqmFxrZj40cTLC4DNnj52mI8Dw12J8wdKryLljnP5CZfg51IFxHCQ%3D&rm=2&xkcb=SoDK6_M3o_66ZIRQgx06bzkdCdPP&jsa=6234&camk=ethIe0s0hedtQb19rYZAWQ%3D%3D
+
+Senior Full-Stack Engineer / Architect
+Bhayani Securities Pvt. Ltd. - Karachi
+From Rs 300,000 a month
+Easily apply
+Define and maintain clean API contracts between applications and the OMS / market-data systems, working with the existing FIX/OMS development team.
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-60856277d708378a&mo=r&ad=-6NYlbfkN0C7fSRyWQy8giZGZwtcvlKAvKBtmWFfSySLk3DqCs_-svEVFdeZNHI2omHm3IJ1e2UN6l0Xn-RVs1rnY5YbF_UB0v59sGruE3xSwHtgMUCZxrOo5ekXrq2RWPIIXR6q3V247dK3N-ThWrjSBaT-2KZM6ayXBOhtxdsv592fSEIhDnBJue1Dm75mQi1UuBA92-pYdopjL1VH-eE5bqoD03RbNvgxEG7AgI9of3eftuKJ02K53HPClu4YM0Xoqo8_jqHD12B_YWu5ZSK7MKJ6rM322WFWzopd3KbxStzj0j6V8zo17HaiqrOzvO6QGuh3mHGz2lqVVNHWAbwz9vPISC-cmiGcCb7Ih1zA1u6zTROxwCG2LzSoqy46ENW3HZ1AETeCdpqQj-XQ6XqeZpioI1Lunt-wGxXK6s8wLrBM0Cy-4dd6xzQbGWGGYPoiXHFOnM8FTnDHJ1nHNEUiwzMFvrVhzd-6fWupptgczq8S-rG8S0Zzr-lH0xxce7IFBphtAiD2HfK3eK-NJjrN4YpMKii9imFwYk7OLKv1k-qAnHOYSAJ1lQdeixFeWRkAAKGFSNxHJUmKwnLkLfNxGNzob0MBe5GXDwRo0kekN64DXFFYhofGLrKhWgD96SsrBhPqhm6_6ZVM-87Dafz_p4owPYF4sRHBekujDVCZY1GL7hwmsZIc9_t8VzHhn30HYLb9QjtbkH-W4Ftkvpsj4tSJ_e78MEYQGrngmhFx-waHB652C7c_r0fOGD5rs3d08fkgoEQ%3D&rm=2&xkcb=SoAv6_M3o_66ZIRQgx1abzkdCdPP&jsa=6234&camk=UoKtGZLa3XLgkkvXBSuzEA%3D%3D
+
+Online Coding/ Python Tutor Required - Canadian Curriculum (Night Shift 3am to 7am)
+MYTUTORPOD - Karachi
+Rs 38,000 - Rs 75,000 a month
+Easily apply
+Self-training links and tutorials will be provided to finalized candidates with the necessary guidance. So, Let the hidden Online Tutors expert inside you come…
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-edf1ceefb6a198e2&mo=r&ad=-6NYlbfkN0Am4rz0ejESIGycb1xNa60x_dzlSvJLryGxdZapap50wE28C37KImPtOkWOHluEERcP3pPp7l_9iOGmeB0-08fTFEu7CdJHVv0e-fhsJpcfcZivTVqYCKp-xKQ50pby6NZLptrI0-gbuhUAZbU8HmLyUDdD28LjHezSd5i7iz0FS28-bT4SLnlajCUGmrSvsaY8q955YFl2o1VjLNlWlZCAn-AGI57G9EycSHD7PdY2OpkJo8r2eCBv1dijYK3dKe9DcWmvrGFZY1tl7azP6WH27IeURC89Qa0UFuzOS6DqVB5Tkx6m7KGJP_W5UvAwLJRQsvad5IhlbuQD8F5kyL47MHOT3iBeBSnso30rxypMDeEx8FkgsYc89_B0CttJRfWKAG9igFUcKNqHM3KQZb0Anpi-VHxUXT_mnxTrF_fPQ-N026M8ObkSv5uBCWU-y61dwOrQpqMGNRG_FvZKO0dqS5ng0Ia_8sqoebIXP49vezXRLGvhK9ra6741iva3fpQUWd6iWKHnNsdp6g0CbNPmWZWoNpSOVW8hXXYlDU3S1bnS3Xo1eUPP3l2cb10xV-BWqWDo4E-BKgWY9ix4-8SPzqsE0W8M5QHFMOehijoGjFuFbPumA_Y8h3xXoyJoEqAVXWH1zRiO3hJ66FoVtftcXoN7MGurAwfb-opeTtMOuGuBNUSI_IXCqfsAr5dRApIwMJBHwyQ9Bchwo7uzRLNkKmdFBIs8AzByiWg8x08DxQ_5SST3RBYdjCljUW04kkfPRX29zvZR1dfwrYI4g6n_&rm=2&xkcb=SoD06_M3o_66ZIxQgx0IbzkdCdPP&jsa=6235&camk=ethIe0s0hedslH8TReqrxg%3D%3D
+
+Online Coding/ Python Tutor Required - Canadian Curriculum (Night Shift 3am to 7am)
+MYTUTORPOD - Karachi
+Rs 38,000 - Rs 75,000 a month
+Easily apply
+Self-training links and tutorials will be provided to finalized candidates with the necessary guidance. So, Let the hidden Online Tutors expert inside you come…
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-42ebaf2fb3970873&mo=r&ad=-6NYlbfkN0Am4rz0ejESIGycb1xNa60x_dzlSvJLryGxdZapap50wAXoR0jDZy2CwjTyWaKR8XGNT76bpL_ABOENLV7sk06A9OiUnH41GuUTHjhcH-yg8fgm7wYtfnwa-3cvtb1odgRxB2IvZ1QZl2i-_fR-uEVawELsV78fQyR6JT6l88_c_BuNF4aSV-mp5oQkbMrpKaF4DF-j155YYdL8C_8FhSHdhVeMtxHxBTUMDlhMQFHc94vx1jFrYTJ9suvgVRlSZoEa46D0o_9Uzk_qS6VEbnX_ArcBTS3rfC-nqPKF2G3M5yW47Tpq-3rgqQGv0P2nlSmLO2xEmc6JHa0e78trCgH77xVZ8MD87preCHz53zH5lA0tKL4FzWbJMjVZ1XTIV7F5lEwXkhkXm_gTR8HDARD6CSVVPyOFzQpiTi2cZtmOPrL7ZskfvJHBZIeYtxyejacNDd8spuKlr-KIOMWtlEplldNhNIkT1NoCcEYrT-LfNkUsNd4sWXyJtEZXOOaHEwBv7YKzqaw9nvNi0pG_tFDts47_RFrNKQYlljIskwEPVozxiU-epuo0w7xd2gYWbGqAR_oZa7sqmGxXtiBp2brJ3HrRtcADHc1YfMGPlvU0CJFmLv2g0wUnkoSUtYi7lJ2DMr_620X5oxBglHW2OreMTEapYvGuUNCH54MUqBvf3QlPRrm3eCJnof5n_ROgIpCM_1Nf8Ao9Dxu3BezA3Qn0wvL6_F9yg9uTBJksuQdFdI2qQ5K1C-FHjquEEL6WSJRQf4rXPReEBqXI4B3oBwn5wfcAZvEN-lDL1rILBFq0jahxkY_NbWbo&rm=2&xkcb=SoAO6_M3o_66ZIxQgx0DbzkdCdPP&jsa=6235&camk=UoKtGZLa3XIGxO9avLrGIg%3D%3D
+
+Senior ERPNext Developer & Functional Expert
+ECOM Specialist LLC - Pakistan
+Rs 140,000 - Rs 250,000 a month
+Easily apply
+We are expanding our ERP practice and are seeking a *Senior NextERP Developer & Functional Expert* to join our high-performing team. Have you reviewed it yet?
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jfvpdd7mk58t802-973f41eb851bcee8&mo=r&ad=-6NYlbfkN0AQslrV8eqaCd8h7NNzN824Vmv98ijDHZ93WTwkyTrkuDUjP0IPb4tAv6QJaHTFK65duunE3hjAPQs2v9YM7in6MwIfPoiAet4OGt78ZobRXIdmTvcjxQroHckF1m_zjzu_gN1mgdq6nteOWIgbmZ5TcGObV5QZ-pAjAAe-wt8lnPtHqZwlWGymTOmTcqZaLpEbTyUBnddGP06LUI_KXmk06pvvyhm5tycp7WJxBW2DMpfif3KQlputIi3hKzwuJgrM6DvoqV8htddQwO7k7FO_oEB53DJGpp_8kwPdsIOVGbIZSnU47kqZ0GACjd67RRjDVj8bGYZ5w-7zI8ONgKkX5cJp1KVRmLh4mpYnn63k1kofUYciM4BetCp2EF4oTt7WZvBnxCLUIK7ed3ejFusgKPXIf-RXGw7vYXwy0aSRrjRlCCoTp-WU3a57XrXYWRc8Y7C4Or6eEA91NtSptIzbvkzQ4chzTWGjfe1SE98BQ3rpyBXtXySw57F1THl2HBsvaCa617WxTgRyGhlCiODAlI8yDnI_RlQ7uC0W0AkWTuovdOsiOMcdNRY2o8Of0MmoZbjTJyZcbzuLCXKdlmAaDm6EGGDJswLVj4RewVfeNiBXYslGrUJldZUp6-GUgNCML8is5Kt-WRCDAaAVT0fmjQ8GvJA4abvCtosGEDcF7n2j7h5-1VjvDjMptTnmjrCVPEv60URvXgnb9tYa6kKOaGgkFkA2y725D4XmKUXWjxi8mgtuYz52Mig0uzsBK9o%3D&rm=2&xkcb=SoCp6_M3o_66ZIxQgx0GbzkdCdPP&jsa=6235&camk=UoKtGZLa3XJapJ_nMNBhcQ%3D%3D
+
+Salaries estimated if unavailable. When a job posting does not include a salary, we estimate it by looking at similar jobs. Estimated salaries are not endorsed by the companies offering those positions and may vary from actual salaries.
+
+¹ This email includes Job Ads that are based on your Indeed Profile, preferences, and activity on Indeed. Indeed may be compensated by these employers, helping keep Indeed free for jobseekers. Indeed displays Job Ads based on a combination of employer bids and relevance, such as search terms, other information provided, and activities conducted on Indeed. For more information, see the Indeed Terms of Service: https://pk.indeed.com/legal?hl=en#tos
+
+© 2026 Indeed Ireland Operations, Ltd. 
+Indeed Ireland Operations Limited, Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, 2, D02 HE36 
+Privacy Policy: https://hrtechprivacy.com/brands/indeed?hl=en#privacypolicy 
+Terms: https://pk.indeed.com/legal?hl=en#tos 
+Help Centre: https://support.indeed.com/hc/en-gb?hl=en 
+Manage email settings: https://subscriptions.indeed.com?token=CkDMlnrEEHJ-SVfsNBdzYi_v4RdhcpprVrS0hsHcO6PrWy-1zzK_hUD5ZmgmYZZTu52ZYdDz7vpg0mioitiC1YWDEiAmVPuX-F-uIM_uxNQkiiuKqINh4XrdSQSHQQGJiuu20hoQU8c5G3sYLy4zLaPybSvLJQ%3D%3D&co=PK&hl=en&tmtk=1jfvpddqnia8n801&from=jaf 
+Unsubscribe from this email: https://subscriptions.indeed.com/optout?co=PK&hl=en&tk=1jfvpddqnia8n801&ctt=CiD32mpjYLvUMx2xTu1J9_M_7RdIfjsDiAshFVap7x2kAhIghE-LhnbMYHHqi43uA1Ga2E8LVXMf0PhQXFBdXIMFfhEaEHMPBk6W7nTqG72qGr2yD5s%3D&token=CkDroUMYfbyqV2Cyjg_HmI_C05fZm6GuniUvo4fI6P5S0Nhu4HyS0UJ4ok4tHqAo84eo9-B-FVL1iEjBuJ_swydVEiClwj8U6uibq9OG0JM53p7ULBcHBANEmjmH5oYd2aihFBoQYOSbeeX4TRNuoiLs5z52-Q%3D%3D
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:47
+
+## Analysis Summary:
+- **ID**: email_20260225_203716
+- **Generated at**: 2026-02-25T20:37:16.048945

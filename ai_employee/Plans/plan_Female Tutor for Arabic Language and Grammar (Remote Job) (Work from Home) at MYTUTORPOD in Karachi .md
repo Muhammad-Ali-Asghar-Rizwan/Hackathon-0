@@ -1,0 +1,58 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Low
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Female Tutor for Arabic Language and Grammar (Remote Job) (Work from Home) at MYTUTORPOD in Karachi and 1 more new job
+- **From**: Indeed <donotreply@match.indeed.com>
+- **Date**: Fri, 30 Jan 2026 13:12:45 +0000
+
+## Email Content:
+Hi ALI,  It looks like your background could be a match for this Female Tutor for Arabic Language and Grammar (Remote Job) (Work from Home) role. Please submit a quick application if you have any interest or explore more jobs below. 
+Jobs are based on your preferences, profile and activity on Indeed &sup1;
+
+Mobile and Web App Developer (Full Stack) MERN, MEAN and Flutter
+Crossway Consulting - Karachi Shahra-E-Faisal
+Responsive employer
+Easily apply
+Use version control tools like Git for team collaboration. Ability to work in a collaborative team environment and take full ownership of features.
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jg7ghlb0kc7e801-bd8e202ac129b0b5&mo=r&ad=-6NYlbfkN0Cbg20_EjvGnDypolRu1eeAs0nX71FtUJlKBYnbOjBoCCCl94Y8Do5kaJWuY-uLgrM2eYtgAaa0vQ9JnY5JnDceS4sclQoyiR497xUnvxwrVWuVNkjlERGbG8a_aK87SPA229fdhYzIi2i5LK2BuRhcM5GoBG7K6wWUBseFhcceMmub6G-Z_MtZYeiQ-1rTVhwclt-5L-Ow9svPhBJjJKq_1bFkOvyhc2zHVW-LOK_StHtjjJAkgSOSG__mtwxJTU8NEYzm91TYJkP9ZErSN90zMCG12pFZMbL2KPWhiz5OGrRs2fl26SpQW0w6L1mQETGu0RqlTjwesMb5m67Znlx2vJvBHCMsrXS8zt6bqHJp9RqQrMSIARTaQZ9eKxwEPK0z9tdTRLYma9cR2HxceRcVWjIQZDrcHP9V-1C5Y0bsBaiIFfvHBV5i6eW8z0VobXEcudSjwpeco04f6V0fpANS8d1eXpWPj7B60D8iJ2pA5DjlvtKgjLZWekLJ1Y2S7Ku0t0jNzT6GhA1nsDZipMy4pa0AborKsoyGup-iXtmkYTUGL5gJ5pVOon96Ip1IUftIewidsrf_Mr5kNRJtY5cDGjlfveuM9NjSgoUQuJH4mtsguFUaej2Es7KAfb_MJAXlUSqn3y8NGOkH0yspvoiRCz0uoMHx6ZhgapA3Tw5KJPCIsVSDj0dQ3Vw0b4mogL285Po5lLcRd6OP_fydw-aGikRAEXqnyqR5qjJ4FXNW5bItxWKBNslruKkUj0qOxc0%3D&rm=2&xkcb=SoC26_M3nHpJNhwS5B0LbzkdCdPP&jsa=5225&camk=UoKtGZLa3XJHn_YsUe5ycA%3D%3D
+
+Female Tutor for Arabic Language and Grammar (Remote Job) (Work from Home)
+MYTUTORPOD - Karachi
+Rs 38,000 - Rs 75,000 a month
+Easily apply
+Reliable internet connection and working laptop. Job Title:* Arabic Language Teacher (Full-time/Part-time, Remote). Fluency in Arabic is a plus.
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jg7ghlb0kc7e801-ffe73db3bfd25c59&mo=r&ad=-6NYlbfkN0Am4rz0ejESIGycb1xNa60x_dzlSvJLryGxdZapap50wMqoGNjH6VRFrU83kW8h4fjaBcAmA0mC9OvTk4NDdkchcjBJn7nY2LtIzAym26WDWNDxSPjoMc8CnQpjddck2t83plMBVR8XEydBVm_IJ56EDL4mdqrD_8qSHUXLju2q7AgcPuyDOr5PxJYNw7edfjg1Zzc0oC_U6jBYrN4HoNGI6EyoqH7uiH4Qx2gIvDnCGTAaX0up25_j6lw-dOdZ8jvy3ghZN1RuA0aG2xFL0Oad_2MfGeer_GU67K-9b60-shDIA6zu47EeegTypV1DV-_63REd80LPDXrWs0hlD4p7ga3sG6d74keDPDQ88snmwaQbcVS0FLe8_kFTVaj21yRSMHRwA1Y6_fMzl8iUr5oi4NEGmJPWKmN0p7kSUdIh6KgChd3IyssQLRMTlGFF1Tiky4FlKFylKhTsdOJITCcHvR_XwzTPe0bchSU5b1kMI7KtSvyNTeK8jWMh3Cqib9b3J0D1P2VczJO1jzAPpQdT0MdCiPZqCerc3T0bWmWHz5Sske-AYkxWDbhBiDB4dSeaCKIpc4T-doBrV4oz1e5W6nskewT2RisJKtyfaoQb-no624QlYtX2wwtl8QkcwurpXyrCxRWR7vS3cCetxYOjTkIseamFpE8jm9_60JFJX4Nj6D70hFt7vIRSNo95ZcVcvVXMJ_X5KYzTnb_kpkXaNi-Kdmkvh-Zk8pJT-ReBhRGLscw_W1IVkiiipdYBdQ6sPRRiBuD-e2mQPipGM7irxO30s9dU_xI%3D&rm=2&xkcb=SoAR6_M3nHpJNhwS5B0ObzkdCdPP&jsa=5225&camk=UoKtGZLa3XLkOxGn28OFCg%3D%3D
+
+Salaries estimated if unavailable. When a job posting does not include a salary, we estimate it by looking at similar jobs. Estimated salaries are not endorsed by the companies offering those positions and may vary from actual salaries.
+
+¹ This email includes Job Ads that are based on your Indeed Profile, preferences, and activity on Indeed. Indeed may be compensated by these employers, helping keep Indeed free for jobseekers. Indeed displays Job Ads based on a combination of employer bids and relevance, such as search terms, other information provided, and activities conducted on Indeed. For more information, see the Indeed Terms of Service: https://pk.indeed.com/legal?hl=en#tos
+
+© 2026 Indeed Ireland Operations, Ltd. 
+Indeed Ireland Operations Limited, Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, 2, D02 HE36 
+Privacy Policy: https://hrtechprivacy.com/brands/indeed?hl=en#privacypolicy 
+Terms: https://pk.indeed.com/legal?hl=en#tos 
+Help Centre: https://support.indeed.com/hc/en-gb?hl=en 
+Manage email settings: https://subscriptions.indeed.com?token=CkCXNH5sIOSIM2hS2nO0Tn7p3uGnEOa4aQOaguUGeYMcZoEEutAWMjvdzLfF-mcDlTw4_NGs1tfF7YymC0TOao0FEiC1KunDJhExjaTul12wWUA1piAngFFXLHz4TMZsjaQGJBoQ-zTEFlCB4VUk8EMLD8HPsQ%3D%3D&co=PK&hl=en&tmtk=1jg7ghn9bihp9801&from=jaf 
+Unsubscribe from this email: https://subscriptions.indeed.com/optout?co=PK&hl=en&tk=1jg7ghn9bihp9801&ctt=CiDxG3N9IuF51UTDoWscgXZq0CeK8hpdcBq-BbN8SelYcRIgK4dOUhs8HG2N4SBVBWlr7K2sR3EqYie9m6racGrZiAoaELqAGn8VFmqm8mWDfe9Ker8%3D&token=CkCGggoiwQDz-IOC-A_jFXSDmw4xLRHv91w2E5DzFyFfo_4a91MYTvQMzly6D-4vPUo8Dym3LPnVb8Ad9noz5d5bEiBH9Zz3xcjX50VsQaQE_jEiHTQ_DwWubCTNthPYi3CXqhoQM21eF5qHUl585TUEX2GjeQ%3D%3D
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:24
+
+## Analysis Summary:
+- **ID**: email_20260225_203715
+- **Generated at**: 2026-02-25T20:37:15.876902

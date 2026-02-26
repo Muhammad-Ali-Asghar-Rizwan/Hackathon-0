@@ -1,0 +1,43 @@
+Action: Send Email
+To: team@news.fly.io
+Subject: Re: Three days left of your Fly.io Standard email support plan
+Body: Fly.io Logo
+
+
+
+Hello! Just a quick reminder that you have three more days of Standard email support for your Fly.io account.
+
+
+
+If you'd like to contact Support, use the Support portal in your Fly.io dashboard.
+
+
+
+If you have any questions at all, we're here to help.
+
+
+
+Your support access will expire automatically in three days. If you'd like to continue with Standard support after that, you can upgrade anytime in your dashboard.
+
+
+
+Thanks,
+
+
+
+The Fly.io Team
+
+
+
+© 2026 Fly.io, Inc. All rights reserved.
+
+
+
+2261 Market Street #4990, San Francisco, CA, 94114
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:52:04
+
+Status: WAITING_APPROVAL
+Email_ID: email_20260225_203721
+Original_File: Three days left of your Fly.io Standard email support plan_20260225_005204.txt

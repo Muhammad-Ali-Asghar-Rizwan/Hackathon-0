@@ -1,0 +1,51 @@
+From: Stephen from Render <hello@render.com>
+To: programingmaster22@gmail.com
+Date: Mon, 29 Dec 2025 19:15:49 -0500
+Subject: Ready to ship with Render?
+---
+
+Welcome! Render gives you a fast, reliable cloud application platform that scales with you. Here's how to get started quickly.
+
+Hi Muhammad,
+
+Thanks for joining us! Let's get you up and running quickly.
+
+In the Render dashboard: (https://d2xMk204.na1.hubspotlinks.com/Ctc/GG+113/d2xMk204/VVv4Xy1NGMG7W4GDBnd7BYTCrW2z6fd_5HGW1hMDyKmx3lcq-W6N1vHY6lZ3nSW3pTbg275BNQgVYpdmG14kHDmW7h5QmH8CDFJ6W95yQny41JQstW8pCxtm3q-L4BW8cbynn5dhZRVW5BMqmx22_yJQW7TYdkm48W0nJW855HYP6_p5q0VWjJjj61xlj-N29HpjqsH4FpW19nPLh33rlh3W3NkkyQ1NY0CqW8bNJv-4ckYdvW65DFdv7wlRyhW6BYK0t1hl6xMW1nDbrp1pTzWTW12hh5v92SCxCW7gLfLb6VrcCgW2p7m-q6Xgjr-W6BqW3w1fL3PFW3KNsVC2xQrkMf4PY8mg04 )
+
+- Choose your service type
+- Connect your source code
+- Configure and deploy
+
+- Specify your build and start commands
+- Set environment variables if needed
+- Click Create Web Service (or relevant service type)
+
+- Your service will be live in moments!
+
+With Render you get a fast, reliable cloud application platform that scales with you, so you can focus on shipping features.
+
+Deploy, manage and scale your entire stack, including:
+
+- Backend (web services, private services, background workers, cron jobs)
+- Frontend (web services, static sites backed by a global CDN)
+- Datastores (managed PostgreSQL and Redis, plus custom database support)
+
+Build and scale multi-service architectures with Kubernetes-like powers—and without the overhead.
+
+Ready to ship? Deploy your first project (https://d2xMk204.na1.hubspotlinks.com/Ctc/GG+113/d2xMk204/VVv4Xy1NGMG7W4GDBnd7BYTCrW2z6fd_5HGW1hMDyKmx3lcq-W6N1vHY6lZ3nSW3pTbg275BNQgVYpdmG14kHDmW7h5QmH8CDFJ6W95yQny41JQstW8pCxtm3q-L4BW8cbynn5dhZRVW5BMqmx22_yJQW7TYdkm48W0nJW855HYP6_p5q0VWjJjj61xlj-N29HpjqsH4FpW19nPLh33rlh3W3NkkyQ1NY0CqW8bNJv-4ckYdvW65DFdv7wlRyhW6BYK0t1hl6xMW1nDbrp1pTzWTW12hh5v92SCxCW7gLfLb6VrcCgW2p7m-q6Xgjr-W6BqW3w1fL3PFW3KNsVC2xQrkMf4PY8mg04 )
+
+Need any help getting started? Click Contact support in your dashboard.
+
+Have general product feedback? Just hit reply.
+
+Stephen
+
+Developer Content at Render
+
+Render, Inc., 525 Brannan St., San Francisco, California
+
+Unsubscribe (https://hs-21532664.s.hubspotemail.net/hs/preferences-center/en/direct?data=W2nXS-N30h-GnW2w162L32bRrmW1XwFyw4ffwXcW4thFYM4pbzPxW3QxRSQ4cCprMW3g6Jch2MvFcNW3QQ2ks3SNy5GW2-pH5Y41n5CYW383YTL2YwHlVW2PLH-Y2KW1WPW4fgmWN4hhj-wW368gHk38whQWW3QCz4847KCG6W2RKdjX4rnp_kW2KltkH4kFlvLW1L6G0L3W0jfvW2r881G366g3SW1Z01_R49LK91W1Vqw6s4t63MpW43F3yC2C-r3WW4pb_Zf2zTPQdW1NsMXf3dfB0qW3M89GJ41TkC_W3SZBHf2v_TJRW34vsyd38nxfNW2-JqG04hm6qlW1X64462FMwDqW306PmL49Qrb-W3z0qff1BL4wVW3R7mhN3Y3qP-W45D1D63yPMw4W24-jnq3Kcg1nW4fyHKy2HPlz5W47sX9q3bks8jW236PX83R5CjsW1X7gwC2PBK-YW1ZmB873ZXkkVW1Lpfcw2zw-8fW3QKr9P4cg_rFW3gdvWl3hZGdSW38z-YD36sZ7dW2CVqMF47mzltW3C6q933Y2xJJW3NVprl47sYdfW2-B6xc3bm8BCW2HPPKg47mzVvW2qDp9L4mC3dfW49KQCq1XxW7HW2qD0mX1N2h_7W32hP6x213PP5W4tfz6q3KbPYcW3810Y23LJDj5W41BM1w4hL-r-W3GV_9D4r76njW25hrr72zsg8GW255RvH3D_DLkW3bk5DS4ksLF-0&_hsenc=p2ANqtz-8BSzncvV1mBeKUO0BYTNEyR3T4I1ADyoBfJK2G-fndvkkQUf3j6NaM4SswErptxu6gZhH2r431TM4isLDZ-luJjy25ZWK5nEuKZSJ_LQ8QpMbOTR8&_hsmi=335034564 )
+Manage preferences (https://hs-21532664.s.hubspotemail.net/hs/preferences-center/en/page?data=W2nXS-N30h-GnW2w162L32bRrmW1XwFyw4ffwXcW4thFYM4pbzPxW3QxRSQ4cCprMW3g6Jch2MvFcNW3QQ2ks3SNy5GW2-pH5Y41n5CYW383YTL2YwHlVW2PLH-Y2KW1WPW4fgmWN4hhj-wW368gHk38whQWW3QCz4847KCG6W2RKdjX4rnp_kW2KltkH4kFlvLW1L6G0L3W0jfvW2r881G366g3SW1Z01_R49LK91W1Vqw6s4t63MpW43F3yC2C-r3WW4pb_Zf2zTPQdW1NsMXf3dfB0qW3M89GJ41TkC_W3SZBHf2v_TJRW34vsyd38nxfNW2-JqG04hm6qlW1X64462FMwDqW306PmL49Qrb-W3z0qff1BL4wVW3R7mhN3Y3qP-W45D1D63yPMw4W24-jnq3Kcg1nW4fyHKy2HPlz5W47sX9q3bks8jW236PX83R5CjsW1X7gwC2PBK-YW1ZmB873ZXkkVW1Lpfcw2zw-8fW3QKr9P4cg_rFW3gdvWl3hZGdSW38z-YD36sZ7dW2CVqMF47mzltW3C6q933Y2xJJW3NVprl47sYdfW2-B6xc3bm8BCW2HPPKg47mzVvW2qDp9L4mC3dfW49KQCq1XxW7HW2qD0mX1N2h_7W32hP6x213PP5W4tfz6q3KbPYcW3810Y23LJDj5W41BM1w4hL-r-W3GV_9D4r76njW25hrr72zsg8GW255RvH3D_DLkW3bk5DS4ksLF-0&_hsenc=p2ANqtz-8BSzncvV1mBeKUO0BYTNEyR3T4I1ADyoBfJK2G-fndvkkQUf3j6NaM4SswErptxu6gZhH2r431TM4isLDZ-luJjy25ZWK5nEuKZSJ_LQ8QpMbOTR8&_hsmi=335034564 )
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:53:47

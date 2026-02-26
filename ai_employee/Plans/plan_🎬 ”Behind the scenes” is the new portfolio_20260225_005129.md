@@ -1,0 +1,188 @@
+# PLAN
+
+## Email Type: Informational
+## Urgency: Medium
+## Required Action: Read and File
+## Proposed Response: Read the information and file for reference
+## Next Steps:
+    - Read and acknowledge information
+    - Determine if any follow-up action needed
+    - File email for reference
+    - Update relevant records if necessary
+
+---
+
+## Original Email Details:
+- **Subject**: 🎬 ”Behind the scenes” is the new portfolio
+- **From**: Dribbble <no-reply@n.dribbble.com>
+- **Date**: Thu, 29 Jan 2026 02:05:59 +0000
+
+## Email Content:
+Audiences are demanding proof of process in the AI age. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+
+
+ 
+
+
+
+unsubscribe ( https://email.n.dribbble.com/c/eJy0U8tu2zAQ_Jr1xUhALc3XQYckioBe-gsGHxubrUQKJO2gf1_IcVLlA3oiMTPYGcyS3s6LjacE4vnzeowBxNB3XIlO8N1GQbON07Fe3C_ybdXAyMCMoF_h6QVeEJ4YvCJoBmZ4pnNMYd_OtK-eEtUvZh_rDU70vl9yaW95inlrs5S8GhyTnWl1GUp0zk201RTycYmU2jHk2ca06k5rvEef563wv6dtNC-TbfQV9xv5Z7lhP-m9TtQalS17tSXaFvMt_UtOreRpF_ogUaHcUd8paaQRKM3u3CMjGzxZ0swLy_iB2BtyJ5RSjAt_2MUeGUrWoWHIhDCPohPeSNdx4lIFVHBg6THcy7z1NPXn1pYK_AlwBBy3JOBop2jr6WyL0QpwvKR6cdWX6Aj42PJvSsAHYhREh46UY1YT81IJxxxp4mSCYqRMZ8lqhVIHtOKNaca158iDEkJaQElXSg34EFONgQqgvLT5WPOleAI-XKnkOzZTiJd5dV13fQd9Tu1jgP_o8BP_bJoP92Y0oED245tNo7IO3Gyo9EvJp2LnmE6zrY0KIhzYv-fV-jXS_Xi4f5SHTjCNpttde_wbAAD___jtEIQ ) from this type of email.
+
+ 
+
+
+
+January 28, 2026
+
+
+
+How designers are reclaiming realness in the age of AI
+
+How designers are
+
+
+
+reclaiming realness in the
+
+
+
+age of AI
+
+
+
+ 
+
+As AI-generated work continues to flood the creative space, audiences are craving something more human. Today, showing your process isn’t just good practice, it’s a trust-building essential. From handcrafted case studies to stop-motion behind-the-scenes, creatives in 2026 are proving that transparency, tactility, and intention are the new creative currency.
+
+
+
+Also in this issue
+
+* Getting paid before you start? When (and how) to bill in advance
+
+* The art of quiet: Designing presence, not performance
+
+* Why the future of design is less flash and more thought
+
+
+
+ 
+
+
+
+Proof of process: Why creatives are pulling back the curtain this year
+
+
+
+In a time when even a yellow filter can spark suspicion, the demand for authenticity in design has never been higher. This piece explores how creatives are reclaiming value by spotlighting the how, not just the what. Echoing the Arts & Crafts movement, designers today are using behind-the-scenes content to demonstrate intent, craft, and care, whether it’s a handmade Apple ident or a time-lapse stop motion set.
+
+
+
+But transparency has its cost: more labour, more expectation, less mystery. Still, for many, showing the process strengthens trust, inspires emerging creatives, and reinforces the worth of human creativity in an algorithm-dominated world. Prepare to see even more case studies as the year progresses.
+
+
+
+Read full story ( https://email.n.dribbble.com/c/eJy0kkFupDwQhU_j3rRoGTsGvGCRhCD9m_8KLWNXNzWDbWQXjXL7ET0kwxxgVpRefaKen541fjZ4D0y9fY1XdEx1bSlrVSp5OhDgDU7XvAw_wNLGsJ4z3bPmg72-s3fBXjn7EKzhTHdvMGJwZxrhnC0EyN-bM-anHGA9zzHRLU4Yj2fmFLcD12A8bFe6hMMwTHBkElicEQJdXfQGw8bdN3sXG_0R_OduCfw8GYJvu38tP-en9j-seQIiSMftwyQ0hPHp_j0GSnE6udZVohbVCdqyrnSllaj0aWwHUAZuN22bWsKglWhuDWgpXcWN1fXLCVvBRcVLobngSumLKpXV1VBKkFXtRM1eeLi4PcxnTlM7Es2ZyVcmeib6dV0vSDmgBRoNbQwT_Q0MLQnyNsa0muQKGjH8xHAv0BchUmGKFIdIhU1gCB9QYHBLpvRZlIKXomKyX8hfc1ySBSa7B6TIRLVpHhwunsnu2a5dtDEQBGKys79j-dK_wpPd_tiGCSX4fyGjg7RTBGn74SH01M4p3pPxGO7eZIIkBHvhfxpD7WZp_xR794tS8Ubo8vRoxa8AAAD__65dB3s )
+
+
+
+Last Chance: Submit Your Website to the 2025 Framer Awards
+
+
+
+Submit your site for a chance to win ( https://email.n.dribbble.com/c/eJy0kkGOozwQhU9TbKKO7DI2sGCRDo30b_4rIGNXEs9gGxknrb79iAzpYQ4wK9CrT_Wen8poP2t3DSDfX7-DsyC7lotKcimKHUFeu2lY7uMPMnlloGfQ9FB_wOkMZ4QTgw-EmkHTvdPNBXvINzoshgIt35ODW55yoM_DHFO-xMnFvc2c4mowBO1pdemSG8dxoj2TyLjZUciDjV67sHLXNd7RRL8H_3naTH6edKbvuH8Nv-an9j99LhPlTGk_fejkdHbxmf4cQ05xKmxrFVaoCmp5pRrVSFRNcWutoLo24iJKqbW68JJrW5ZClRYvtqpE4VpkqBjHhiGTsjlKLk2jRi5IqMpiBSULR7uV-expam85zwuIE2AP2Ns0TkcXAPufgP22rh7-C4uzlIY-aU_pHOcvEP09-2GJ92QIRPegFAHVqnmy7u5BdM9r2UQTQ6aQQXTm9zNf-qsM0b3cACWyzXGjMqV14a7E1M4pXpP2Lly9XjIlRCjZnwvI7Rpp-7xtt_zGJaux4cWjxV8BAAD__4Hi87Y ) in one of five categories: animations, interactions, storytelling, visual design, and overall website. One winner in each category will walk home with $10,000. Submissions are open until January 30th.
+
+
+
+New to Framer? Start building today and join the designers creating the internet’s best websites.
+
+
+
+Advance payments: Smart move or slippery slope?
+
+
+
+Is it ever okay to bill a client before work begins? The Creative Boom community weighs in on one designer’s dilemma: a client wants to prepay for work that may never happen. Designers and studios share when advance billing works (spoiler: clear contracts and expiry dates are key) and when it backfires. If you've ever been offered “leftover budget,” this thoughtful breakdown will help you protect your creativity, and your accounts.
+
+
+
+Read full story ( https://email.n.dribbble.com/c/eJy0kkGOozwQhU9TbCIiU24TWLDobhrp3_xXiIxdndQMtpHtEPXtR2RID3OAWYFefap6fnpGu1nzxYN6e_6e2YLqu0qeVKVksSPIaZ7O6Tb-IJNXBgYB7QDNB7y-wzvCq4APhEZA27_Rlb095CsdkiFP6Xty4PSQPd0Pc4j5M0wc9mfmGNYDZ68drVf6yOM4TrRnIhmemXw-2-A0-5W7rPaOJrg9-M_dZnLzpDN92_1r-DU_tP_pnibKmeJ-uujIOnN4uH8PPscwFbazNZ6wLqirTnVbtwrrtrh2ipQgZaRsSCuS4ydio4zG2jZkaysK7lBgLSpsBQql2qOqlGnrsZIk65PFE7wIf7RbmI-cpu6a85xAvgIOgMP9fj-aSDrzQmMIboUAh8xzAhw4lSNPE_tLaaY1-1SyL7VdtDdU0kKxDD_117pKDrfszincoiGQ_UIxANar5sjyzYHsH2XaRBN8Jp9B9uZ3Ck_9mZXst7c1gArFfz6xpbhRmeK6cJdx7OYYLlE79henU6aICC_iT0Fyt1raPuVW9bJSosG2KpYOfwUAAP__qUMBHw )
+
+
+
+Why the Future of Design Is Less Flash and More Thought
+
+
+
+Check out the latest from the Dribbble blog here ( https://email.n.dribbble.com/c/eJy0UlGumzAQPM3yE73IrGMDH3wk4SFVlXoFZOxN4hbbyJg8taevoOSVHqBftmZGO-PxauVGZe8exOV17awB0dQ5L0QueLZTkFN26Ka5_046LRpoGVQtlO9wvsIV4czgHaFkUDUXelhvDulBh0mTp-mTOdhphT19HMYQ0y0MNuxtxhgWg84rR4tLE23f9wPtNZG0HS351JnglPWL7r7EO-rg9sL_njaRGweV6DPuP-TPccW-0cc0UEoU9-xTRauSDWv6a_AphiEztZFYoMyozgtZyUqgrLJHLYyWuqeCDEOtbuWt5LxkqmCiZPxEfWZrZChZjhVDJkR1FLnQlexzTlwWBgs4MX80W5lrT0P9SGmcgJ8BW8DWxH44Wg_Y_gBst3Fl98VP1lDsvs7x12UId-DtnFw3hTlqAt48KQZAuWCOjJ0d8GbdlQ3UwSfyCXij_zzyhb-q4M3LC1Ag2_w2VaK4DNxVGOsxhntUzvq7U1OiiAgn9vf_U71E2o63bZPfcsFKrPLsWePvAAAA___9FfNK )!
+
+
+
+Stillness by design: A landing page that breathes with you
+
+
+
+The Ash Design has reimagined the digital entry point for a calm, a spiritual lifestyle brand, focusing not on flash, but on feeling. Inspired by Flow aesthetics and rooted in restraint, this landing page hero invites users into an emotional state of spaciousness and stillness. Light, air, and subtle typographic choices guide the experience and create a premium, mindful interface that avoids trend-chasing in favor of serenity. It’s UI design as a sensorial, sacred act of intention.
+
+
+
+Read full story ( https://email.n.dribbble.com/c/eJy0kt-O2ywQxZ9mfBM5wkPwnwtfJPFa-qTVp6p9gAjDxKEyYAHJat--cups3QfoFeicn5jD0ShpZ2lGB-L0ul6MBtG1Ba9EIXi2IchKM13iffhJKi0M9AyaHuo3OJ7hjHBk8IZQM2i6E92M07t0o11U5Ch-OTsTn7Kjj93sQ7r6yfjtmDn4ZcDFSUvLlC6YYRgm2jKBlJkNuXTR3krjFm5c4u2Vt1vwn6dNZOdJJvqK-5f5OT-1_-kjTpQSha37kMHIZPwz_dm7FPyU6VaXWGGZUVtUZVM2Assmu7WHoRxqVXGtxKERA1eCHVStB13zSgqqMtMiw5IV2DBkQjR7UQjVlEPBiZeVxgoOzO31Wuazp6m9pTRH4EfAHrDfmoB9vPkUAXssG1YUDPN36bRxY_5NjpR_J03RjC6_-pDL_Cwnm_-YTTDpLqf83Vwpps-J8lOQTgPv78leor8HRcC7BwUPWC6aJW3uFnj3XK9VVN4lcgl4p3738tJf7fFu_W0NKJD956LRFFYqUVge3LQe2jn4MUhr3GhlTBQQ4cD-rExql0jrka_LnxeC1dgU2aPFXwEAAP__NYAFsw )
+
+
+
+This week's featured designers
+
+
+
+Bogdan Nikitin ( https://email.n.dribbble.com/c/eJy0ksGO2yAQhp9mfIl2BcOCzcGHbLyWeukrRBgmCa0BC5Os-vaVXWfrPkBPoP__xXwzjDVhMv4aQb4_r2fvQHYtF7XkUlS7BAXjx_N8H36QLUsGega6h-YDjic4IRwZfCA0DHT3Tjcf3aHc6DBbijR_OQc_r3Kkz8OUcrmk0ad9mSmnpcA5mkBLlS77YRhG2mcyWT95iuXsUjA-LrnrgvdqU9gH_zttoTCNptAX7j_mr2nVvtPnPFIplPfuw2Rvik8r_SnFktNYudYprFFV1PJaaaUlKl3dWlYP2FAjG6JBGWJGcsU5u0hh3aXRl8q3yFAxjpohk1K_Si6tVgMXJFTtsIY3Fl_dNsx1TmN7K2WaQRwBe8B-bwL20f_0xUcQ_b2E85zu2RKI7kE5AapFC-T8PYDo1tXYRJtioVhAdPZPT0_92bnoNtIGUCL7FmfvKG-pQnl5cDex3E45XbMJPl6DmQtlRHhjf7-7tAvSdrxsi_vCJWtQ8-rR4u8AAAD__9pV7rg )
+
+
+
+QClay ( https://email.n.dribbble.com/c/eJy0ksGOmzAQhp9muEQbmXEM-MAhGxapl74CMvaQuMI2NU5W-_YVlKT0AfZk6_9_eb4Zj1ZuUvbqQbw_r501IJo656XIBc92CXLKjt1873-RTksGWgayheoDzhe4IJwZfCBUDGTzTjfrzSHd6DBr8jS_nIOdV9nT52EKMQ1htGFfZophKdB55Wip0kTb9_1I-0wkbSdLPnUmOGX9krsueEcd3D747bSJ3DSqRC_c_8yvadV-0uc8UkoU9-5DRauSDSv9JfgUw5iZ2hRYYpFRnZeFLKTAQma3Wgk29JXggnHFK62HoSKjBlNqeSrzocpsjQwLlqNkyISQR5ELLYs-58SL0mAJJ-aPZhvmOqexvqU0zcDPgC1guzcB2996VF_A23ty3RzuURPw5kExABaL5sjYuwPerIuxiTr4RD4Bb_Tfjp76s2_ebJwVoED2w8_WUNxSieLy4G5esZ5iuEblrL86NSeKiHBi_z471QvSdrxta_uWC1ahzLNHjX8CAAD__1ER7kM )
+
+
+
+ByteTown ( https://email.n.dribbble.com/c/eJy0krGu4ywQhZ9m3EQ3giEQU7hI4mvpb_5q-wjDJGFlwMIk0X37lbPOXe8DbAU654j5Zhhrwmj8NYI8vq9n70C2DRd7yaWoVgkKxg_n6d7_JFvmDHQMdAf1JxxOcEI4MPhEqBno9kg3H92m3GgzWYo0fTsbP73kSM_NmHK5pMGndZkxp7nAOZpAc5U2-77vB1pnMlk_eorl7FIwPs6564y3tSmsg_-ctlAYB1PoG_cv82t8af_TcxqoFMpr92GyN8WnF_0pxZLTULnGKdyjqqjhe6WVlqh0dWuE5nZn9A77i1X1pRY1d4zzHdNWSC4vlW-QoWIcNUMmpd5KLq1WPRck1N7hHnYsbt0yzNechuZWyjiBOAB2gN3aBOyOX4V-pGcE0d1LOE_pni2BaB-UE6CatUDO3wOI9rUbi2hTLBQLiNb-buqtv1sX7YJaA0pk_8XJO8pLqlCeH1yNLDdjTtdsgo_XYKZCGRF27M9_l2ZGWo6PZXM_uGQ1al49GvwVAAD__9mG7jk )
+
+
+
+* Don't miss out: browse new project briefs today ( https://email.n.dribbble.com/c/eJy0UsGu2yAQ_Jr1JUqEl2Cbgw958bPUS38hwrBJqAxYQBL17yu7zqv7Ae8Emhkxw-xq5SZlbx7Ex_t6sQZE15a8FqXgxUZBTtnxkh7DL9J51kDPQPbQfMLpDGeEE4NPhIaB7D7obr3Z5TvtkiZP6YvZ2bTAnl67KcR8DaMNW5sphtng4pWj2aWLdhiGkbaaSNpOlny-mOCU9bPuNsc76OC2wm9Pm8lNo8r0Ffc_8ve0YD_plUbKmeKWfapoVbZhSX8OPscwFqY1FdZYFdSWdSUrKbCSxb09Ng0xVZu6UceGhGzUtTbXgdfsqLVoWGFbZFixEiVDJoQ8iFJoWQ0lJ17VBms4Mn8wa5lLT2N7z3lKwE-APWC_JQH7IYZXov06j_0QLV0T8P6R3SWFR9QEvHtSDIDVjDky9uGAd8uirKAOPpPPwDv994dv_N0D79bcDaBA9sMnayiuqkxxfnDTX2ynGG5ROetvTqVMERGO7N_wcztHWo_9usb7UrAGZVk8W_wTAAD__3de9AE )
+
+* New-hue! YouTube celebrates its 20th with a new take on the signature red ( https://email.n.dribbble.com/c/eJy0UsGumzAQ_JrlEhGZJTZw4JAXHlIv_YXI2PuCK2wj2yTK31ek5JV-QE-2Zsbe2dEoaWdpbg74x_t6NRp41xZlxQteZjsFWWmma1yGX6TSqoGeQdND_QnnC1wQzgw-EWoGTfdBo3H6kEY6REWO4jdzMPEFO3ocZh_Sl5-M34-Zg18HXJ20tE7pghmGYaK9JpAysyGXrtpbadyqu632jsrbvfC_u01k50km-rb7D_mcX9hPesSJUqKwZ-8yGJmMf7m_eJeCnzLdaoEViozaohKNaDiKJhvb4iQbRbWsv0hXleLVUA2oai4FCaFOOjMtMhSswIYh47w58oKrRgxFSaWoNFZwYu6otzBfOU3tmNIcoTwD9oD9TS9Rrgxg__RLWgbKFU00BJko5sjyJ8kQ84dJYy5zR498XGh9W_ZLstfol6AIyu5OwQOKFbOkzWKh7F7t2UDlXSKXoOzUn7Xf-DucstuWqQE5sh8uGk1hUyUK64e7UEM7B38L0hp3szImCohwYn8bkdrV0nbkW7fzgrMamyK7t_g7AAD__zeh-zw )
+
+* Graza’s whimsical brand expansion into mayo and aioli
+
+( https://email.n.dribbble.com/c/eJy0kkGOozwQhU9jNhGRKccQL1ikQ0f6N_8VImNXkhphG9kmPT2nH0GTHuYAswK996nq-amMdqOmu2fy7fV7Jctk11aikZUUxYZAp2m4pqn_gSbPDLtwpi7s-M5OZ3YGduLsHdiRM9W94YO83eUH7pJBj-nb2VFaZI8fuzHEfAsDhe2aMYZ5wdVrh_OWLlLf9wNumYiGRkKfrzY4TX7m7nO8vQluC_7ztBndOOiM33H_Mj_HRfsfP9KAOWPcuk8dSWcKS_pz8DmGobCtraGBusC2ampVKwm1Kh6tuNlbdTSgFeibAiu54rzS0Pf60Jj6VlALHGpegeLApVR7WUmj6r4SKOrGQsMO3O_tWubS09A-ch4TEycGFwaX_EBLOJBf7C-hvEf9S5eGPDqdyZSTpyfGhCX-HLW3qSSfQ-n0Zyi1t6UOA83TxGXK7prCFA0y0T0xBgb1rDm0NDkmuuWeVtEEn9FnJjrzVcRLf9UluvV5RwYS-H8-kcW4UhnjPHBTc2zHGO5RO_J3p1PGCMAO_M-N5HaOtH7K9drLSvIjqKp4tvA7AAD__wK5Aog )
+
+
+
+ 
+
+
+
+ 
+
+
+
+No longer interested? Unsubscribe ( https://email.n.dribbble.com/c/eJy0k89u4ywUxZ_mZhO1gksAs_CirWvp23yvEPHnNmFkgwWk1bz9yJ6k43mAWdk654j70-Hi7bzYeEkgXx-_5xhADj0XWnIpDrsEzTZO53pzP8i3NQMjAzNC9w4vb_CG8MLgHaFjYIZXusYUju1Kx-opUf12jrFucqKv45JL-8hTzPsxS8nrgHOyM61ThhKdcxPtM4V8XCKldg55tjGtucuK9-zzvA_-c9pG8zLZRt-4f5k_l037n77qRK1R2buftkTbYt7o33JqJU-H0AeFGtWBeq6VUUaiModr75ywQjMSpCQ5Jk9ccC88emE-TiepD7FHhopxNAyZlOZZcumNclyQUDqghhNLz-Fe5tbT1F9bWyqIF8ARcNybgKOdoq2Xqy2m04DjLdWbq75ER4BjTDUGKoAjMQqSoyPtmO2IeaWlY446EmSCZqQNt2Q7jaoLaOUH65jovEARtJTKghhvbT7XfCueQAyfVDKgWrWZQrzNIIZt9e6iz6lRaiAG_7uzh_5oVgz3JjpAiey_B-mWalTWA3c3Uvql5Euxc0yX2dZGBRFO7M86tX5Fun-e7g_jiUvWoeGHzx5_BQAA__-g1ArP ) or manage your subscriptions ( https://email.n.dribbble.com/c/eJy0kkGOozwQhU9TbKKOTDmGeMEiHRrp3_xXiIxdnXiEbWSKtOb2IxjSwxxgVqD3nlyfn8uaMBp_j6DeX78370C1TSlrVSpZ7BIUjB9u09z_IMtLBjoBuoPzB1yucEW4CPhAOAvQ7Ts9fHQHftBhshRp-nYOflrlSF-HMWX-TINP-zFjTsuAWzSBlilt9n3fD7TPZLJ-9BT55lIwPi65-4J3tCnsg_-climMg2H6xv3L_Dmu2v_0NQ3ETHnvPk32hn1a6a8pck5D4RpXYY1VQU1ZV7rSCitdPBoiwto65YzTpifSJ0e1KWtxMpXSKAvfoMBKlKgFCqX0UZXK6qovJcmqdljDScSj28pcexqaB_M4gbwAdoDd3gTsjLVpjgzYxcT-09sVdgLZzRxuU5qzJZDtk3ICrBYtkPNzANmuq7KJNkWmyCBb-_uOL_3VhGw38jOgQvFfnLyjvKWY8nLgrsHcjDndswk-3oOZmDIinMSf5-dmQdo-b9siv5VKnFGXxbPBXwEAAP__Plr1Vw ).
+
+
+
+Interested in sponsoring this newsletter? Get in touch ( https://email.n.dribbble.com/c/eJy0ks-OmzAQxp9muEQbmXEM-MAhGxapl74C8p_ZxC22kXGy6ttXUJLSB-jJ1jefPL_5PEb5SblrAPH-vA7OgujakteiFLzYOcgrNw7zXf8gkxcP9AxkD80HnC9wQTgz-EBoGMjunW4u2EO-0WE2FGh-VQ5uXuVAX4cppvwZRxf3baYUlwZDUJ6WLl1yWuuR9p5Exk2OQh5s9MqFxXdd8I4m-r3xv9Nm8tOoMr1w_yn-mlbtO33NI-VMaV99qORUdnGlv8SQUxwL29oKa6wKasu6kpUUWMni1pafXDU1NZxL4s1JKiWQ1xqlkpoqowvXIsOKlSgZMiHkUZTCyEqXnHhVW6zhxMLRbmGuOY3tLecJ-BmwB-xt0uPRBcD-J2DvwjwoO-joRkrriMD7e_bDHO_JEPDuQSkCVovmybq7B96tO7KJJoZMIQPvzJ_hnvozAt5tyA2gQPYtzM5S2lyZ0vLgLrrUTilek_IuXL2aMyVEOLG__57bBWk73rYNfisFa1CWxaPF3wEAAP__DC3xlg ).
+
+
+
+Dribbble Holdings Ltd.
+
+#301-1321 Blanshard St, BC V8W 0B6, Canada
+
+
+
+ 
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:29
+
+## Analysis Summary:
+- **ID**: email_20260225_203724
+- **Generated at**: 2026-02-25T20:37:24.532535

@@ -1,0 +1,102 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Low
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Front-end Developer - React.js (Intern) at HRI Private Limited and 6 more internship in web development jobs in Karachi Clifton for you!
+- **From**: Indeed <alert@indeed.com>
+- **Date**: Sun, 25 Jan 2026 15:46:21 +0000
+
+## Email Content:
+Indeed Job Alert
+7 new internship in web development jobs in Karachi Clifton
+
+Jobs 1-7 of 7 new jobs
+See matching results on Indeed: https://pk.indeed.com/jobs?q=internship+in+web+development&hl=en&from=ja&l=Karachi+Clifton&radius=25&alid=674e2f3547a6136060f71a51&tmtk=1jfqtbas3krcv803&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t
+
+
+Front-end Developer - React.js (Intern)
+HRI Private Limited - Karachi
+Rs 10,000 - Rs 15,000 a month
+Easily apply
+We’re a product-focused startup looking for a Frontend Developer who can work (4-5 hours daily) independently with backend APIs and turn API contracts into…
+2 days ago
+https://pk.indeed.com/rc/clk/dl?jk=2dc0d1b1a406eb84&from=ja&qd=RnZhMybXSk4M3QtTVGXWoQtxR856kDw0uzQJkOyO1O7MeXbemfjzgIjP0-W1L7jIXVKmYnPUdfsuGbGoVhqPRZIGAE8kmRYoGbw9WPZjiqMbnSDOyEfcuCQOh_2ZadHz&rd=AbLHrm6GRQMtYBMzyEs2L1_MKnaSAFGAsD6kfERFt3g&tk=1jfqtbas3krcv803&alid=674e2f3547a6136060f71a51&bb=TtctoOTcWg-FeZ88tMyFZ7KRV4DZxwWwtw4udHQZr_ycuZULzhoIQkKKGBrLD7ZoAUIBqbdNPjPPtaU_I8pE81vjCEOm01YkwjYBhpCPMOKyeu1Ji-BgmOSYr4PcuiUXu5zNrtKO18IPsXw6G0rMmw%3D%3D&g1tAS=true
+
+Junior SQA / QA Engineer
+UTF Labs - Karachi
+Rs 40,000 - Rs 60,000 a month
+Easily apply
+With a focus on delivering robust, scalable, and secure software and hardware solutions, UTF Labs helps clients turn innovative ideas into market-ready products…
+4 days ago
+https://pk.indeed.com/rc/clk/dl?jk=a2a8efadecac759d&from=ja&qd=RnZhMybXSk4M3QtTVGXWoQtxR856kDw0uzQJkOyO1O7MeXbemfjzgIjP0-W1L7jIXVKmYnPUdfsuGbGoVhqPRZIGAE8kmRYoGbw9WPZjiqMbnSDOyEfcuCQOh_2ZadHz&rd=bKNAUAgBZTnEZxFIcuujzl_MKnaSAFGAsD6kfERFt3g&tk=1jfqtbas3krcv803&alid=674e2f3547a6136060f71a51&bb=TtctoOTcWg-FeZ88tMyFZ7KRV4DZxwWwBLW0tKH2PZX9IPI915lTb06Gc6lzk_3RVQkkr75vxZdXCmFgGml_W7eymH3DQXsWww3MLrOgqX8Duf1cJIbm5mvDx2SZEmXfO2ZiSoibEJz50OSfzyqROg%3D%3D&g1tAS=true
+
+AI Automation & AI Chatbot Intern
+Aykays - Karachi Gulshan-E-Iqbal
+Rs 5,000 a month
+Easily apply
+Timings: *Monday to Saturday, 9:00 AM to 5:00 PM. About Aykays Agency:*Aykays is a full-service digital agency specializing in branding, design, development,…
+2 days ago
+https://pk.indeed.com/rc/clk/dl?jk=24ac6e051118393a&from=ja&qd=RnZhMybXSk4M3QtTVGXWoQtxR856kDw0uzQJkOyO1O7MeXbemfjzgIjP0-W1L7jIXVKmYnPUdfsuGbGoVhqPRZIGAE8kmRYoGbw9WPZjiqMbnSDOyEfcuCQOh_2ZadHz&rd=oa0GpBnguryZXcLi3jOt4n2LhTYP0op_TBenMVhVTPM&tk=1jfqtbas3krcv803&alid=674e2f3547a6136060f71a51&bb=TtctoOTcWg-FeZ88tMyFZ7KRV4DZxwWwNUQEPzLXe6JBGwqPoLf_nZb7N0393l5OmuCJdH1KajFfmNnoY7Y1Egt6VuaGSV3pC6mwSD77u7LABmCisNEHpl1McsDY4G7cNO-2INs8c5039rI4Xd7oZg%3D%3D&g1tAS=true
+
+Junior .NET Developer
+ITAAI - Karachi
+Rs 70,000 - Rs 90,000 a month
+Easily apply
+.NET MVC/Core Developer* with strong command over *C# and . NET*, and experience in *third-party app integrations* using SDKs and REST APIs.
+4 days ago
+https://pk.indeed.com/rc/clk/dl?jk=3b3be4bdd7a1fce9&from=ja&qd=RnZhMybXSk4M3QtTVGXWoQtxR856kDw0uzQJkOyO1O7MeXbemfjzgIjP0-W1L7jIXVKmYnPUdfsuGbGoVhqPRZIGAE8kmRYoGbw9WPZjiqMbnSDOyEfcuCQOh_2ZadHz&rd=Xz_BPd8uwD7p5SZJpoZayl_MKnaSAFGAsD6kfERFt3g&tk=1jfqtbas3krcv803&alid=674e2f3547a6136060f71a51&bb=TtctoOTcWg-FeZ88tMyFZ7KRV4DZxwWwFSi1TedODfFmEMmOky7N1gN6XaAa7MWKNsZAKXmpSNVp5LUosM5FT1Ucdu0qeZQPzGSKIXMKI6lE7_I5e8dp_4dHW5cJEsqiTVnOuihIg3qKmzc7D9dz4A%3D%3D&g1tAS=true
+
+AI-Powered Wordpress Internship
+Aykays - Karachi Gulshan-E-Iqbal
+Easily apply
+Aykays is a full-service digital agency based in Pakistan, committed to delivering innovative solutions in web development, branding, AI integration, marketing,…
+6 days ago
+https://pk.indeed.com/rc/clk/dl?jk=75abfe8e7d12d481&from=ja&qd=RnZhMybXSk4M3QtTVGXWoQtxR856kDw0uzQJkOyO1O7MeXbemfjzgIjP0-W1L7jIXVKmYnPUdfsuGbGoVhqPRZIGAE8kmRYoGbw9WPZjiqMbnSDOyEfcuCQOh_2ZadHz&rd=dxv4k6fCC4xEcfShCM6J4n2LhTYP0op_TBenMVhVTPM&tk=1jfqtbas3krcv803&alid=674e2f3547a6136060f71a51&bb=TtctoOTcWg-FeZ88tMyFZ7KRV4DZxwWwhL7g09ni8e9Oefe2Om2w3jWvNmHEOcGa1MztMRQtClvvnQ5XB7-HWxsuVYzKXhaqB4sgqccPPZ76w1EN1Z9mRz6qcthHupcBoIiEHZEb6EGCqLEAR1vFGA%3D%3D&g1tAS=true
+
+Project Coordinator Intern (Sales Side)
+Jetnetix - Karachi Gulshan-E-Iqbal
+Easily apply
+We are looking for a motivated and organized *Project Coordinator Intern (Sales Side)* who wants to build a career in *software sales and project management.
+3 days ago
+https://pk.indeed.com/rc/clk/dl?jk=821310c29e7231ae&from=ja&qd=RnZhMybXSk4M3QtTVGXWoQtxR856kDw0uzQJkOyO1O7MeXbemfjzgIjP0-W1L7jIXVKmYnPUdfsuGbGoVhqPRZIGAE8kmRYoGbw9WPZjiqMbnSDOyEfcuCQOh_2ZadHz&rd=x5SUCvphgkEZUN6bPKxzIl_MKnaSAFGAsD6kfERFt3g&tk=1jfqtbas3krcv803&alid=674e2f3547a6136060f71a51&bb=TtctoOTcWg-FeZ88tMyFZ7KRV4DZxwWw6nFw-TU1tf8WE5oN9pnyQqjp6B5zWbLbmQGUDSjuHV6zXtshcHSWXxqsH35LsUZeVQVtQfadz51MJfUh0JNJiOd1U6CxZ5gEy6xPOID1qHMt_mhvX44wag%3D%3D&g1tAS=true
+
+Project Management Intern/Trainee
+TAFSOL Technologies Private Limited - Karachi
+Easily apply
+Project Management Intern/Trainee (Web/ Apps/ Software) - International *. Job Type: *Paid Internship/Traineeship, Opportunity for Growth Based on Performance.
+5 days ago
+https://pk.indeed.com/rc/clk/dl?jk=e03de79547a087fa&from=ja&qd=RnZhMybXSk4M3QtTVGXWoQtxR856kDw0uzQJkOyO1O7MeXbemfjzgIjP0-W1L7jIXVKmYnPUdfsuGbGoVhqPRZIGAE8kmRYoGbw9WPZjiqMbnSDOyEfcuCQOh_2ZadHz&rd=opohefBicPAkEP-ORLRKmM_GpDQUpdPT4XwZZ0YIiXc&tk=1jfqtbas3krcv803&alid=674e2f3547a6136060f71a51&bb=TtctoOTcWg-FeZ88tMyFZ7KRV4DZxwWwSPjvO2JreSDjBmf926F3-sv7Q5TMAnzMw-lF75pwPt8cZ7pIwg3WptQsvAFesahldj94j-TfedI5nDgWPEhug1W5ZFnLUTPxUJm4shq7sYuRNiNlEqLPxg%3D%3D&g1tAS=true
+
+
+
+Do not share this email
+This email contains secure links that are personalized for you. Please do not share this email or links with others.
+
+Salaries estimated if unavailable. When a job posting doesn't include a salary, we estimate it by looking at similar jobs. Estimated salaries are not endorsed by the companies offering those positions and may vary from actual salaries.
+
+© 2026 Indeed Ireland Operations, Ltd. 
+Indeed Ireland Operations Limited, Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, 2, D02 HE36 
+Privacy Policy: https://pk.indeed.com/legal?hl=en#privacy 
+Terms: https://pk.indeed.com/legal?hl=en 
+Help Center: https://support.indeed.com/hc/en-gb 
+Manage email settings: https://subscriptions.indeed.com?token=CkD9n28GKHAwQGjrS8joR3vytDk9WKtESFh6PM5Kwf3C5Ca6OTgPbwYCshBQK_IhdpNdZhYP8skYyX-oiwwjj2_ZEiArqfmeULuWQ9CbOfLZBTK0ElWoB5JB77-CxdqUZlaIORoQz4ZmsMiciXS49yqQxfTV2g%3D%3D&co=PK&hl=en&tmtk=1jfqtbas3krcv803&from=ja 
+Unsubscribe from this email: https://subscriptions.indeed.com/alerts/cancel?token=CkD9n28GKHAwQGjrS8joR3vytDk9WKtESFh6PM5Kwf3C5Ca6OTgPbwYCshBQK_IhdpNdZhYP8skYyX-oiwwjj2_ZEiArqfmeULuWQ9CbOfLZBTK0ElWoB5JB77-CxdqUZlaIORoQz4ZmsMiciXS49yqQxfTV2g%3D%3D&co=PK&hl=en&tmtk=1jfqtbas3krcv803&subId=674e2f3547a6136060f71a51&rgtk=1jfqtbau8jvvn809&from=ja
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:52:02
+
+## Analysis Summary:
+- **ID**: email_20260225_203716
+- **Generated at**: 2026-02-25T20:37:16.401198

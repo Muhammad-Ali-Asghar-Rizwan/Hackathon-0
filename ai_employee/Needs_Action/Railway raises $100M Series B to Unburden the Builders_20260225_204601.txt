@@ -1,0 +1,26 @@
+From: Railway <hello@news.railway.app>
+To: programingmaster22@gmail.com
+Date: Thu, 22 Jan 2026 17:11:51 +0000
+Subject: Railway raises $100M Series B to Unburden the Builders
+---
+
+Description of the image
+
+Today, we're announcing our $100M Series B to power a new era of cloud software.
+
+For too long, builders have endured the painful friction of deploying to production. We have built everything from scratch to create a more seamless and intuitive path forward: data centers, custom hardware, networking, orchestration, and more.
+
+The 2 million developers and fast-moving teams (like Bilt, MGM Resorts, and Profound) have experienced what we’ve been dreaming about for years: invisible infrastructure that lets you focus on creating, not debugging.
+
+Now we bring that feeling to every builder: autonomous tooling to make space for your creativity.
+
+Read our blog post ( https://blog.railway.com/p/series-b?utm_campaign=Announcing+Series+B&utm_content=Announcing+Series+B&utm_medium=email_action&utm_source=customer.io )
+
+Onwards 🥂
+
+Unsubscribe from marketing emails ( https://railway.com/preferences?token=75d83244-3087-49e8-a95b-a488740b3b4d&utm_campaign=Announcing+Series+B&utm_content=Announcing+Series+B&utm_medium=email_action&utm_source=customer.io )
+
+© 2025 Railway Corp. All rights reserved.
+
+---
+Email processed by GmailWatcher on 2026-02-25 20:46:01

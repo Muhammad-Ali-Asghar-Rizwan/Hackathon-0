@@ -1,0 +1,39 @@
+From: Frankie Kastenbaum via LinkedIn <newsletters-noreply@linkedin.com>
+To: "Ali Asghar M.Rizwan" <programingmaster22@gmail.com>
+Date: Wed, 7 Jan 2026 14:32:52 +0000 (UTC)
+Subject: School UX vs Real-World UX (And Why the Gap Feels So Brutal)
+---
+
+It's Frankly UX
+
+By Frankie Kastenbaum
+
+
+By Frankie Kastenbaum
+
+    
+    
+    Read this article on LinkedIn to join the conversation
+Read on LinkedIn
+https://www.linkedin.com/comm/pulse/school-ux-vs-real-world-why-gap-feels-so-brutal-frankie-kastenbaum-egfve?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BGiFxrSDCTS6ryDjJVssYFA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=3nm7fVcB7EAI41&trk=eml-email_series_follow_newsletter_01-null-0-read_more_banner_cta_&trkEmail=eml-email_series_follow_newsletter_01-null-0-read_more_banner_cta_-null-lczh4v~mk44b5s7~ul-null-null&eid=lczh4v-mk44b5s7-ul&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGUwYjM4NmM4ZDM0Njk4YTY4OTZlN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDBlY2IwYzI0ZTkyYzhjMTNjMTRkZTJlOWRhMmVmZWUwYmUwOTBkZTMwOGYzNDZmLDEsMQ%3D%3D
+  
+Let’s talk about something that catches a lot of junior designers off guard. The difference between School UX and Real-World UX. Not because school is useless (it’s not), but because the environment is… wildly different. School UX looks like this: Clear problem statement Defined users Clean research Enough time One right answer (or at least a “best” one) You’re designing in a bubble, and honestly? That bubble is helpful when you’re learning the fundamentals. Real-World UX looks like this: Half-baked requirements Conflicting stakeholder opinions Research from 2 years ago Tight timelines Constraints you didn’t agree to And a problem that keeps changing mid-project No one hands you a neat brief and says, “Good luck, go design.” Instead, you’re handed a puzzle with missing pieces and you’re expected to figure out which pieces actually matter. This is where juniors think they’re “bad at UX”. But what’s really happening is this: You’re no longer being graded on execution, and you’re being evaluated on judgment. Can you: Ask clarifying questions when things are unclear? Make decisions with incomplete information? Explain tradeoffs instead of chasing perfection? Design something useful, even if it’s not ideal? That’s real-world UX. So how do you work through the mess? 1. Stop waiting for perfect clarity If you wait until everything makes sense, you’ll never start. Instead, design with assumptions and say them out loud. 2. Ask better questions, not more questions “What problem are we solving right now?”, “What happens if we don’t solve this?”, “What’s the risk of shipping this version?” 3. Learn to design for constraints, not around them Constraints aren’t blockers. They’re the playing field. Real UX is about finding the best move within them. 4. Document your thinking (especially when things are messy) This is gold for your portfolio. The mess is the story. One last thing If your transition from school to industry feels uncomfortable, confusing, or overwhelming, that’s not a red flag. That’s the work. And learning how to navigate that gap is what actually turns someone into a strong UX designer. If this helped, forward it to a junior designer who’s questioning themselves right now. And if you want more real-talk UX like this, you know where to find me.
+Keep reading on LinkedIn
+https://www.linkedin.com/comm/pulse/school-ux-vs-real-world-why-gap-feels-so-brutal-frankie-kastenbaum-egfve?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BGiFxrSDCTS6ryDjJVssYFA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=3nm7fVcB7EAI41&trk=eml-email_series_follow_newsletter_01-newsletter_content_preview_text-0-readmore_button_&trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview_text-0-readmore_button_-null-lczh4v~mk44b5s7~ul-null-null&eid=lczh4v-mk44b5s7-ul&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGUwYjM4NmM4ZDM0Njk4YTY4OTZlN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDBlY2IwYzI0ZTkyYzhjMTNjMTRkZTJlOWRhMmVmZWUwYmUwOTBkZTMwOGYzNDZmLDEsMQ%3D%3D
+  
+      
+
+----------------------------------------
+
+This email was intended for Ali Asghar M.Rizwan (✨ Elevate Your Digital Experience: Secure 🔒, AI-Driven 🤖 Applications with FREE Consultation 🆓 | Aspiring Developer Skilled in React ⚛️, Next.js 🚀, and Autonomous Agents 🤝GENERATION)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BGiFxrSDCTS6ryDjJVssYFA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=3nm7fVcB7EAI41&trk=eml-email_series_follow_newsletter_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_series_follow_newsletter_01-SecurityHelp-0-textfooterglimmer-null-lczh4v~mk44b5s7~ul-null-null&eid=lczh4v-mk44b5s7-ul&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGUwYjM4NmM4ZDM0Njk4YTY4OTZlN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDBlY2IwYzI0ZTkyYzhjMTNjMTRkZTJlOWRhMmVmZWUwYmUwOTBkZTMwOGYzNDZmLDEsMQ%3D%3D
+You are receiving LinkedIn notification emails. Others can see that you are a subscriber.
+
+
+Unsubscribe: https://www.linkedin.com/series-notifications/?action=unsubscribe&memberToken=ADoAAEz8QX8BXT6_NM9_zY0fUkHc8ts91_49yL4&newsletterId=6937758661150728192&newsletterTitle=It's Frankly UX&lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BGiFxrSDCTS6ryDjJVssYFA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=3nm7fVcB7EAI41&ek=email_series_follow_newsletter_01&e=lczh4v-mk44b5s7-ul&eid=lczh4v-mk44b5s7-ul&m=unsubscribe&ts=footerGlimmer&li=0&t=plh    ·  Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3BGiFxrSDCTS6ryDjJVssYFA%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=3nm7fVcB7EAI41&trk=eml-email_series_follow_newsletter_01-help-0-textfooterglimmer&trkEmail=eml-email_series_follow_newsletter_01-help-0-textfooterglimmer-null-lczh4v~mk44b5s7~ul-null-null&eid=lczh4v-mk44b5s7-ul&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGUwYjM4NmM4ZDM0Njk4YTY4OTZlN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDBlY2IwYzI0ZTkyYzhjMTNjMTRkZTJlOWRhMmVmZWUwYmUwOTBkZTMwOGYzNDZmLDEsMQ%3D%3D
+
+© 2026 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:04:09

@@ -1,0 +1,29 @@
+From: "Fly.io Team" <team@news.fly.io>
+To: Muhammad Ali Asghar Rizwan <programingmaster22@gmail.com>
+Date: Mon, 29 Dec 2025 07:38:20 +0000
+Subject: Your 🎉 free 🎉 30 days of Fly.io Support starts now!
+---
+
+Fly.io Logo
+
+Welcome to Fly.io! We want to help you get up and running smoothly, so we've activated 30 days of Standard email support for you at no charge.
+
+Whether you have questions about deployments, need troubleshooting help, or want guidance on best practices, we've got you covered. Just reach out using the Support portal in your Fly.io dashboard.
+
+What happens after 30 days?
+If you want to keep your Standard support plan at the end of the 30 days, go to the Support portal in your dashboard and choose "Upgrade Now". From there, you can sign up for the Standard support plan at $29/month.
+
+If you don't want to keep your access to Standard support, there's nothing more you need to do - the trial will expire automatically after 30 days. No surprise charges - you're in control.
+
+That's it! Let us know how we can help.
+
+Thanks,
+
+The Fly.io Team
+
+© 2025 Fly.io, Inc. All rights reserved.
+
+2261 Market Street #4990, San Francisco, CA, 94114
+
+---
+Email processed by GmailWatcher on 2026-02-25 22:02:15

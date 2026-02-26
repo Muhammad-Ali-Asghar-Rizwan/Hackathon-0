@@ -1,0 +1,34 @@
+2026-02-25 20:37:07,592 - INFO - Scheduler Watcher started
+2026-02-25 20:37:07,845 - INFO - Running orchestrator.py every 5 minutes
+2026-02-25 20:37:08,293 - INFO - Press Ctrl+C to stop the scheduler
+2026-02-25 20:37:08,980 - INFO - Starting orchestrator.py execution...
+2026-02-25 20:37:28,088 - INFO - Orchestrator execution completed successfully
+2026-02-25 20:37:28,100 - INFO - Sleeping for 5 minutes before next run...
+2026-02-25 20:42:28,178 - INFO - Starting orchestrator.py execution...
+2026-02-25 20:42:50,485 - ERROR - Orchestrator execution failed with return code: 1
+2026-02-25 20:42:50,486 - ERROR - Error output: 2026-02-25 20:42:50,345 - ERROR - Authentication error: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+Traceback (most recent call last):
+  File "D:\Hackathon 0\Bronze Tier\ai_employee\orchestrator.py", line 660, in <module>
+    main()
+    ~~~~^^
+  File "D:\Hackathon 0\Bronze Tier\ai_employee\orchestrator.py", line 655, in main
+    orchestrator = Orchestrator()
+  File "D:\Hackathon 0\Bronze Tier\ai_employee\orchestrator.py", line 215, in __init__
+    self.email_service = EmailService()
+                         ~~~~~~~~~~~~^^
+  File "D:\Hackathon 0\Bronze Tier\ai_employee\email_service.py", line 41, in __init__
+    self._authenticate()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "D:\Hackathon 0\Bronze Tier\ai_employee\email_service.py", line 68, in _authenticate
+    creds = Credentials.from_authorized_user_file(self.token_file, self.scopes)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\oauth2\credentials.py", line 516, in from_authorized_user_file
+    data = json.load(json_file)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+                 ~~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+
+2026-02-25 20:42:50,494 - INFO - Sleeping for 5 minutes before next run...
+2026-02-25 20:45:04,877 - INFO - 
+Scheduler stopped by user (Ctrl+C)

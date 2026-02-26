@@ -1,0 +1,55 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Low
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Your application to Founding AI (Full Stack) Engineer at Chart Learning Solutions
+- **From**: LinkedIn <jobs-noreply@linkedin.com>
+- **Date**: Thu, 29 Jan 2026 09:51:01 +0000 (UTC)
+
+## Email Content:
+Your update from Chart Learning Solutions
+
+
+
+----------------------------------------
+
+
+
+This email was intended for Ali Asghar M.Rizwan (✨ Elevate Your Digital Experience: Secure 🔒, AI-Driven 🤖 Applications with FREE Consultation 🆓 | Aspiring Developer Skilled in React ⚛️, Next.js 🚀, and Autonomous Agents 🤝GENERATION)
+
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_application_rejected_01%3BrJjcyj91QNi4kchcnIBuGQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2IBMnbtyCf3s81&trk=eml-email_jobs_application_rejected_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_jobs_application_rejected_01-SecurityHelp-0-textfooterglimmer-null-lczh4v~mkz9xovu~45-null-null&eid=lczh4v-mkz9xovu-45&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjI4N2NlZDI0Nzk4YWI4YzZkN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NmRiMWU4Zjk2MzkyZDVhMjQ4YTRjODNkYTBlYTlhZTIxZDUyMWJlYmZhMDdmMzM4LDEsMQ%3D%3D
+
+You are receiving LinkedIn notification emails.
+
+
+
+
+
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_jobs_application_rejected_01%3BrJjcyj91QNi4kchcnIBuGQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2IBMnbtyCf3s81&trk=eml-email_jobs_application_rejected_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_jobs_application_rejected_01-unsubscribe-0-textfooterglimmer-null-lczh4v~mkz9xovu~45-null-null&eid=lczh4v-mkz9xovu-45&loid=AQHZZ9U56CaHOgAAAZwJKdGLhquc1RvyCj5bMdF4grr_OpDKhuwdmwej8vkFWgtSloVpoAVIddvbs-lKFX1CqkD_v9CLjYPZRZEmxuoevSlaqCSli4HGcmJzgBLUd9IbqTWyLGg
+
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_application_rejected_01%3BrJjcyj91QNi4kchcnIBuGQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2IBMnbtyCf3s81&trk=eml-email_jobs_application_rejected_01-help-0-textfooterglimmer&trkEmail=eml-email_jobs_application_rejected_01-help-0-textfooterglimmer-null-lczh4v~mkz9xovu~45-null-null&eid=lczh4v-mkz9xovu-45&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjI4N2NlZDI0Nzk4YWI4YzZkN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NmRiMWU4Zjk2MzkyZDVhMjQ4YTRjODNkYTBlYTlhZTIxZDUyMWJlYmZhMDdmMzM4LDEsMQ%3D%3D
+
+
+
+© 2026 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:31
+
+## Analysis Summary:
+- **ID**: email_20260225_203723
+- **Generated at**: 2026-02-25T20:37:23.277230

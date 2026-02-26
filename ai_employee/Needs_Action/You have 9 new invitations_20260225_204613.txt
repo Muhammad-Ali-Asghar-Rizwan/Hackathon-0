@@ -1,0 +1,125 @@
+From: LinkedIn <notifications-noreply@linkedin.com>
+To: "Ali Asghar M.Rizwan" <programingmaster22@gmail.com>
+Date: Mon, 19 Jan 2026 14:51:17 +0000 (UTC)
+Subject: You have 9 new invitations
+---
+
+You have 9 new invitations
+View invitations:https://www.linkedin.com/comm/mynetwork/?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-notification_card_MY_NETWORK-0-null&trkEmail=eml-email_notification_digest_01-notification_card_MY_NETWORK-0-null-null-lczh4v~mkla9agu~jy-null-null&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+  
+Talha Ali posted: $18,400 saved.
+11 tools cut.
+0 quality lost.
+
+This MVP launched faster because we removed tools, not because we worked harder.
+
+Here’s the exact stack we cut before writing a single line of product code.
+
+What the client originally planned to use:
+
+→ Microservices
+→ Kubernetes
+→ Redis
+→ GraphQL
+→ Dedicated auth service
+→ Feature flags
+→ Custom logging
+→ Internal admin panel
+→ Analytics pipeline
+→ Separate staging + QA environments
+→ Heavy CI setup that looked “enterprise-ready”
+
+What we actually shipped:
+
+→ Single Next.js app
+→ One database
+→ One auth system
+→ Stripe
+→ Basic logs
+→ Manual admin actions
+
+That’s the whole stack.
+
+Why this reduced risk instead of lowering quality:
+
+Every extra tool adds:
+→ Setup time
+→ Edge cases
+→ More failure points
+→ More things that can break at launch
+
+None of those help you get your first paying user.
+
+The uncomfortable part:
+
+We said no to tools we already knew well.
+We accepted messier internals.
+We postponed “best practices” on purpose.
+
+Because users don’t care how clean your architecture is.
+
+They care if the product works.
+
+Outcome:
+
+→ Launched in 15 days
+→ No infra fires after launch
+→ Faster changes once real feedback came in
+→ Rewrite decisions made with data, not guesses
+
+Simple stacks don’t reduce quality.
+
+They delay complexity until it’s earned.
+
+Most MVPs don’t fail because the stack was too simple.
+
+They fail because complexity showed up before customers did.
+Comment:https://www.linkedin.com/comm/feed/update/activity:7419021630774951937?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK&trkEmail=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK-null-lczh4v~mkla9agu~jy-null-null-F5pofPCiRRK418u9pr7DoA%3D%3D&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+
+Noreen asghar and 4 other people viewed your profile
+See all viewshttps://www.linkedin.com/comm/me/profile-views?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-notification_digest-0-WVMP_V2&trkEmail=eml-email_notification_digest_01-notification_digest-0-WVMP_V2-null-lczh4v~mkla9agu~jy-null-null&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+
+Muhammad Ahad posted: Great
+Comment:https://www.linkedin.com/comm/feed/update/activity:7419004835045310464?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK&trkEmail=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_NETWORK-null-lczh4v~mkla9agu~jy-null-null-EogE04RsQMipK5aQF27qFA%3D%3D&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+
+You appeared in 19 searches this week. 
+You were found by people from these companies. 
+See all searches: https://www.linkedin.com/comm/me/search-appearances?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-notification_digest-0-SEARCH_APPEARANCE&trkEmail=eml-email_notification_digest_01-notification_digest-0-SEARCH_APPEARANCE-null-lczh4v~mkla9agu~jy-null-null-Er2luHfYS0uHntA4ZZAong%3D%3D&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+
+CodeAlpha shared a post: Calling all B.Tech, BCA, MCA, and B.Sc Students! 📢
+
+Stop waiting for the "perfect time." Start building your career today with CodeAlpha. Gain experience, work on live projects, and get certified. 🎓
+
+🚀 Open Positions for Interns & Freshers in: 💻 Full Stack Development 🤖 AI & Machine Learning 📊 Data Science 📱 Android/iOS Dev
+
+Registration Links: 
+🟢 1-Month Program: https://lnkd.in/gErvZY9c
+🟢 3-Month Program: https://lnkd.in/gAP5tWEX
+
+📧 For Job Applications: Send CV to services.codealpha@gmail.com
+
+Apply now before the batch gets full! 🏃‍♂️💨
+
+
+#CodeAlpha #InternshipAlert #SummerInternship #CollegeStudents #BTech #BCA #MCA #FreshersHiring #OffCampusDrive #WebDevelopment #DataScience #AIJobs #ProjectBasedLearning #CareerGrowth #Batch2025 #Batch2026 #TechInternship #RemoteInternship #ResumeBuilding #CSE #ITJobs
+See post:https://www.linkedin.com/comm/feed/update/ugcPost:7417136044761903104?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_PAGE&trkEmail=eml-email_notification_digest_01-notification_digest-0-SHARED_BY_YOUR_PAGE-null-lczh4v~mkla9agu~jy-null-null-aLZnsvNlQTmIYlnV8uMSYg%3D%3D&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+
+No callback after an interview? Try this.
+See newsletter:https://www.linkedin.com/comm/feed/update/urn%3Ali%3Aactivity%3A7414561466235711488?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-notification_digest-0-EDITORIAL_BLAZE_INAPP&trkEmail=eml-email_notification_digest_01-notification_digest-0-EDITORIAL_BLAZE_INAPP-null-lczh4v~mkla9agu~jy-null-null-bdESF6ylTqaTJ9mgTDbMnw%3D%3D&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+
+
+----------------------------------------
+
+This email was intended for Ali Asghar M.Rizwan (✨ Elevate Your Digital Experience: Secure 🔒, AI-Driven 🤖 Applications with FREE Consultation 🆓 | Aspiring Developer Skilled in React ⚛️, Next.js 🚀, and Autonomous Agents 🤝GENERATION)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_notification_digest_01-SecurityHelp-0-textfooterglimmer-null-lczh4v~mkla9agu~jy-null-null&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+You are receiving LinkedIn notification emails.
+
+
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_notification_digest_01-unsubscribe-0-textfooterglimmer-null-lczh4v~mkla9agu~jy-null-null&eid=lczh4v-mkla9agu-jy&loid=AQGLrbqzvPlPjAAAAZvWvRzw_DHMmOkg2-DYyR6L5GEELjvQhVi_tquTPBrZLG1KNYDl6j_3gaDNS9MVtCIrxIEd2vcOCShnw3C0E0qumRmo3l24oYg
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BtQmrRO48Se%2Be9tD%2BaUwxCw%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=2F29YSQAZXRI41&trk=eml-email_notification_digest_01-help-0-textfooterglimmer&trkEmail=eml-email_notification_digest_01-help-0-textfooterglimmer-null-lczh4v~mkla9agu~jy-null-null&eid=lczh4v-mkla9agu-jy&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVmYmM4Y2NhZDI0NjlmYTg4ZTY4N2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NDNkN2M2ZTAwZmFkY2NiMTFiYTE4ZmUxYjZiZTRlYzgxOGI4M2QwYjhhYjI2Y2YzLDEsMQ%3D%3D
+
+© 2026 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+---
+Email processed by GmailWatcher on 2026-02-25 20:46:13

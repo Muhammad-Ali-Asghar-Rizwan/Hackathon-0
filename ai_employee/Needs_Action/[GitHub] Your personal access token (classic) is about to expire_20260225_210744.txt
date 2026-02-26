@@ -1,0 +1,20 @@
+From: GitHub <noreply@github.com>
+To: Muhammad Ali Asghar Rizwan <programingmaster22@gmail.com>
+Date: Sun, 04 Jan 2026 14:10:46 -0800
+Subject: [GitHub] Your personal access token (classic) is about to expire
+---
+
+Hi @Muhammad-Ali-Asghar-Rizwan,
+
+We noticed your personal access token (classic) "Trae (read:user repo user:email workflow)" with read:user, repo, user:email, and workflow scopes will expire in about 21 hours.
+
+If this token is still needed, visit https://github.com/settings/tokens/2982663105/regenerate to generate an equivalent.
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Thanks,
+The GitHub Team
+
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:07:44

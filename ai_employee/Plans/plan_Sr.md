@@ -1,0 +1,71 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Medium
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Sr. Frontend Engineer at NorthBay Solutions and 2 more junior front end developer jobs in Karachi Shahra-E-Faisal for you!
+- **From**: Indeed <alert@indeed.com>
+- **Date**: Thu, 29 Jan 2026 08:04:57 +0000
+
+## Email Content:
+Indeed Job Alert
+3 new junior front end developer jobs in Karachi Shahra-E-Faisal
+
+Jobs 1-3 of 3 new jobs
+See matching results on Indeed: https://pk.indeed.com/jobs?q=junior+front+end+developer&hl=en&from=ja&l=Karachi+Shahra-E-Faisal&radius=25&alid=6829a2aa2413535c752fea82&tmtk=1jg4chd59217s000&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t
+
+
+Sr. Frontend Engineer
+NorthBay Solutions - Karachi
+Easily apply
+NorthBay is seeking a Senior Front-End Engineer with deep expertise in JavaScript and modern front-end frameworks including React, Vue.js (Nuxt3), Next.js, and…
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=1bec268740927976&from=ja&qd=RnZhMybXSk4M3QtTVGXWoaDtcHZC6sB0FradPUWfdk6PxwJG03GMSXGTGc1XS-acDgYOqOz3lhvNFF1DVlY74Meat7K1yU8uqei0-Om3nLlVmum10YwxXvnGsQ-e2jQa&rd=XOl8d0_ghx9bSNbodjJ9PF_MKnaSAFGAsD6kfERFt3g&tk=1jg4chd59217s000&alid=6829a2aa2413535c752fea82&bb=J3oxReM6jHW_1pjJJMyD9j1bMfE329VRz6kHLAISiFSlAw7TT4mBzT6HZAktj31D_0hW4nH58aoqbvJV7yZ_zXNYiWEDRTQZvI8mvOsWyx9d04hBcZc_clGl4MM_XBXDmvm5J9WSXl1TUmLDxYUUFw%3D%3D&g1tAS=true
+
+Senior UI/UX Designer – Web & Design
+JIMMY LUXURY RETAIL PVT - Karachi
+Rs 70,000 - Rs 100,000 a month
+Easily apply
+As a UI/UX Designer, you will play a crucial role in designing intuitive, user-friendly, and visually appealing digital experiences.
+2 days ago
+https://pk.indeed.com/rc/clk/dl?jk=24e01d45f7919db3&from=ja&qd=RnZhMybXSk4M3QtTVGXWoaDtcHZC6sB0FradPUWfdk6PxwJG03GMSXGTGc1XS-acDgYOqOz3lhvNFF1DVlY74Meat7K1yU8uqei0-Om3nLlVmum10YwxXvnGsQ-e2jQa&rd=bKNAUAgBZTnEZxFIcuujzl_MKnaSAFGAsD6kfERFt3g&tk=1jg4chd59217s000&alid=6829a2aa2413535c752fea82&bb=byXQ_Jgv26QZrsfxshtOAgyYqhnwsHsGYOYOc4rNlWZoKZsAlKPuT_xQs2YIwRD-xGk6OYOh8NXIwi0xPJJHGfZDvKSXXTXA4GTxcEPBopZg_UmPFUJVXUp9pQQ-2FmMsBS5yhtxSxVMjWvWKY48TQ%3D%3D&g1tAS=true
+
+Sr. MERN Stack Developer
+HR Ways - Karachi
+Easily apply
+We are seeking a *Software Engineer *with experience in software development, utilizing analytical and technical skills across various development and design…
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=3dcb6c8f8240d7e8&from=ja&qd=RnZhMybXSk4M3QtTVGXWoaDtcHZC6sB0FradPUWfdk6PxwJG03GMSXGTGc1XS-acDgYOqOz3lhvNFF1DVlY74Meat7K1yU8uqei0-Om3nLlVmum10YwxXvnGsQ-e2jQa&rd=wRw4VfvjpFhMaapCW_-ezV_MKnaSAFGAsD6kfERFt3g&tk=1jg4chd59217s000&alid=6829a2aa2413535c752fea82&bb=byXQ_Jgv26QZrsfxshtOAgyYqhnwsHsGuEn1UJRqoPaMrEguIHmkSoazap90rsUScRrZ9eqRWWJqnxvxUM2FBqibPcmcsV74R2Rdp0SFdz0xPgOATBwZq8xNhsd2zbbBv161s8QSPsaGOY8do2ILlw%3D%3D&g1tAS=true
+
+
+
+Do not share this email
+This email contains secure links that are personalized for you. Please do not share this email or links with others.
+
+Salaries estimated if unavailable. When a job posting doesn't include a salary, we estimate it by looking at similar jobs. Estimated salaries are not endorsed by the companies offering those positions and may vary from actual salaries.
+
+© 2026 Indeed Ireland Operations, Ltd. 
+Indeed Ireland Operations Limited, Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, 2, D02 HE36 
+Privacy Policy: https://pk.indeed.com/legal?hl=en#privacy 
+Terms: https://pk.indeed.com/legal?hl=en 
+Help Center: https://support.indeed.com/hc/en-gb 
+Manage email settings: https://subscriptions.indeed.com?token=CkC_nfJwj3NaMn8-OI-2CzlZl6wfBXHdwKl420eQagpqtL2eWbEMNx41VsGRRz7OrMuoZifD6bzzlTVNspy2OPONEiCZI1u2Sm7OqlSAwtjaxdUyWvFImZY1zwDo2X7GKBtJ5hoQ0a35Vr-8GuxZUE6oCl5AHA%3D%3D&co=PK&hl=en&tmtk=1jg4chd59217s000&from=ja 
+Unsubscribe from this email: https://subscriptions.indeed.com/alerts/cancel?token=CkC_nfJwj3NaMn8-OI-2CzlZl6wfBXHdwKl420eQagpqtL2eWbEMNx41VsGRRz7OrMuoZifD6bzzlTVNspy2OPONEiCZI1u2Sm7OqlSAwtjaxdUyWvFImZY1zwDo2X7GKBtJ5hoQ0a35Vr-8GuxZUE6oCl5AHA%3D%3D&co=PK&hl=en&tmtk=1jg4chd59217s000&subId=6829a2aa2413535c752fea82&rgtk=1jg4chd5sliuo801&from=ja
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:31
+
+## Analysis Summary:
+- **ID**: email_20260225_203720
+- **Generated at**: 2026-02-25T20:37:20.904781

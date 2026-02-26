@@ -1,0 +1,28 @@
+From: Railway <hello@notify.railway.app>
+To: programingmaster22@gmail.com
+Date: Tue, 30 Dec 2025 10:22:07 +0000
+Subject: Deployment crashed for Physical-AI-Humanoid-Robotics-Essentials in wholesome-laughter!
+---
+
+Railway Logo
+
+***************
+Deploy Crashed!
+***************
+
+Uh oh. Your deployment for Physical-AI-Humanoid-Robotics-Essentials in wholesome-laughter crashed within the production environment.
+
+Restart Deployment ( https://railway.com/project/4ed729e0-c0b1-4a7f-8c89-99497eefc130/service/7a8cf22b-9062-4c4b-9bfb-101b092d2a26?utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io )
+
+It might help to look at the deploy logs ( https://railway.com/project/4ed729e0-c0b1-4a7f-8c89-99497eefc130/service/7a8cf22b-9062-4c4b-9bfb-101b092d2a26?id=8501a876-9ac6-49ce-b2a4-f8605ca752ca&utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io ) and if you're still stuck and think we can help, feel free to reach out to us on our Discord ( https://discord.com/invite/xAm2w6g?utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io ).
+
+Regards,
+
+The Railway Team
+
+Manage email preferences ( https://railway.com/preferences?token=75d83244-3087-49e8-a95b-a488740b3b4d&preference=deployCrashedEmail&utm_campaign=Deployment+crashed+email&utm_content=Deployment+crashed+email&utm_medium=email_action&utm_source=customer.io )
+
+© 2025 Railway Corp. All rights reserved.
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:36:50

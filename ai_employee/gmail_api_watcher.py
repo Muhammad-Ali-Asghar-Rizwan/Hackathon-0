@@ -7,6 +7,7 @@ from datetime import datetime
 from typing import Optional, Dict, Any, List
 from pathlib import Path
 from dotenv import load_dotenv
+from email.mime.text import MIMEText
 from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
@@ -19,7 +20,8 @@ class GmailWatcher:
     """
 
     SCOPES = ['https://www.googleapis.com/auth/gmail.readonly',
-              'https://www.googleapis.com/auth/gmail.modify']
+              'https://www.googleapis.com/auth/gmail.modify',
+              'https://www.googleapis.com/auth/gmail.send']
 
     def __init__(self, client_secret_path: str = 'client_secret.json'):
         """
@@ -46,8 +48,14 @@ class GmailWatcher:
 
         # Load existing token if available
         if os.path.exists('token.json'):
-            with open('token.json', 'rb') as token:
-                creds = pickle.load(token)
+            try:
+                with open('token.json', 'rb') as token:
+                    creds = pickle.load(token)
+            except Exception as e:
+                print(f"Error loading token file: {e}")
+                print("Deleting corrupted token file...")
+                os.remove('token.json')
+                creds = None
 
         # If no valid credentials, get new ones
         if not creds or not creds.valid:
@@ -239,6 +247,66 @@ class GmailWatcher:
 
         return content
 
+    def _create_message(self, sender, to, subject, body):
+        """
+        Create a message for sending via Gmail API
+        """
+        try:
+            from email.mime.text import MIMEText
+            import base64
+
+            message = MIMEText(body)
+            message['to'] = to
+            message['subject'] = subject
+            if sender:
+                message['from'] = sender
+
+            # Encode the message
+            raw_message = base64.urlsafe_b64encode(message.as_bytes()).decode('utf-8')
+            return {'raw': raw_message}
+
+        except Exception as e:
+            print(f"Error creating message: {str(e)}")
+            raise
+
+    def _send_auto_reply(self, to_email: str, original_subject: str) -> bool:
+        """
+        Send an auto-reply to the specified email address
+        """
+        try:
+            # Format the reply subject and body
+            reply_subject = f"Re: {original_subject}"
+            reply_body = """Hello,
+
+Thank you for your email. This is an automated response from my AI system.
+I will review your message shortly.
+
+Best regards,
+Ali"""
+
+            # Get the authenticated user's email
+            profile = self.service.users().getProfile(userId='me').execute()
+            sender_email = profile.get('emailAddress', 'me')
+
+            # Create the email message
+            message = self._create_message(sender_email, to_email, reply_subject, reply_body)
+
+            # Send the email
+            result = self.service.users().messages().send(
+                userId='me',
+                body=message
+            ).execute()
+
+            print(f"Auto-reply sent to {to_email}")
+            return True
+
+        except HttpError as error:
+            print(f"HTTP error occurred while sending auto-reply: {error}")
+            return False
+        except Exception as e:
+            print(f"Error sending auto-reply to {to_email}: {str(e)}")
+            return False
+
     def _mark_email_as_read(self, message_id: str) -> bool:
         """
         Mark an email as read by removing the UNREAD label.
@@ -311,6 +379,7 @@ class GmailWatcher:
             # Extract headers and body
             headers = self._get_email_headers(message)
             subject = headers.get('subject', 'No Subject')
+            sender = headers.get('from', 'Unknown')
 
             # Extract plain text body
             body = self._extract_plain_text_body(message)
@@ -341,12 +410,36 @@ class GmailWatcher:
             print(f"Saved email '{subject}' to {file_path}")
 
             # Mark as read
-            if self._mark_email_as_read(message['id']):
+            marked_as_read = self._mark_email_as_read(message['id'])
+            if marked_as_read:
                 print(f"Marked email '{subject}' as read")
-                return True
             else:
                 print(f"Failed to mark email '{subject}' as read")
                 return False
+
+            # Send auto-reply
+            if sender and '<' in sender and '>' in sender:
+                # Extract email address from "Name <email@domain.com>" format
+                email_start = sender.find('<')
+                email_end = sender.find('>')
+                sender_email = sender[email_start + 1:email_end]
+            else:
+                # If sender is just an email address without name
+                sender_email = sender.strip()
+
+            # Validate that sender_email is a proper email format
+            if '@' in sender_email:
+                auto_reply_sent = self._send_auto_reply(sender_email, subject)
+                if auto_reply_sent:
+                    print(f"Auto-reply sent to {sender_email}")
+                else:
+                    print(f"Failed to send auto-reply to {sender_email}")
+            else:
+                print(f"Invalid email format: {sender_email}")
+
+            return True
+
+            return True
 
         except Exception as e:
             print(f"Error processing email: {e}")
@@ -369,13 +462,58 @@ class GmailWatcher:
         print(f"Found {len(unread_emails)} unread emails.")
         successful_count = 0
 
+        # Process emails in order (most recent first)
         for i, email in enumerate(unread_emails, 1):
             print(f"Processing email {i}/{len(unread_emails)}...")
             if self.process_email(email):
                 successful_count += 1
+            else:
+                print(f"Failed to process email {i}")
 
         print(f"Successfully processed {successful_count}/{len(unread_emails)} emails.")
         return successful_count
+
+    def process_latest_email(self) -> bool:
+        """
+        Process only the latest unread email.
+
+        Returns:
+            bool: True if processing was successful, False otherwise.
+        """
+        print("Fetching latest unread email...")
+        try:
+            # Get only the latest unread email
+            results = self.service.users().messages().list(
+                userId='me',
+                q='is:unread',
+                maxResults=1  # Only get the latest email
+            ).execute()
+
+            messages = results.get('messages', [])
+
+            if not messages:
+                print("No unread emails found.")
+                return False
+
+            print(f"Found latest unread email.")
+
+            # Get the most recent message
+            message = self.service.users().messages().get(
+                userId='me',
+                id=messages[0]['id']
+            ).execute()
+
+            success = self.process_email(message)
+            if success:
+                print("Latest email processed successfully.")
+            else:
+                print("Failed to process latest email.")
+
+            return success
+
+        except Exception as e:
+            print(f"Error processing latest email: {e}")
+            return False
 
     def run(self):
         """
@@ -395,7 +533,15 @@ def main():
     """
     try:
         watcher = GmailWatcher()
-        watcher.run()
+
+        # Ask user whether to process all unread emails or just the latest one
+        choice = input("Do you want to process (a)ll unread emails or just the (l)atest email? (a/l): ").lower().strip()
+
+        if choice == 'l':
+            watcher.process_latest_email()
+        else:
+            watcher.run()
+
     except KeyboardInterrupt:
         print("\nGmail API Watcher stopped by user.")
     except Exception as e:

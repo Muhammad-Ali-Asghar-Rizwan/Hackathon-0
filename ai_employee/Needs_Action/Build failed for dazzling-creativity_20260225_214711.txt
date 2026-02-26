@@ -1,0 +1,34 @@
+From: Railway <hello@notify.railway.app>
+To: programingmaster22@gmail.com
+Date: Tue, 30 Dec 2025 09:42:43 +0000
+Subject: Build failed for dazzling-creativity
+---
+
+Railway Logo
+
+Build failed for project: dazzling-creativity
+
+*************
+Build failed!
+*************
+
+This is awkward. One of your builds failed to leave the wheelhouse. Details:
+
+* Project: dazzling-creativity
+* Service: generous-heart
+* Environment: production
+
+View build logs ( https://railway.com/project/904e30dd-cc82-4b02-908f-cfe40294133f/service/9c3b7968-4795-4a97-bdec-f9b00b6f6f73?id=01c5d00b-5eba-4947-b228-bdd816c1f1fe&environmentId=08984161-a418-4fcd-ac75-f3b02d31ef45&utm_campaign=Build+failed+email&utm_content=Build+failed+email&utm_medium=email_action&utm_source=customer.io )
+
+It might help to look at the docs ( https://docs.railway.app/?utm_campaign=Build+failed+email&utm_content=Build+failed+email&utm_medium=email_action&utm_source=customer.io ) and if you're still stuck and think we can help, feel free to reach out to us on our Discord ( https://discord.com/invite/xAm2w6g?utm_campaign=Build+failed+email&utm_content=Build+failed+email&utm_medium=email_action&utm_source=customer.io ).
+
+Regards,
+
+The Railway Team
+
+Manage email preferences ( https://railway.com/preferences?token=75d83244-3087-49e8-a95b-a488740b3b4d&preference=buildFailedEmail&utm_campaign=Build+failed+email&utm_content=Build+failed+email&utm_medium=email_action&utm_source=customer.io )
+
+© 2025 Railway Corp. All rights reserved.
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:47:11

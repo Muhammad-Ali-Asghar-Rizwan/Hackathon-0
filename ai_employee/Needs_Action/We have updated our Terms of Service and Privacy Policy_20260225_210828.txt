@@ -1,0 +1,379 @@
+From: Indeed <no-reply@indeed.com>
+To: <programingmaster22@gmail.com>
+Date: Thu, 01 Jan 2026 08:46:35 +0000
+Subject: We have updated our Terms of Service and Privacy Policy
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    lang="en"
+    xml:lang="en"
+>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!--[if !mso]><!-->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <!--<![endif]-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title></title>
+
+        <!--[if !mso]><!-->
+        <style type="text/css">
+            @import url('https://prod.statics.indeed.com/ds/assets/typography/indeedsans/v1/indeedsans.css');
+        </style>
+        <!--<![endif]-->
+        
+        <!--[if !mso]><!-->
+        <style type="text/css">
+            @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+        </style>
+        <!--<![endif]-->
+
+        <style type="text/css">
+            /* iOS BLUE LINKS */
+
+            a[x-apple-data-detectors] {
+                color: inherit !important;
+                font-size: inherit !important;
+                font-family: inherit !important;
+                font-weight: inherit !important;
+                line-height: inherit !important;
+            }
+
+            /* Samsung blue Links */
+            #MessageViewBody a {
+                color: inherit;
+                text-decoration: none;
+                font-size: inherit;
+                font-family: inherit;
+                font-weight: inherit;
+                line-height: inherit;
+            }
+
+            /* Samsung center email */
+            #MessageViewBody {
+                margin: 0 auto !important;
+            }
+        </style>
+        <style type="text/css">
+            a,
+            body,
+            table,
+            td,
+            th {
+                -webkit-text-size-adjust: 100%;
+                -ms-text-size-adjust: 100%;
+                box-sizing: border-box !important;
+            }
+
+            table,
+            td {
+                mso-table-lspace: 0;
+                mso-table-rspace: 0;
+            }
+
+            img {
+                -ms-interpolation-mode: bicubic;
+                border: 0;
+                height: auto;
+                line-height: 100%;
+                outline: 0;
+                text-decoration: none;
+            }
+
+            body {
+                height: 100% !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                width: 100% !important;
+            }
+
+            sup {
+                *vertical-align: baseline;
+                *position: relative;
+                *bottom: .75em;
+                font-size: 0.65em;
+                line-height: 0;
+            }
+
+            p {
+                margin-top: 8px;
+                margin-bottom: 16px;
+                /* This helps with paragraph spacing in Yahoo! */
+            }
+
+            .primary-button:hover {
+            background-color: #003a9b !important;
+            }
+            .primary-button:focus, .primary-button:active{
+                border: 2px solid #ffffff !important;
+            }
+            .secondary-button:hover {
+            background-color: #f7f6f5 !important;
+            }
+
+            .tertiary-button:hover {
+            background-color: #f7f6f5 !important;
+            }
+
+            .destructive-button:hover {
+            background-color: #f7f6f5 !important;
+            }
+
+            .standard-text-link:hover {
+                color: #003a9b !important;
+            }
+
+            .neutral-text-link:hover {
+                color: #424242 !important;
+            }
+
+            .inverse-text-link:hover {
+                color: #f3f2f1 !important;
+            }
+
+            .strong-text-link:hover {
+                color: #424242 !important;
+            }
+
+            @media only print and (max-width: 600px) {
+                body {
+                    max-width: 320px;
+                }
+            }
+
+            @media all and (max-width: 600px) {
+                .outerContainer { width: 100% !important } .innerContainer { padding-left: 0
+!important; padding-right: 0 !important } .fullWidth { width: 100% !important;
+display: block } u~div #full-wrap { min-width: 100vw } h1.hero-h1 { font-size:
+36px !important; line-height: 45px !important; -webkit-text-size-adjust: none
+!important } h1.hero-h1_variable { font-size: 130% !important; line-height: 135%
+!important; -webkit-text-size-adjust: none !important } h2.body-h2 { font-size:
+24px !important; line-height: 30px !important; -webkit-text-size-adjust: none
+!important } h3.body-h3 { font-size: 20px !important; line-height: 24px
+!important; -webkit-text-size-adjust: none !important } h3.body-h3-link {
+font-size: 20px !important; line-height: 24px !important;
+-webkit-text-size-adjust: none !important } h4.body-h4-link { font-size: 14px
+!important; line-height: 18px !important; -webkit-text-size-adjust: none
+!important } h1.h1-xl {font-size:44px!important;line-height:55px!important;-webkit-text-size-adjust:none!important} h1.h1-lg {font-size:36px!important;line-height:45px!important;-webkit-text-size-adjust:none!important} h1.h1-md {font-size:28px!important;line-height:35px!important;-webkit-text-size-adjust:none!important} h1.h1-sm {font-size:24px!important;line-height:30px!important;-webkit-text-size-adjust:none!important} h1.h1-xs {font-size:20px!important;line-height:28px!important;-webkit-text-size-adjust:none!important} h2.h2-xl {font-size:28px!important;line-height:35px!important;-webkit-text-size-adjust:none!important} h2.h2-lg {font-size:24px!important;line-height:30px!important;-webkit-text-size-adjust:none!important} h2.h2-md {font-size:20px!important;line-height:28px!important;-webkit-text-size-adjust:none!important} h2.h2-sm, h2.h2-xs {font-size:16px!important;line-height:24px!important;-webkit-text-size-adjust:none!important} h3.h3-xl, h3.h3-link-xl {font-size:24px!important;line-height:30px!important;-webkit-text-size-adjust:none!important} h3.h3-lg, h3.h3-link-lg {font-size:20px!important;line-height:28px!important;-webkit-text-size-adjust:none!important} h3.h3-md, h3.h3-link-md {font-size:16px!important;line-height:24px!important;-webkit-text-size-adjust:none!important} h3.h3-sm, h3.h3-xs, h3.h3-link-sm, h3.h3-link-xs {font-weight:normal!important;font-size:16px!important;line-height:24px!important;-webkit-text-size-adjust:none!important} p.body-p-lg { font-size: 36px !important; line-height: 43px
+!important; -webkit-text-size-adjust: none !important } p.body-p-sm { font-size:
+14px !important; line-height: 22px !important; -webkit-text-size-adjust: none
+!important } p.body-p-xs { font-size: 12px !important; line-height: 20px
+!important; -webkit-text-size-adjust: none !important } .ph-0 { padding-left:
+0px !important; padding-right: 0px !important } .p-0 { padding: 0px !important }
+.pt-0 { padding-top: 0px !important } .pr-0 { padding-right: 0px !important }
+.pb-0 { padding-bottom: 0px !important } .pl-0 { padding-left: 0px !important }
+.pb-4 { padding-bottom: 4px !important } .pt-4 { padding-top: 4px !important }
+.ph-8 { padding-left: 8px !important; padding-right: 8px !important } .pb-8 {
+padding-bottom: 8px !important } .ptb-8 { padding-top: 8px !important;
+padding-bottom: 8px !important } .pt-8 { padding-top: 8px !important } .pl-8 {
+padding-left: 8px !important } .pl-10 { padding-left: 10px !important } .pr-8 {
+padding-right: 8px !important } .pb-12 { padding-bottom: 12px !important } .ph-15 { padding-left: 15px !important;
+padding-right: 15px !important } .pr-15 { padding-right: 15px !important }
+.pl-15 { padding-left: 15px !important } .pb-15 { padding-bottom: 15px
+!important } .ph-16 { padding-left: 16px !important; padding-right: 16px
+!important } .pt-16 { padding-top: 16px !important } .pr-16 { padding-right:
+16px !important } .pb-16 { padding-bottom: 16px !important } .pl-16 {
+padding-left: 16px !important } .p-16 { padding-top: 16px !important;
+padding-right: 16px !important; padding-bottom: 16px !important; padding-left:
+16px !important } .pt-20 { padding-top: 20px !important } .ph-20 { padding-left:
+20px !important; padding-right: 20px !important } .p-20 { padding-top: 20px
+!important; padding-right: 20px !important; padding-bottom: 20px !important;
+padding-left: 20px !important } .pt-24 { padding-top: 24px !important } .pr-24 {
+padding-right: 24px !important } .pb-24 { padding-bottom: 24px !important }
+.pl-24 { padding-left: 24px !important } .p-24 { padding-top: 24px !important;
+padding-right: 24px !important; padding-bottom: 24px !important; padding-left:
+24px !important } .ph-24 { padding-right: 24px !important; padding-left: 24px
+!important } .pb-27 { padding-bottom: 27px !important } .ph-30 { padding-left:
+30px !important; padding-right: 30px !important } .pt-30 { padding-top: 30px
+!important } .pb-30 { padding-bottom: 30px !important } .pt-32 { padding-top: 32px !important }
+.pb-32 { padding-bottom: 32px !important } .ph-32 { padding-left: 32px !important; padding-right: 32px
+!important; } .pt-36 { padding-top: 36px !important } .pr-36 { padding-right:
+36px !important } .pb-36 { padding-bottom: 36px !important } .pl-36 {
+padding-left: 36px !important } .pt-37 { padding-top: 37px !important } .pt-38 {
+padding-top: 38px !important; } .pt-40 { padding-top: 40px !important } .pb-40 {
+padding-bottom: 40px !important } .show { display: block !important; max-height:
+none !important; overflow: visible !important } .hide { display: none !important
+} .hide-bg { background-image: none !important } .bt-1 { border-top: 1px solid
+#f6f6f6 !important } .bt-0 { border-top: 0px solid #fff !important } .bt-15 {
+border-top: 15px solid #fff !important } .bb-5 { border-bottom: 5px solid
+#f6f6f6 !important } .br-0 { border-right: none !important } .bgcolor-m {
+background-color: #f6f6f6 !important } .bgcolor-white-m { background-color:
+#ffffff !important } .width-100 { width: 100% !important } .width-70 { width: 70% !important } .width-50 { width: 50% !important } .center { margin: 0 auto !important } .center-align-text {
+text-align: center !important } .left-align-text { text-align: left !important }
+.stack { display: block !important } .table { display: table !important }
+.cta.stack a { width: 100% !important } .height-580 { height: 300px !important;
+background-position: bottom !important } .no-border{ border:none !important;
+border-radius: 0 !important; } .h24 {height: 24px !important;} .h16 {height: 16px !important;} .jobCardLabels {margin: 0 0 4px !important; width: 100% !important; display: block !important;} .radius8 { border-radius: 8px !important;}
+.eml_BasicTable_HideOnMobile { display: none!important;}
+                /* Custom CSS After this line */
+                
+            }
+
+            @media only screen and (min-width: 600px) {
+                .eml_BasicTable_MobileShow {
+                display: none !important;
+            }
+            }
+
+            
+
+            
+   [style*='Noto Sans'] {
+     	font-family: 'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif !important;
+    }
+        </style>
+        <!--[if (gte mso 9)|(IE)]>
+            <style type="text/css">
+                table {
+                    border-collapse: collapse;
+                    border-spacing: 0;
+                }
+            </style>
+        <![endif]-->
+        <!--[if gte mso 9]>
+      <xml>
+        <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xFreeml>
+    <![endif]-->
+        <!--[if gte mso 9]>
+            <style>
+                li {
+                    text-indent: -1em; /* Normalise space between bullets and text */
+                }
+            </style>
+        <![endif]-->
+    </head>
+    <body
+        class="darkmode-bg-weak"
+        text="#2d2d2d"
+        alink="#2557a7"
+        link="#2557a7"
+        vlink="#2557a7"
+        bgcolor="#f3f2f1"
+        style="margin: 0; padding: 0"
+        lang="en"
+    >
+        <!-- PREHEADER COMPONENT -->
+        	<div style="display:none;max-height:0px;overflow:hidden">We have updated our Terms of Service and Privacy Policy.</div><div style="display:none;max-height:0px;overflow:hidden">&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;&#8199;&#847;&shy;</div>
+
+        <!-- END PREHEADER -->
+                <!-- HEADER PATTERN -->
+             	<table class="full-wrap darkmode-bg-weak" cellPadding="0" cellSpacing="0" border="0" align="center" style="min-width:100%" bgcolor="#f3f2f1" width="100%" role="presentation"><tr><td align="center" valign="top" class="pt-0" style="padding:15px 0 0"><!--[if (gt mso 9)|(IE)]>
+        <table width="600" cellpadding="0" cellspacing="0" border="0"
+                bgcolor="#ffffff" style="width:600px;" role="presentation">
+                    <tr>
+                        <td align="center" valign="top">
+        <![endif]-->
+<table class="outerContainer darkmode-bg-base" cellPadding="0" cellSpacing="0" border="0" align="center" style="max-width:600px" bgcolor="#ffffff" width="100%" role="presentation"><tr><td align="center" valign="top"><table class="darkmode-bg-base" cellPadding="0" cellSpacing="0" border="0" align="left" bgcolor="#ffffff" width="100%" role="presentation"><tr><td align="center" valign="top" class="ph-24 darkmode-border-weak" style="padding:16px 54px;border-bottom:0"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="center" valign="top" style="padding:0px"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="left" valign="middle"><a href="https://engage.indeed.com/f/a/gFt8DYxFm5jctRC7Z0fYag~~/AAR9hBA~/CAV8H0rIipqTg3EAkpGlc___URS8WcWQJRmbIKiNtzztSMbkThrU19kSTnWfE0HhHyqk0mxDqzkl9g9xJvQ6yLqP3qyuO1sZ3BfCzrC5ZgPLiHbFdh383iQQcdQX4l44irreQM6jtoQU_Td7u4VsWeOZNH77Rl4N45o2_dAOlkxnGJq9nIgGWhxGc6B7J0irGdR_Jes3m8a_URPvHztpB1TIwVAowZjXWR4ThaUVxVtfwGwTo-NqkKRZ43FzB5t_9aDv05WVpmAOHKO0DX6cRenQvaBxmEYXSL4TPrnsj0yjxUiM7WwQbK0akC8r9rLjodSuDGI7GOL_cTvldqLt79IjLSXdzzyrKpSGP91WWjYO4tjRtlG-3rin2_rtykkfcCWbQgdk9cOXn-iDHRoAf6qZ7SLcbh_SYoGBhGIV9-sCeCzMEvwL56wX7emiw3D5t2hhasB2qMnxrVPouuY9yg~~"><img src="https://prod.statics.indeed.com/eml/assets/images/logo/indeed_en_color.png" alt="Indeed Logo" width="80" height="23" style="font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;color:#004fcb;font-size:20px;display:block;width:auto;height:23px;max-height:23px;" class="darkmode-logo-hide"/><!--[if !mso]><!-->
+    <img src="https://prod.statics.indeed.com/eml/assets/images/logo/indeed_en_white.png" alt="Indeed Logo" width="80" height="23" style="font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;color:#004fcb;font-size:20px;display:none;width:80px;height:23px" class="darkmode-logo-show darkmode-t-primary"/>
+     <!--<![endif]-->
+</a></td><td align="right" valign="middle" style="padding:0px"><table cellPadding="0" cellSpacing="0" border="0" align="right" role="presentation"><tr><td align="center" valign="bottom" style="padding:0px" class="hide"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:14px;font-weight:normal;line-height:21px;margin:0;padding:0;direction:ltr;;white-space:nowrap" class="darkmode-t-base"><a href="https://engage.indeed.com/f/a/SkSZ4OFA6HTMHUbb-fZFhQ~~/AAR9hBA~/8HflbKiLBS2uAtC-kFABEGL5zhBC_KyeO6hufYDulFMl-sEvQmgEBnvzw8LrxDbuhjy7rJ8wt3SQ6ZFZL3BaJwHO_n_eUtmN1DMo__V8r0SPWnrYOzqzjzgtTWbXswOnYZT4vMl2NAnBWod66CX8CGnSW4qzUeMi_dZzFSJh2zhQn0k71vbNmmHiuh1wKsnfv5-lbPVpBURmYaYEc6HV2dOdQ-PvepAUAC4OQxyc2IEPz3YM3CDsWAZFZIGObu9rrBWIa80GSseKSFX-t--48UnlUJ1blSJxCZdlzJ9VTtS5M0eZMJcD4eY98878xIKo6vvIlc1RkTUGvcH8Ni0I-0IeTMQoUTSorylUng2IWnQuZ921ichPCH8ug21kqgx1_RrcW3vDDhvBGW7GuhvwhP97BwJ4CtMkJoOGdhicOSe5EQ19HPHzQrQ9AH2z8FNgnn2dk5eXXJfQFHu-mY3lXA~~" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link darkmode-ta-primary">Find Jobs</a></p></td><td align="right" valign="bottom" style="padding:0px 0px 0px 16px"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:14px;font-weight:normal;line-height:21px;margin:0;padding:0;direction:ltr;;white-space:nowrap" class="darkmode-t-base"><a href="https://engage.indeed.com/f/a/s4YFIVDdxAJP-AEiUIrTHg~~/AAR9hBA~/HakKarlt64Yn7CUyA6WVmgXY2zuH3ONtd3vS5UOwb_vBMXcGvtS4WTY849FxSKU1T4wplg-GyGc-yFlaytdpwXRYi9fDDYMBbUn0FjDqRhve3BTVdHDFjjHZ4wYyK9baAyKbX605rva8QKUwuzQPGouw2fWFVtVVaUbqRrg_DEVxzF8FTd39c0vZq6r1BjQ2E1xGiHfbex4wnjNoVu9Y_Gi54NoYw_K9r4p8ep2mcM8EAWEdQaDXk_8KjfFQ8eC1sE3RD-8w2capH3fLoJjnuuusuIvrrwjAcqzLPUk3K3iyqOcfAqQu5c6cx0VUpHYi1je8D5b7tHfdIFiyyKgS4PcPi--ON6nJzSfWpfBrdvg27EC4_tu3ftzqQIuvt8aPCivuKFTBahT-vOED3g_KvcYVWVA8LSmLfpwC_qMOX_Hm6GcYXY5dxvKaORyXd9QSv_P8HLoVTxKy-oRhdmSs--3HoHoxhVauqJ9bdH2sanA~" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link darkmode-ta-primary">Sign in</a></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><!--[if (gt mso 9)|(IE)]>
+        </td></tr></table>
+        <![endif]-->
+</td></tr></table>
+     
+        <!-- END HEADER PATTERN -->
+                 <!-- MULTIPATTERN VARIABLE -->
+        <table class="darkmode-bg-weak full-wrap" cellPadding="0" cellSpacing="0" border="0" align="center" style="min-width:100%" bgcolor="#f3f2f1" width="100%" role="presentation"><tr><td align="center" valign="top"><!--[if (gt mso 9)|(IE)]>
+        <table width="600" cellpadding="0" cellspacing="0" border="0"
+                bgcolor="#ffffff" style="width:600px;" role="presentation">
+                    <tr>
+                        <td align="center" valign="top">
+        <![endif]-->
+<table class="darkmode-border-weak darkmode-bg-base outerContainer" cellPadding="0" cellSpacing="0" border="0" align="center" style="max-width:600px;width:600px;border-top:1px solid #e4e2e0" bgcolor="#ffffff" width="100%" role="presentation"><tr><td align="center" valign="top"><table class="darkmode-bg-base innerContainer" cellPadding="0" cellSpacing="0" border="0" align="left" style="max-width:600px" bgcolor="#ffffff" width="100%" role="presentation"><tr><td align="center" valign="top" class="ph-24" style="padding:48px 56px"><table cellPadding="0" cellSpacing="0" border="0" align="left" style="min-width:100%" width="100%" role="presentation">
+
+
+
+<tr><td align='left' style='padding:8px 0px;'>
+<p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:24px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">Hello,</p>
+</td></tr>
+<tr><td align='left' style='padding:8px 0px;'>
+<p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:24px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">We are emailing you about updates to our <a href="https://engage.indeed.com/f/a/9ShUgZdOfVdwhxgSIpCJhg~~/AAR9hBA~/7XDmlW4958SK7Swx_ncfkAjCgjJRMN_ayGy19_3BFmEQklBtQA12Wwl4Q9SEIi4ZrfYlfshO41d4zKldHh_8nR24Vwds9tIJUn2MAshYgAHzUKJ8E3drlWLu3pMsYunx0qCMsGKvQWFTH7Rj0J4bzsdvz4nKszwLg80Fe9Pdhiq7BCiMyrDWeOTBT1kS3ZgaaJoV0WmPGRXO6V1ElW2AwDBA44FGDi7EqIqiPJaf2xLwN8h2e3b4DMWpCXmz57cMzJ7HWNR0eJc3sNMyu7JOw9A02HOl4LmtgcmtBoBIGgGAYxso-FPjUl3ts5WGsrzFnTHmaQYRA8fvmve3DdBwBGzue5tQqix-IOaTpF5_WmWcgo9SC-dfF7HyWy7SKhGt5OgL4U_-MSTyR6K1Bb0P-1hJq37q0u1bDfx5BShpM1o8fUloBXBmWMNXa67c_v91-K-FvliqDE7tQYBpBlE5wnrw05udnimzf-bNmdXsJ8E~" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Terms of Service</a> and our <a href="https://engage.indeed.com/f/a/RMfyxfUubltgyBz3fokx4A~~/AAR9hBA~/uSRTDgHSKsqodw0Fvuqni55YcWET7ftN86Aqv210OO-UWUITxTBfiT_L0iL2CoVZWznLxbBBeFBhsj8g9kAnNQcwbD-WVILWoDbb7TmKzqBd9k5DNL-V370Y0_lNroQuLVOJDlCk4ssKlSK1pc1LHGcgCQfwghwTWtzIdw891WpgcNBQBLWqpHHv4DL_xN-p1WOuN7SgJoPPV3gj5guHCRdsw3iS6O3HbA0AuPihx5U-yLekplQtTYL2h6T9wjGLk7G2M0iqTpPLfX8JVHTeU7pYZ9K_4WFf5y-6BjiiD5Eop9gIL-iUWK-YmAD4S13nSkcLb6R5JMTRSE4R8HsGpwxizXz1RWn0LW9qKEt0kSOuPMR8KmWDgqE6dqQgei71obnsV_SO2VE3Z6lhvZpcwulamy6QmcUQugnN8S8ao6GNRun-TAK7GzJmrKwDokPRNKqpFn3XEweD2oXj0Owc4zhgYfcSkVTZa7s1-zABveggi_fL9QsWPA5n0Plo_gJP" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Privacy Policy</a>. We encourage you to read our updated terms and policies in full, but at a glance, here are some key updates:</p>
+</td></tr>
+
+
+
+
+
+
+
+<tr><td align='left' style="padding:8px 0px;"><ul style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:24px;margin:0 0 0 16px;padding:0px;direction:ltr;" class="darkmode-t-base"><li style="margin:12px 0">We reorganised our Terms to make them easier to read and understand.</li><li style="margin:12px 0">We added a new sidebar link to Indeed's <a href="https://engage.indeed.com/f/a/j1hu5qenBsCYw6ZOm8cocA~~/AAR9hBA~/keU8hbMHRo9oy0-GW6hI9m1zjk6ich5o_UU5XSqPygGDwcXau-n2H1VqwE5di_20wSQvFf_pVMvXtUWsCDph4eh6rnLwQMDw9UQ5xNUknqn4HCIyJxMc81q6TqfBQaeby-u-fs9XQ66DzfCHv3pF-Hx9_VAIpax7tYjvT2ihoSK55CWU0ZqH9mXBbI-0a_usmGX-Gv1MXldPXtBomBhfxHV3wmynVtwMZ_6Nl_jjMya9GWcT04qIOLhNKz6Ls8Zujqi7JSiKeuG0vrd5y2PiVJ0mGO49q4q6Quc8VhPLj4wpaAJrrpuMyruItQpRBhCyk3boEQNrEgICXKszQ-n10tFdNzGwYW5YgKtbb9xqc6VMdfFTqNJQ85L3wCJ39HxEqx-4RqRaDZ9rGno7cVuCekG8FQ5Fp9Gk4TpctJ0zc_99uUbk6-_7HBCJt5_JO20k1NRcYdxvp_au0iWiMvb-sKag3Ah0FDGqrQicMd8fiAc~" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Accessibility Statement</a>.</li><li style="margin:12px 0">We revised our employer <a href="https://engage.indeed.com/f/a/zkUDCDWIsTBpA1l97Ena9w~~/AAR9hBA~/2VpExyk26dQc_F4MinHrSQpBbfMxfM0qBEh9om-_7PfshGBZ8tAKeEVKpiNmHPFpSPNnm7Gj-8kX-n0P6S12P7wjtd0qnGiLT_CEsG4edoD2jobquiOzl7wmdUCoUL1o2Wybye26gAPOa5O327HK-pKIg40E0y8MyDnJLo3AIMrdQMHnyTFWYDpRZLmoBmUFK84pSjR7oxe3szPLxDaa3ChwCRVczPghYYczwTeVzws-Wi2LQ8PwjJMLS8g-7p-276aHVeEwWlR8Ztxdd2HCPggbupcav3dn1IGYzTAIYSR676mibwJnH1t18se-fli3YzUZBSdHe-VefvuLvIfAIMMV6_0_TQO5Bh7bO7dJOj5oTCJQt7j2ZOftMPM93Mr0tf3xWtx050uPJvQ6rZV8aT7PKoY7H7RjFgoBTqufMdnA-3V13dNhYBBdDvimE_IUkLsU1ghW-WM4p2odwSI0fqo329kyBxKOJtD4oNg0ZY0~" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Ads Program Terms</a> to reflect new pricing models like &quot;per day&quot; pricing.</li><li style="margin:12px 0">We added a section on Regulatory Fees to advise that, beginning on 01/01/2026, employers will be charged a <a href="https://engage.indeed.com/f/a/Tq81x0KUBGTlEXDGSadWmQ~~/AAR9hBA~/nN1VHmB9IEqExomFGDqaVlQK7lGaleqC3MMH1iCcAFyA88mTe92yQsp736OT0Z32f2ZE7lSRNGUwBpMslv13P7yvP5OhbFYFPMmD6bNhAku3G-XiNq-OdcRJNXBm8FkwSnhOVHjnZK1CUcbPmtwGYtMefl3xnk79vMS_QBSann6GN7WoLWpBL9QeUkJPozdi74zaOZgj2cE1jYJLjq-rPRtgS0V41GQoACrCn8u3Hu553u4PRdx6FXUrXadZTFSbNJMYltAsfme8fzAQ2SCk_DEyBHeq0_B2rPXUxnygvp6NGbXj5nAfNjm_d1Qv5f7-UmVPotzq5M5YBXtBLKeiu7pLXcSme5fsgTfYOzk40bkr7sahG3An7Z3_Zr3fNTUTiy9Y3NjR3UZjolZdyTbh0MCVaeIdLQUr7phjjkYvJ_BO21F00_55PLjBOGDrbewsWN_ofizqDRbWdUYfqF6hLBPnPAGhJId5bO2wFtkesw2t38GEC19MwP33kBpMXP6r34c0RcxMQMKwPgpKw-uqvRQrb53GSifAvvfeW3xuVmg6ip20bnXZxgqngrtDIaat" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Digital Service Fee</a> to cover increased operating costs in certain jurisdictions. </li><li style="margin:12px 0">We revised our <a href="https://engage.indeed.com/f/a/ZvXcRBWSzrS5is-fuz9jBA~~/AAR9hBA~/NN8W9L7EliY4GkjUNxPDeRul91KvMg-dPV-qtexkZHtABh04qMidiTg22ZuFbyymHtiLT69Bem3bWggQLYQohaDAwK0eYABKeRtZZ_zCDHUpAg-hHLhUsuqPMXzL9ffsdswAU8MhRTPVql6tj4VnE5s6tbTIayp8-Lp88BVT7S5oAIYNsSVfNo_c8nYFBkSFz7qczFXM3gYu8KRR85mBHiCVv3R8NMzGCtev9gGAekJy2oNaVC3tcEbWuAyWrmDuJQ3s1urV2zetX0lZmc_QGw8AGwTANoY2A9mFtyZPmIcv8TpLyrGrOP5MTfGlcig34_X7xYbZ2YolNV534A2aDhh7yhwpaPkfPpXvh0ostOvMaQ1-NWpdyM8W9zZou2tdx9lq2I23QlLjueKd6cMVeQHJuucIV5QReqFT682bZeEIjtn4piy2qqf1jMv4YsJQvqx33AKVQkvjQJ1nk8SoAzQ9FweniM7xmN_zQZ8Ib5M~" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Jobseeker Terms</a> to highlight the sorts of user actions and activities that may be shared with employers if a jobseeker has made their profile publicly searchable.</li><li style="margin:12px 0">We built upon our prior AI-related terms in our <a href="https://engage.indeed.com/f/a/BY0EH1IPXEep3tWUtKPkOw~~/AAR9hBA~/uSRTDgHSKsqodw0Fvuqni55YcWET7ftN86Aqv210OO-UWUITxTBfiT_L0iL2CoVZdqdKpk1l4tt9971Df0pmg5E8wm52VCCMKahYiX-DE4K6MlpH69bt-Up8yEG-Dmr83hlmRTXoNovIzUiNBbek4Au83Eu_emdJEGQXVGdIHvU38Tjxe7UUrMAV1WXztNEXPJzMKb6TQDPW83MNhuj4Y8pTw4LUbAbdsmwCnSn3h5i6PaQXEY7UHfUq7npTuxzx7iwVECLS_Q0L1ExdU9kZDxy8wCYop3OXqLgLN7UYbyYlhZIYTbqhLPZ3YMTbfVPuuiwAB7K066f3c-5ZwJMd2m_SEAy2NrIneaSLZ3A-j31DxGur-7d9NL1buavg227LtcXZE5HT6BSo73DFeJDEbBlkf_vstlzPNTRiiO0gqpnm9w2_F7JlRRtge0eC9F6djBGDXdOblOajaK4fU_Pg2410B0c0gNMStNu9z-odu0p0DETluixhpExj6wMx2JRA" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">General Terms for All Users</a> to further explain our use of AI and clarify users' responsibilities when using AI-Generated Content on the Site.</li><li style="margin:12px 0">We updated our <a href="https://engage.indeed.com/f/a/FOEXo-PPI5T6D3T3ZCG8_g~~/AAR9hBA~/U8Xm3hcDYqPw3cXr6l_jQ-5_YQzjaK3mfHvHyIWP2mCFXMUUxiCc22ziOgVdx7JXgkh6hRLMo1n0SXXWdhSg1L6M9ZxGhqLqngdnvsaHykkgoH2LPUmav9qZs5k7lp_T6WIkPpSwBVjLU1ms-oIGRlAFbJk_Pq10DSTLA1eqXEwxSlgwuHb9TM-UO-tngJj2ybPHuYk0E0hJtqQU5QIKQhmrTabCkS7bVJHWq9tp0eusPvKZJqVoZboBLG-BJy0jR3ooMXvoWsq_aPk0slb4bbrLcyu7-fsm3UMoJqXvK0zODuxhrYSN7QK90QigTX4QmXsoI8etLRnZOMuT6NIjPaod6jFAb1fP7jB7_8Ip-KKAjssJm-sAp_A4uWqcIvpsgb6J0vsqvZ-tk09W1SWZoi7U6dPWYaomqkAiZ8GrtCm62gFsT8j0yMvCI53EdOy7i1stArF7Y_lVG-bimceqmi1drNFf-s16OUhriVKelBfwvGbD8hLHxSBlEmBc56J4" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Privacy Policy</a> to reflect our use of AI in customer calls.</li><li style="margin:12px 0">We added a <a href="https://engage.indeed.com/f/a/2I3Y03ptIlfXjInEsHsjWw~~/AAR9hBA~/nN1VHmB9IEqExomFGDqaVlQK7lGaleqC3MMH1iCcAFyA88mTe92yQsp736OT0Z320NVWusvgP0SldLgusQyRyj47UWi0LDYF3ETpx6Llyek2jZ1WSrQZhU7j7dL9bvN_y1i0hTgfiEcHU0nKadrz0zSyJW31M3MgWbgQSWyjjpRWVMtr77RiGwl-2mErs1KFWFggBN6We3uM15YrO4h72bak6acyBvZ810azsb4XDxcDGrzxn6HU1dvQvqQr8Nd0OwP92FfTsSJxzixqIxXgIaYgAC3xUZUHhretrcf3JUkMMAwEEhzxwpOC26BBZDnUa5CqDvTcQm1-GRnWAxNS5O3sL2YU8OZSAF1F4Z4vBM2aC-Hxk8bHKsH5sdinso0CLc0qs0e7AkoYefQulEiaLKFRE8pZsQhKwwdyFbQWK-yn2BkpWnz86O31m8N6Z5DxoZ1EM1ZolypgTpZ_iCmSmDPZe3d3MB561IGxsoazDldC6neqjKxyi-hUrTIIbYRiOoY_2RIL1cxVTQiggKk87bL2Qp97MHdwr6UVjGWUDjUemU3kjRVdMBSFq2rK_tWx" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">new section relevant only to our United Kingdom users</a>, addressing Indeed's processes for addressing illegal content and how UK users can report content under the UK Online Safety Act.</li><li style="margin:12px 0">We added a section to our Privacy Policy addressing <a href="https://engage.indeed.com/f/a/m9jJ6jSRvBcwL4VaQQ_LFg~~/AAR9hBA~/nN1VHmB9IEqExomFGDqaVlQK7lGaleqC3MMH1iCcAFyA88mTe92yQsp736OT0Z32P5A7qVkYhV0I2JRu9s_caJrobfonN5VW0i9-tRHeP-NKRcAX1nsl9SFvW_YvC8_ddyU8h2epB6-ifOBEzhTHazvb-ddIm-qI2j-YL5DzHbILIrGflG2MjhBoPkpp16Y8TMHbyjRsubyJ0skiuXu0hpt0tXHJcdGpofFuCaVSXS92s3cT2RHwG8Q-5Dtm9uRU1QnLUBSaFInP2bI1vcNMDwkOIwdcgs8O253wJrvgSN_B0iFybc8JJZci3uruXz__5qrgHWqsh6xUf3SlVnq2QLjVi8mfSX0ktTuFKEjz-W11n_dcUpgmbF68Yf9ibMZWcKnYxbaULIRxKLf3ZQx0fUOC11-1beJ7Mubgw_SGNKtpZmPGkY2YSWG71mbZOiKjKrfFzRCWv4KgVEISl5KsiodxEOi2YloKM72en9CrF_Kgvb3Yz7o9SY8XJakSZsRdUBE7rcDRcl69I80TQf7Rga8msEKSWl_YTutsyB5ztO81Y41wUe11XaxnqJmNyHFc" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">Brazil's General Data Protection Law (LGPD)</a>.</li><li style="margin:12px 0">We added a new section regarding Jobseekers' ability to log in to Glassdoor using their Indeed credentials and updated our Privacy Policy to reflect this.</li></ul></td></tr>
+
+
+
+<tr><td align='left' style='padding:8px 0px;'>
+<p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:24px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">Your continued use of our site and services means you agree to our updated Terms and that you acknowledge our updated Privacy Policy.</p>
+</td></tr>
+<tr><td align='left' style='padding:8px 0px;'>
+<p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:24px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">You can <a href="https://engage.indeed.com/f/a/dvKQNzws6BFCpGZIEU4vJQ~~/AAR9hBA~/HakKarlt64Yn7CUyA6WVmgXY2zuH3ONtd3vS5UOwb_vBMXcGvtS4WTY849FxSKU1ECYjYqZPm4lrgm5tzVcQ6N0lW_kyFE9RFrItprL3Ikyh0H0ShQ_gzc7CCiRIA267_p_Nx05J0VnzB7xI-jHgZjvRWial03cIWwQKUE4txphyJZF0o4pxUIXp4r-51aFHhNSjuivmF3p1mam5s0tQhlnx4HgDTDSOWdHPR2WkjCsr4VRGeTz2mH7iisa0Zz8US9OAsqOVzFOzFfbXRVpHnLxt3aOGfTbYB_loUZ_05kzokMoI4ckGcb-Bc0LFiK9oppMpjXyjsuiRUc1rqYFPInisYl6NDxq3mFTirGIY5DakzpD-GocqwqA_bHf1XtYEyt1vKe8ADRQXCVxYCyC4cjUnSCKVpZKnNCVd0jl5C3UGdG43Y_WyE6E_PKNent4kreIWPTrGiGvJfh4o9ehUtw__hg-mOtxqkW0VG60a6BA~" style="color:#004fcb;font-weight:normal;text-decoration:underline" class="standard-text-link">update your account information here</a>.</p>
+</td></tr>
+<tr><td align='left' style='padding:8px 0px;'>
+<p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:24px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">Thank you for using Indeed</p>
+</td></tr>
+<tr><td align='left' style='padding:8px 0px;'>
+<p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:24px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">Best,<br aria-hidden='true' /> The Indeed Team</p>
+</td></tr>
+
+
+
+
+
+
+
+</table></td></tr></table></td></tr></table><!--[if (gt mso 9)|(IE)]>
+        </td></tr></table>
+        <![endif]-->
+</td></tr></table>
+        <!-- END MULTIPATTERN VARIABLE -->
+                 <!-- FOOTER PATTERN -->
+                                    
+
+<table class="darkmode-bg-weak full-wrap" cellPadding="0" cellSpacing="0" border="0" align="center" style="min-width:100%" bgcolor="#f3f2f1" width="100%" role="presentation"><tr><td align="center" valign="top"><!--[if (gt mso 9)|(IE)]>
+        <table width="600" cellpadding="0" cellspacing="0" border="0"
+                bgcolor="#f3f2f1" style="width:600px;" role="presentation">
+                    <tr>
+                        <td align="center" valign="top">
+        <![endif]-->
+<table class="outerContainer darkmode-bg-weak" cellPadding="0" cellSpacing="0" border="0" align="center" style="width:600px;max-width:600px" bgcolor="#f3f2f1" width="100%" role="presentation"><tr><td align="center" valign="top" style="padding:32px 56px 0" class="ph-24 pt-16"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="center" valign="top" class="pb-12 darkmode-border-weak" style="padding-bottom:24px;border-bottom:1px solid #e4e2e0"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><th class="stack fullWidth" style="width:197px;vertical-align:top;font-weight:normal;text-align:left"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="left" valign="top" class="pr-0" style="padding-right:24px"><h2 class="darkmode-t-strong" style="color:#2d2d2d;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:14px;font-weight:bold;line-height:21px;margin:0;padding:0;direction:ltr;">Access Indeed anywhere</h2></td></tr><tr><td align="left" valign="top" class="pr-0" style="padding:4px 24px 0 0"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:12px;font-weight:normal;line-height:18px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">Download the free app.</p></td></tr></table></th><th class="stack fullWidth" style="vertical-align:top;font-weight:normal;text-align:left"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="left" valign="top" class="pt-24" style="padding:0"><table cellPadding="0" cellSpacing="0" border="0" align="left" style="display:inline-block" role="presentation"><tr><td class="pr-16 pb-12" align="left" valign="top" style="padding-right:12px"><a href="https://engage.indeed.com/f/a/LoDoZUlzu9YhclkXp--1jg~~/AAR9hBA~/8REoEPW8TZBlmDtOILds0ZfVufm7O4NIVZPkkA0YEOw0zc2TL3q6qzMJWZFSMTFKQbAcIyYMhZK7Kxm8FecIjH2lKtxcJuDjT10sTOUxoUjEu8Pc8k-CFVzkkbwBGA2sSwJwHX25RzBOh7c2vg3QEevbFzjKdxfDtCtmImgD1NMzwOfp__d7AP675nXP04Y6AFe_Zbd9RLdfjYOOtF5ZBA5rt_5F3ElrFMznlXNxbPPB_nSD94FAxoDudwI5bfR01NbV50fr0WJOHoVhHguRr1-qISFBWQNC1zO0MQXrcWKB8NyLQTJwkdBjz5v8gYiAE82TaWEwpOzUQoWonm0eGew_Ba50d-r_JXEdQFCDN-7qyJ18AqBjow3gQw-cBu6M7KB9Oll90qTN8qsLpXl3EAg-ykke87wpao8Y2WGqInhFDe8rImgztGtzWlkdJKGEqKBYw7uUao_aZ-8NdiFfp-7SO0U73arVPjgo0FBUn1pENfA7GQm9EVnsZBSONqELeDMPg56sn5briGDrLy6D5sCKYeE5xBj-cAqcp7loymh1d49qfAWRSV7OoNL41qyf"><img src="https://prod.statics.indeed.com/eml/assets/images/badges/App_Store_Badge_en.png" height="40" style="max-height:40px;height:40px" alt="Download on the App Store"/></a></td></tr></table><table class="pb-12" cellPadding="0" cellSpacing="0" border="0" align="left" style="display:inline-block" role="presentation"><tr><td align="left" valign="top"><a href="https://engage.indeed.com/f/a/mw2ZQh6ImN8kJbE9uvFkxg~~/AAR9hBA~/lghqeg_Pf-919mD7BtTTuaB6GEsfM3mesft1NUznnvjTVm49MawdyNq9E3PZ0V8s4beKTl5l3Fs8VeFncnCVBQS1UvB6GxnEWBa6LTFK0muv0wxvn0zmXCxzYR8kVr_BdHVqE2sxl1p1-hefiL5aFhsJv2eoKCEyyyORuvEB8zaae9U2vWfUdzrgxKNp76HVjX-vxy6EMDrAtSHMsKqUP4q_m2xG8oheMsL2VM262dEp5Ko5fhLmLuodCI3CvexWMqtP9dfERaxxafMbyM1LaxP-mfrwS9-2xV7JCXWlDVXJjA8IXNjkitYBy_NVTsGOO68XeNupQjVAfpGYxtd_kP708NL1HfndYQt5bLlgVLKE7EsReOsD1sxd-QSgbWYe8fBKu6e4sgFeV_1SGhoROkoiISjUi2Nco-VNrVEnLuWLtvwBQRlgPL0szYbX_I-ICntWcY2lwtUibAPqY6Tr5b3ygRHUvzsu-BzqalFYe4rBlXaCNP6iZwkId3Qd4xEVlAH_3MiDAJfQBn6DPIcAhnVjoFselqi4Rl__7wokRp78NGOH2OFFiJlrXYmhD7nby4kYKf2rOlOr81k1Y5HTWQ~~"><img src="https://prod.statics.indeed.com/eml/assets/images/badges/Google_Play_Badge_en.png" height="40" style="max-height:40px;height:40px" alt="Get it on Google Play"/></a></td></tr></table></td></tr></table></th></tr></table></td></tr></table></td></tr></table><!--[if (gt mso 9)|(IE)]>
+        </td></tr></table>
+        <![endif]-->
+</td></tr></table>
+
+
+						<table class="darkmode-bg-weak full-wrap" cellPadding="0" cellSpacing="0" border="0" align="center" style="min-width:100%" bgcolor="#f3f2f1" width="100%" role="presentation"><tr><td align="center" valign="top"><!--[if (gt mso 9)|(IE)]>
+        <table width="600" cellpadding="0" cellspacing="0" border="0"
+                bgcolor="#f3f2f1" style="width:600px;" role="presentation">
+                    <tr>
+                        <td align="center" valign="top">
+        <![endif]-->
+<table class="outerContainer darkmode-bg-weak" cellPadding="0" cellSpacing="0" border="0" align="center" style="max-width:600px;width:600px" bgcolor="#f3f2f1" width="100%" role="presentation"><tr><td align="center" valign="top" style="padding:32px 56px" class="p-24"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="left" valign="top" style="padding:0px"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="left" style="padding:0px" class="fullWidth pb-24"><table cellPadding="0" cellSpacing="0" border="0" align="left" width="100%" role="presentation"><tr><td align="left" valign="top" style="padding:0px 0px 12px"><a href="https://engage.indeed.com/f/a/SkSZ4OFA6HTMHUbb-fZFhQ~~/AAR9hBA~/8HflbKiLBS2uAtC-kFABEGL5zhBC_KyeO6hufYDulFMl-sEvQmgEBnvzw8LrxDbuhjy7rJ8wt3SQ6ZFZL3BaJwHO_n_eUtmN1DMo__V8r0SPWnrYOzqzjzgtTWbXswOnYZT4vMl2NAnBWod66CX8CGnSW4qzUeMi_dZzFSJh2zhQn0k71vbNmmHiuh1wKsnfv5-lbPVpBURmYaYEc6HV2dOdQ-PvepAUAC4OQxyc2IEPz3YM3CDsWAZFZIGObu9rrBWIa80GSseKSFX-t--48UnlUJ1blSJxCZdlzJ9VTtS5M0eZMJcD4eY98878xIKo6vvIlc1RkTUGvcH8Ni0I-0IeTMQoUTSorylUng2IWnQuZ921ichPCH8ug21kqgx1_RrcW3vDDhvBGW7GuhvwhP97BwJ4CtMkJoOGdhicOSe5EQ19HPHzQrQ9AH2z8FNgnn2dk5eXXJfQFHu-mY3lXA~~"><img src="https://prod.statics.indeed.com/eml/assets/images/logo/indeed_en_color.png" alt="Indeed home" width="80" style="font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;color:#004fcb;font-size:20px" class="darkmode-logo-hide"/><!--[if !mso]><!-->
+    <img src="https://prod.statics.indeed.com/eml/assets/images/logo/indeed_en_white.png" alt="Indeed home" width="80" style="font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;color:#004fcb;font-size:20px;display:none" class="darkmode-logo-show darkmode-t-primary"/>
+     <!--<![endif]-->
+</a></td></tr><tr><td align="left" valign="top" style="padding:0px" class="fullWidth pb-16"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:12px;font-weight:normal;line-height:18px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base">&copy; 2026 Indeed Ireland Operations Limited  <br/>Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin 2, D02&nbsp;HE36, Ireland</p><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:12px;font-weight:normal;line-height:18px;margin:12px 0 0;padding:0;direction:ltr;" class="darkmode-t-base">Indeed processes and analyzes your activity in this email.</p></td></tr></table></td><td align="left" style="padding:0px" class="fullWidth left-align-text pt-20 pb-36" valign="top"><table class="fullWidth" cellPadding="0" cellSpacing="0" border="0" align="right" role="presentation"><tr role="list"><td align="right" valign="top" style="padding:0px 8px 0px  0px" class="pl-0" role="listitem"><a href="https://engage.indeed.com/f/a/g_SMOn2Nq1KpnH_6OFjZ-A~~/AAR9hBA~/gAW7fB5Q3J1keCK1uEFTOZ0iIYQufa6iDQyED-mj2uV5XhuUPRzXXcnyiRZaxC1G0PT1ypw-ViIrVCWDXH3ONk_-kdZvdvFyBipH-k1pKRpoajwIvcSXqUPhgUUKJ-hl2JyAY-LYV4lI0PRfJAUEW3gjFcYCuknNpj-ZdQQ8p0O1ufj7IfIyhtMqDZiu9CcuCk_hob60dYAumyIKDykd7EIpdbrDUgjgzG42mMgFrtrStUf1UckJEhFhjAuVnJINrals8qp-PHZ1bAkzH2n88Qf0H4yFTrRYr93JS4w5De06mOjCIlR3XrvY_p8SpH83kfX8CEZnvi4ieiMS8beAu0n0EjUzYIVFKwlbr4Ka9x38RwghWgtbwZ0h0PuXe6Xa5spbc1pL7nyQYdj9kvrMmqnHBuFbIJamEsuLlef8RqhwHKpzKnCUeSGXD1lChf6B" class="darkmode-ta-primary" style="color:#004fcb;text-decoration:underline;font-size:12px"><img src="https://prod.statics.indeed.com/eml/assets/images/icons/Facebook_black_whitebg.png" alt="Indeed's Facebook" width="24" class="darkmode-logo-hide"/><!--[if !mso]><!-->
+    <img src="https://prod.statics.indeed.com/eml/assets/images/icons/Facebook_white_blackbg.png" style="display:none" alt="Indeed's Facebook" width="24" class="darkmode-logo-show"/>
+     <!--<![endif]-->
+</a></td><td align="left" valign="bottom" style="padding:0px 8px 0px" class="fullWidth left-align-text" role="listitem"><a href="https://engage.indeed.com/f/a/VBdWE3beyUEAkQBpTh2ZeQ~~/AAR9hBA~/CG1xSRmENauRlvOHfAQ8NAyPkQkACecEFOByjr39lkocrgIPzuQsZb5eMETvbLdD6SGJHli7hQRTIz7WG2p9IG4OW_8ff9s3xvBRIKUXIALsKm8-zc0cnfaba-YAyFm6gf2sSm4bNdNee9dAXoAxFIVcq9uIqWZ8uVtbxwAmS8duwW_3aZ8QP-_W0J9ZWukLNocy1CY5ZH41g7H-zV_xS2TZh7i4__NlZaCPifR1hYJNTL_j4OwyLyMu0dXDBOd712dMlhHAWc85CnexYc8hdaPHTXS7M8bFEh67jufapsVZ_jhpwF7-lXFZIUMbv3U0RiRIj7AQ0VHIhrPsz_jNjr-ziJHDAFIyMpaqsmjh9ykEL0T2ZBZlmGDWQ-KwPpaHR4yj3uzMGZlnvVL0_5YCyCHst3s405_CO1lyKL0pF_JRPDcJ0ZSD4zDw6mSOh1sB" class="darkmode-ta-primary" style="color:#004fcb;text-decoration:underline;font-size:12px"><img src="https://prod.statics.indeed.com/eml/assets/images/icons/Instagram_black_whitebg.png" alt="Indeed's Instagram" width="24" class="darkmode-logo-hide"/><!--[if !mso]><!-->
+    <img src="https://prod.statics.indeed.com/eml/assets/images/icons/Instagram_white_blackbg.png" style="display:none" alt="Indeed's Instagram" width="24" class="darkmode-logo-show"/>
+     <!--<![endif]-->
+</a></td></tr></table></td></tr></table></td></tr><tr><td align="left" valign="top" class="" style="padding:24px 0px 0px"><table cellPadding="0" cellSpacing="0" border="0" align="left" role="presentation"><tr role="list"><th align="left" style="padding:0 8px 0 0;border-right:1px solid #595959" class="fullWidth br-0" role="listitem"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:18px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base"><a href="https://engage.indeed.com/f/a/SkSZ4OFA6HTMHUbb-fZFhQ~~/AAR9hBA~/8HflbKiLBS2uAtC-kFABEGL5zhBC_KyeO6hufYDulFMl-sEvQmgEBnvzw8LrxDbuhjy7rJ8wt3SQ6ZFZL3BaJwHO_n_eUtmN1DMo__V8r0SPWnrYOzqzjzgtTWbXswOnYZT4vMl2NAnBWod66CX8CGnSW4qzUeMi_dZzFSJh2zhQn0k71vbNmmHiuh1wKsnfv5-lbPVpBURmYaYEc6HV2dOdQ-PvepAUAC4OQxyc2IEPz3YM3CDsWAZFZIGObu9rrBWIa80GSseKSFX-t--48UnlUJ1blSJxCZdlzJ9VTtS5M0eZMJcD4eY98878xIKo6vvIlc1RkTUGvcH8Ni0I-0IeTMQoUTSorylUng2IWnQuZ921ichPCH8ug21kqgx1_RrcW3vDDhvBGW7GuhvwhP97BwJ4CtMkJoOGdhicOSe5EQ19HPHzQrQ9AH2z8FNgnn2dk5eXXJfQFHu-mY3lXA~~" class="darkmode-ta-primary" style="color:#004fcb;text-decoration:underline;font-size:12px">Indeed</a></p></th><th align="left" style="padding:0 8px;border-right:1px solid #595959" class="fullWidth pt-24 br-0 pl-0" role="listitem"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:18px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base"><a href="https://engage.indeed.com/f/a/KjZPRnNVKtvGQGElEFhSwA~~/AAR9hBA~/k3x8WpKsZbk1IkYb9ZaX7QyqFMpvawyCf7MPLRQ3NsZBGygrNkZT5quc87ze6VHm76YD1dEH0TguU0v-qeP17zmraizkHtVKVqyJx9FeLv_D4DHLvz9YT_2c4JczDpMMlvVQ_dZvtLssziq6ff2B1UFJJhfUBEPbjvMAGHXf3Ol0c07_pQaAP7M_FoAm_VT5G67dctyx-N9lMsAeDCjNgt-ggoi-zQRbYwZp37wR3hY0IMMjezf0g0Vy6wdSGde3BrzD0XQ4MBvnLqQlhAuiDHUydqYNdimKMjx-WKROFaTehZWlWMLLUqU_CBTXh-xEiG4SSt_nm42cqPovkbtWwZRMtRR24U_Fl8KQ1Gg-tyWkc8wR67wpjZwg2Mu4DgLfTNwEUirP0yWtuWou600XCP6U1SiQJPUIGKSoWiv5bxhwzPQX0bW-wt7ZzbjNL2H0RP8Lhp5TO9V51lyFjNSKgoPjQbqMwokIhlWryxA31_o~" class="darkmode-ta-primary" style="color:#004fcb;text-decoration:underline;font-size:12px">Privacy Policy</a></p></th><th align="left" style="padding:0 8px;border-right:1px solid #595959" class="fullWidth pt-24 br-0 pl-0" role="listitem"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:18px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base"><a href="https://engage.indeed.com/f/a/jKk6VRby8qbrZqvEWQsALA~~/AAR9hBA~/CRtxI63AWnBi2jiZOTMvFQAzGAd1IjG1xdmqyAV9BPBhmYmjV1qDx24eb4qi3DVc8gZFizOAH3A8r7v-p2lFkkjNRoCKoxapeAuBn-CCfbjmZXRoIlxLA8mjMPSvg5NYasbvjxHkwefZU5N26UjuvXSvibeeZlEQ5S-gxpbLHtjmz6VHb34NyTusYh8ndmk0YF0hYO4oef4inqsDu410ahnhfZEUprKkA716mJrAY4TzOdxpY2BQazW0thjZElvPzs8I9hquGA98x6tCGYd7rAHuL2Mk3VauMVVaDMrbw8EvxMjcA6g0YrHKh6soBS-m8EhJC0SYBnuEgvMqFXjIoZcFlVAisObkpEAoDlvA9WFrPomXvFA2DhM-SWTOAN1UB3LzxvkchnTTBZ6_MWjhArg5ib-T3OQQwDxKswEOyM8bxcMJMSumtgxgS_bclD81e--zXVhYyl0JMuWwrKGCKnvOa0sqrggSY4BRRmBnS4s~" class="darkmode-ta-primary" style="color:#004fcb;text-decoration:underline;font-size:12px">Terms</a></p></th><th align="left" style="padding:0 8px;border-right:none" class="fullWidth pt-24 br-0 pl-0" role="listitem"><p style="color:#595959;font-family:'Indeed Sans', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:16px;font-weight:normal;line-height:18px;margin:0;padding:0;direction:ltr;" class="darkmode-t-base"><a href="https://engage.indeed.com/f/a/iBOg4EG6UdMdHphuwm_8pQ~~/AAR9hBA~/rt0mOUpBhAX3BRrvgbGos_Cr99K0JrsRleZL8SY76dI12H6LRTE0Q_ccRQoF8B6hAUhRgKtWTv5_WNHg0VCTq6Cr9oSLEe0QJuj9gMX-v70uHEwT9r7SytUmRGPBOTeHeO6-Wo4-Czu3fSkPdQB9IGwHwAPAAisMaGtESRIjIqmsRySeOz91ftj0-s7OO6uz4BhdJCK2Ev3CtA23S_2c6ac9TrbVqDl3tSAnpQTUB7C1dlhzN9oEWTOHjmOV1z028Y-wRvljrapNxmqgjxzteyFNJ_gSJfpYXyzo4G8vetbt96jLsfWPlZEMmYtQKzBcTYoaEOUu2IwK3wEmjj0cxLtOE6cTGIFWX7iwiGxxxw_4TklLz3VIW55o4aqMLZDHA8cCKTeT97PkWsr6hx1cX2_VqoOXoHvxYfPiO7-5EC9HDOKb994WzfFqCWcnml_LGvjVOBY9nTSopUJWXOYoV5t8jI6erMjYiIKCmaJGG9Q~" class="darkmode-ta-primary" style="color:#004fcb;text-decoration:underline;font-size:12px">Help</a></p></th></tr></table></td></tr></table></td></tr></table><!--[if (gt mso 9)|(IE)]>
+        </td></tr></table>
+        <![endif]-->
+</td></tr></table>
+			
+        <!-- END FOOTER COMPONENT -->
+            
+<img border="0" width="1" height="1" alt="" src="https://engage.indeed.com/q/JaFvAp5z50bWnFVXuoV8gw~~/AAR9hBA~/RqWHKLwuzy-AksGiKCzlEDZIHYQ20aryE5PKL7q-WTvENbVAv07JNeadKWLYh8540_vIstZ0dbkS9nf6EmTOkg~~">
+</body>
+</html>
+
+
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:08:28

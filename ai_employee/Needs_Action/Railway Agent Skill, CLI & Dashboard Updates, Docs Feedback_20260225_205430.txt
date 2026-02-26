@@ -1,0 +1,34 @@
+From: Railway <hello@news.railway.app>
+To: programingmaster22@gmail.com
+Date: Sat, 10 Jan 2026 02:06:27 +0000
+Subject: Railway Agent Skill, CLI & Dashboard Updates, Docs Feedback
+---
+
+Railway Logo
+
+***************
+Changelog Time!
+***************
+
+It's Friday and you know what that means! Here's a summary of the stuff we shipped this week:
+
+* Railway Agent Skill & Claude Plugin
+* CLI Updates
+* Dashboard Quality of Life Improvements
+* Help Us Improve the Railway Docs
+* Fixes and Improvements
+
+Read the changelog ( https://railway.com/changelog/2026-01-09-railway-agent-skill?utm_campaign=Changelog&utm_content=Changelog+Template&utm_medium=email_action&utm_source=customer.io )
+
+You can reply to this email with thoughts/feedback on the changes we're making or even better, join us on our Discord ( https://discord.com/invite/xAm2w6g?utm_campaign=Changelog&utm_content=Changelog+Template&utm_medium=email_action&utm_source=customer.io )!
+
+Regards,
+
+Your friends at Railway
+
+Unsubscribe from marketing emails ( https://railway.com/preferences?token=75d83244-3087-49e8-a95b-a488740b3b4d&utm_campaign=Changelog&utm_content=Changelog+Template&utm_medium=email_action&utm_source=customer.io )
+
+© 2025 Railway Corp. All rights reserved.
+
+---
+Email processed by GmailWatcher on 2026-02-25 20:54:30

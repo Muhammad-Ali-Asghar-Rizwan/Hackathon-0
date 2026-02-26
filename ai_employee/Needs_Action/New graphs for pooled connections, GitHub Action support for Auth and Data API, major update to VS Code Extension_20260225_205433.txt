@@ -1,0 +1,31 @@
+From: Neon Changelog <changelog@neon.tech>
+To: programingmaster22@gmail.com
+Date: Fri, 09 Jan 2026 20:52:15 +0000
+Subject: New graphs for pooled connections, GitHub Action support for Auth and Data API, major update to VS Code Extension
+---
+
+Neon
+
+--------------
+Neon Changelog
+--------------
+
+*
+New graphs for monitoring pooled connections
+*
+GitHub Action support for Neon Auth and Data API
+*
+Major overhaul to the Neon VS Code Extension
+
+Read the full Changelog ( https://neon.com/docs/changelog?ref=%5BCopy%5D+Changelog+43+-+Dec+19 )
+
+In case you missed it...
+
+* Reusable Prompts: The Future of Starter Templates ( https://neon.com/blog/reusable-prompts-the-future-of-starter-templates?ref=%5BCopy%5D+Changelog+43+-+Dec+19 )
+*
+Inside Bitso’s Branch-Based Workflow for 250+ Engineers ( https://neon.com/blog/bitso-branching-workflow?ref=%5BCopy%5D+Changelog+43+-+Dec+19 )
+
+Neon Inc., 209 Orange Street, Wilmington, DE 19801, USA - Unsubscribe ( https://track.customer.io/unsubscribe/dgT7swoDAPD_PO__PAGbpIfz-4pGJ4eLE5fQajg= )
+
+---
+Email processed by GmailWatcher on 2026-02-25 20:54:33

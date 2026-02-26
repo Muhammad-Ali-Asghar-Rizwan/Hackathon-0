@@ -1,0 +1,190 @@
+# PLAN
+
+## Email Type: Informational
+## Urgency: Medium
+## Required Action: Read and File
+## Proposed Response: Read the information and file for reference
+## Next Steps:
+    - Read and acknowledge information
+    - Determine if any follow-up action needed
+    - File email for reference
+    - Update relevant records if necessary
+
+---
+
+## Original Email Details:
+- **Subject**: Full Stack develeper at Brandrevam and 18 more front end developer jobs in Karachi for you!
+- **From**: Indeed <alert@indeed.com>
+- **Date**: Fri, 30 Jan 2026 06:23:20 +0000
+
+## Email Content:
+Indeed Job Alert
+19 new front end developer jobs in Karachi
+
+Jobs 1-18 of 19 new jobs
+See matching results on Indeed: https://pk.indeed.com/jobs?q=front+end+developer&hl=en&from=ja&l=Karachi&radius=25&alid=67acfa39717b443c60a82c34&tmtk=1jg6p41oj2ank000&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t
+
+
+Full Stack develeper
+Brandrevam - Karachi Shahra-E-Faisal
+Rs 40,000 - Rs 100,000 a month
+Easily apply
+The ideal candidate should be passionate about building scalable systems and maintaining strong server-side logic. Work with databases and server-side logic.
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=319d9fe07a66f889&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=AbLHrm6GRQMtYBMzyEs2L1_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBFgO1Y3DwikMeXInB2vuFHoa71-fcPxJjtN23WR0cxY-7ZKnTu_keSZgWUdUfzmLOm9ZrsNmhP7NOajzoeSwTfEz6FxHoYdxDcpERTPopKg4-7g2ZpahY2w%3D%3D&g1tAS=true
+
+Sr. Frontend Engineer
+NorthBay Solutions - Karachi
+Easily apply
+NorthBay is seeking a Senior Front-End Engineer with deep expertise in JavaScript and modern front-end frameworks including React, Vue.js (Nuxt3), Next.js, and…
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=1bec268740927976&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=16_aWxKjdOhDTGn0Nf9ckl_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBpwMZZeZsIZLy3SS4R9pzfL5t4O_cEa0ndbbpLDwOOM1N5Eq4IuXfgrHmr3ZzxtAeY5RGxNR-YMlMYoirPuYf8PilD9Qxc2RuoqRhRBFAfiJmf3FepzyMEA%3D%3D&g1tAS=true
+
+CMS Developer (Night Shift)
+Design Henge - Karachi Gulistan-E-Jouhar (Kp-2023)
+Rs 80,000 - Rs 100,000 a month
+Easily apply
+Design Henge is looking for a talented Web Developer to design, develop, and maintain WordPress and Shopify websites. Proficient with front-end development.
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=de55080f75495e69&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=wRw4VfvjpFhMaapCW_-ezV_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBni4KTC8oFWjg9AcUouG3nAiv0QnjnZqJex7-Ffu_3JVcT9Nw8vAoKMBEj7leXvDCCMC2swf7fVOJvzTDGCojxJYROxHCvApDESuUgUwc-4vRxsZkDsHoUw%3D%3D&g1tAS=true
+
+UI/UX Developer
+Hope Global School - Karachi
+A UI/UX Developer designs intuitive, user-centric digital experiences by combining visual design, usability principles, and front-end development.
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=6bb2b956950bcf44&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=0sjcvfpqkqXZa1z0Ck9HYF_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBnfn09ncVtJsBQxN4G84d5-5to1YAdaxNf0BhOEEvUiQ09yyod0Mg7WlBfQycpVVlCIs8h5M0K6fQyCKwUtwGzigQLAagjRBjL4z90PYHcoATyqgnv2uCSQ%3D%3D&g1tAS=true
+
+Web Developer CMS expert (Night)
+Design Henge - Karachi
+Rs 80,000 - Rs 100,000 a month
+Easily apply
+Design Henge is looking for a talented Web Developer to design, develop, and maintain WordPress and Shopify websites. Proficient with a front end development.
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=801d3097f80d578d&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=S-68c07Poy-gqQdxtJ8OnF_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBHBw0CAspglf8OuEugvv1yf2qWOSUeGDHmue4avkv343P_f3TFANV9CTDHeKh-AQnYz0X5qgGzvHhz3EDCAlegFBURWSGzvDS-oFl4rg8u-FyKXe1f68DgQ%3D%3D&g1tAS=true
+
+Shopify Full-Stack Developer
+Synage Global - Karachi Shahra-E-Faisal
+Rs 50,000 a month
+Easily apply
+We’re looking for a Shopify Full Stack Developer who can manage both the technical development and daily operations of our e-commerce store.
+2 days ago
+https://pk.indeed.com/rc/clk/dl?jk=43966cf542ad197c&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=x5SUCvphgkEZUN6bPKxzIl_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBs2pY-1OmQIcY6c1jyFmLIBrTTugdiQZTWb3KDx5JrUhyUDi_odo3bpcOFJwQRTOdTUr0PdJo49JalmqgSviumodYvHazedJvvXzcUBWC-u8oqhRh8Lj5Pw%3D%3D&g1tAS=true
+
+Senior UI/UX Designer – Web & Design
+JIMMY LUXURY RETAIL PVT - Karachi
+Rs 70,000 - Rs 100,000 a month
+Easily apply
+As a UI/UX Designer, you will play a crucial role in designing intuitive, user-friendly, and visually appealing digital experiences.
+2 days ago
+https://pk.indeed.com/rc/clk/dl?jk=24e01d45f7919db3&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=gy7MCxDMWln4LWQRywCz51_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBtqFBISuHsKDEsbnOA2b6KrCZDASFEaKOzt5uBGRHI6x7kCWHZcGbyAvETwKaTFMw1_M9dOMrAzhXRIEMOG_oFaTWgjDzw1tDsD0I4JOCDdICvOwNaS7VUQ%3D%3D&g1tAS=true
+
+Senior Full Stack Web Developer (E-Commerce Focus)
+Starlet - Karachi Nazimabad
+Easily apply
+Job Type:* Full-time (Daytime Shift). If you’re passionate about building robust, scalable e-commerce platforms and have a deep understanding of the full web…
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=7b5758932953f598&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=atk-kgV92m6TJ3g-AHTrAV_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBBwDKRnOscFhqnfnmmbvKdG86y7-b4IYE3J9rZ6nEQ395gw5FktKYEeMwDMMkL8OroPezQUJuc3C0-XEydkVUy_3xybSgLljRN9_Rf3-hf__AGwIbKs8xOg%3D%3D&g1tAS=true
+
+Software Developer
+Asianet Pakistan - Karachi Saddar Gpo
+Easily apply
+Bachelor’s degree in Computer Science, Software Engineering, or a related field. 3–5 years of experience developing, optimizing, and maintaining applications…
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=0886564c4be160ec&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=Y9tUdkd5kw9dqOv55wcEg1_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQB60R4qas4o4D3TWhpCU-6Kxto9FIXcz0N1T2RxhlTvAixqCO184ODCZAmmgy6lg6JCDvjqQIzMdC5OoQAoW-eTZ4QsbgoV03-1ddpfrzKcMJvlxCH3hfvkw%3D%3D&g1tAS=true
+
+Software Developer intern MVC Dote Net Core Developer - Male
+ICT Systems (Private) Limited - Karachi Shahra-E-Faisal
+Rs 15,000 a month
+Easily apply
+*Timing:* 11 AM To 08 PM. *Days:* Monday to Friday *(Alternate Saturday )*. ICT Systems Pvt. Ltd.* is a Dubai-based software house with over *14 years* of…
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=eed76552aaf7fbd0&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=GZFcyHBScz1y0mDksF1mpF_MKnaSAFGAsD6kfERFt3g&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=NFuqP1YRnSbi2wztfFHbT-xlwjsJLkQBbttad0zqFN7tpQYl7zBGnXXBYidt7bfApJ7Jt_wVA_VVz_XV5P7IBnswjyqNPzr-uOKN9CsBl9-ITarWo3tv1SWxPdmBc_aPiATvaaO40k-YR2ZyYXs3hw%3D%3D&g1tAS=true
+
+Technical Consultant
+PwC - Karachi
+These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business…
+2 days ago
+https://pk.indeed.com/rc/clk/dl?jk=0b3a377c2f27b6ce&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=yON7vZ4td41GGpAPelGL6dsOwAAefBnS4uT4BNwtXiI&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7LpAvyzlQCimMEbd_6xfhjXRILqSVuOa8DdHjnFAxtfVzaMYE44lXE8og3pfnHxACnG73eW34O5s9LDdcics4VLggh0xejGAoxyRRp9hSKb4EINP1YM3WQXRQ%3D%3D&g1tAS=true
+
+.Net developer /ASP.Net Developer
+Xtecsoft (Pvt) Ltd. - Karachi
+Rs 50,000 - Rs 250,000 a month
+Easily apply
+NET MVC/Core developers* who will be able to develop and support web applications. The main scope of the job will include everything from back-end to client-…
+1 day ago
+https://pk.indeed.com/pagead/clk/dl?mo=r&ad=-6NYlbfkN0AZjYrdQSNQzB0GvBzldwpAsJcOt2K8tBpc-wG9a3A8dgVWvHUeJYbT2dUEype2EGcu2DqqalgOKCZm1CSJAzKW2WouilL4dolxffCqksod__tfCcALfthTT520Jr59pAxAEeCGRopUFsPsCXqM5RGfPWyh4iFlx7UxT2IjY73O17oRQU8DKcn-zduQyZM2Nvts6s0xGpV8WV1OUx-saGqJoU6gQA0slHodaaYsok7kCeA-vg5k8rcWi0uRywQomdCseCUCFx7PLCpxWZFXJJIdbXh0cDIKNz8qiKQB0CpXmVyj_3Trr1sb5uo2nR-YC2WbNrpOyHtWP6Jhxka0eEgPbTP1z4MMijPJuVEOMXJhhmf9Jrf0XU0hR1sn9tZNutaPq-t0d_vX2hkUvLkalZ_cv_vB7MgX_14-cZNlBR2NpJ6O7XIVS2YXnH_vhxXm4-h3Rqli9Hv2U1ofZKO3ANa14XSd_iz3dA2ZcC3ZKlyhzSHMXJx0awE8--SwAHIjntSJlJFhJRrWElSw6f-mSiqNr89NWxzyzEUmwB3JIGC6JQpv8uInClZY4Vd3AUeskbAurHg-F-37C5lhzJEGdIb_j5Qm68qbtvQ8vx9P7ZqFdfTKpr6juRRxO9O3vmcmamPHO_53O638uWPtn9QLYFLaxq9nGkq6s7ablPtudu6_RmE4cJVpVC4F_v2g5aZetOM-siYqZZ_yv23nw6tr4GneO0wDDnlCiVnSdns7ae5XiA%3D%3D&xkcb=SoBP6_M3nG6fnv07UZ0tbzkdCdPP&camk=UoKtGZLa3XJRbZwlj7wfaQ%3D%3D&p=0&jsa=9859&rjs=1&tmtk=1jg6p41oj2ank000&gdfvj=1&plid=indeed-jobalert&alid=67acfa39717b443c60a82c34&fvj=1&g1tAS=true
+
+Dot Net Developer
+Awesome Technologies Inc. - Karachi Shahra-E-Faisal
+Easily apply
+The ideal candidate will have a strong foundation in . You will be responsible for designing, developing, and maintaining robust web applications.
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=cbc19841a81d7c6a&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=v3mITYvdkoDZTa68LYHNegsnOLhQXJeGPvQQwS5osgc&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7LpZzNz-LBqYoshXRVIm_JBGydH6LUinqapPPMjIGWGnj6wwk8ANj-1ai9HcWGeJpiOncMmcFaStt_QjumQNvFSAkb8sX-qWr55kItUD7hd9uBP3WIq9u3YuA%3D%3D&g1tAS=true
+
+Team Lead Dot Net ERP Developer
+ICT Systems (Private) Limited - Karachi
+Rs 100,000 - Rs 170,000 a month
+Easily apply
+Team Lead Dot Net ERP Developer Required More Then 8 Experience!!*. Only candidates with a strong Financial ERP background and experience in at least 10…
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=8008062edbca65d0&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=UXIDHwmzP4uiAG0GShYBjQbXCHXgJEVMrHKBS2mW9rM&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7LpBa9VU7r3u9_NgGjeAw0EtzoB3YdGxa3HwF3ZGWEfwcPH3g9BgT_yZ_OpHbMxA7wPj8M0HkiUeSno1I0J9w2r69YKyNWaVcNuXYDyD_OmghVcNZWcDC-0jw%3D%3D&g1tAS=true
+
+Sr. MERN Stack Developer
+HR Ways - Karachi
+Easily apply
+We are seeking a *Software Engineer *with experience in software development, utilizing analytical and technical skills across various development and design…
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=3dcb6c8f8240d7e8&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=ygDGoLTm66_A3NwZ9yDcQQbXCHXgJEVMrHKBS2mW9rM&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7LpzBiNEKxyc9uhg4VK-ah0xpuTMPQkCllyCHLjsCYj9SgPJLJbaOzt35-YxWqRFk9ebMoOe4JF0o9n0Dbl6tamP-645dgiQ8G2tAvTIWsQIUwvA9W9ZGidhA%3D%3D&g1tAS=true
+
+Full Stack Wordpress & Shopify Developer , Developer
+ICT Systems (Private) Limited - Karachi
+Rs 50,000 - Rs 60,000 a month
+Easily apply
+*Experience:* 2 TO 3 Year in Software House *(Mandatory)*. ICT Systems Pvt. Ltd.* is a Dubai-based software house with over *14 years* of excellence in *ERP…
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=358a6b44445d1c1e&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=qtKc8zzwFCUusoKbqZh6lwbXCHXgJEVMrHKBS2mW9rM&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7LpIdEaLXFTNdn_tKuryqoSmqsU7IKlJNbmWf-v4gK1ujdOIhq9ZWaqgUSRh3XIxCjP5EZjq7HE25BHS34e_dBQgxtp-sXBTal7EKB9Db6uefg_5qqcg5I_jA%3D%3D&g1tAS=true
+
+Team Lead .NET Developer
+Quality Vertex Integrated System Engineering Pvt, Ltd. - Karachi
+Rs 100,000 - Rs 300,000 a month
+Easily apply
+As a Backend Developer, you will be responsible for managing the interchange of data between the server and the users.
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=9a8202f802fe4188&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=J3cGT0mTpjRZ4KRZ0B9kzAbXCHXgJEVMrHKBS2mW9rM&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7LpFeN2ey4EbWVFbolKrgMBNeFBEXlIO7ok4ATqvy9-JYbkvB3imOJfS4TiugRwa2qjO2BdYVN9kJWgXAXZAee6hCfklNDl7Q4tbiTBdnOePitHJsGvzufe4w%3D%3D&g1tAS=true
+
+ASP.Net MVC Web Forms Dote Net Core Developer - Male
+ICT Systems (Private) Limited - Karachi
+Rs 60,000 - Rs 70,000 a month
+Easily apply
+ICT Systems Pvt. Ltd.* is a Dubai-based software house with over *14 years* of excellence in *ERP software* development. Strong command on C#, ASP.
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=45fdfe60e07c73f8&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=U8qhXBRF3Bn4DNS7_2eoXwbXCHXgJEVMrHKBS2mW9rM&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7Lplu1Z3FuXCkkR_nbRpHp-gJjPZWIR7Z8H8o2w__jz8QaeNuLDCY2gh8AYiH9PiDS2BQY9RONcfyhTy1vd-hcrMn-1yfal_3Im300UUhN8H3T1crVtYrCaDA%3D%3D&g1tAS=true
+
+React Native Developer
+INVISION Solutions Inc. - Karachi
+Easily apply
+(Day Shift/ 11:30 AM- 8:30 PM)(FULL TIME- Onsite)*. Use React Native to build slick and robust native apps. Work closely with backend engineers to understand,…
+1 day ago
+https://pk.indeed.com/rc/clk/dl?jk=534466f12ad06fde&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVG9926KY4QrhE9PdCvV5JNY5mfW3uPfJKrcU4poOD4uMI&rd=-cTin6oZIIgHGpyXX-fFNgbXCHXgJEVMrHKBS2mW9rM&tk=1jg6p41oj2ank000&alid=67acfa39717b443c60a82c34&bb=RcdG4XFg_EXUniSrQOFDfYtKrY3JF7LpUMA4RGmEFh1j59BMroUBnb_D93dAhGWzMZNGxDS9_u-ocfwFTbo6C87TQPje_fjmHjqIe7MtN2YorWA7jcurQC2eDVTHeF5X6551cfv9zM-Z6mPsAJAH1A%3D%3D&g1tAS=true
+
+
+
+Do not share this email
+This email contains secure links that are personalized for you. Please do not share this email or links with others.
+
+Salaries estimated if unavailable. When a job posting doesn't include a salary, we estimate it by looking at similar jobs. Estimated salaries are not endorsed by the companies offering those positions and may vary from actual salaries.
+
+© 2026 Indeed Ireland Operations, Ltd. 
+Indeed Ireland Operations Limited, Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, 2, D02 HE36 
+Privacy Policy: https://pk.indeed.com/legal?hl=en#privacy 
+Terms: https://pk.indeed.com/legal?hl=en 
+Help Center: https://support.indeed.com/hc/en-gb 
+Manage email settings: https://subscriptions.indeed.com?token=CkCpkXTL7gGktRGx28L6lWkb_E1kAFn1959iyhd0hXlZVMI2x9WsLb8gBWDUxatixCuovYzn-Po2RbEfmvQmRIXbEiBRnV2R6VYm3kNFsYuJfKcZHA33L1r_RlhTctwNLIkcFxoQ0nVtX5IEMAyBPrZEFqvzWA%3D%3D&co=PK&hl=en&tmtk=1jg6p41oj2ank000&from=ja 
+Unsubscribe from this email: https://subscriptions.indeed.com/alerts/cancel?token=CkCpkXTL7gGktRGx28L6lWkb_E1kAFn1959iyhd0hXlZVMI2x9WsLb8gBWDUxatixCuovYzn-Po2RbEfmvQmRIXbEiBRnV2R6VYm3kNFsYuJfKcZHA33L1r_RlhTctwNLIkcFxoQ0nVtX5IEMAyBPrZEFqvzWA%3D%3D&co=PK&hl=en&tmtk=1jg6p41oj2ank000&subId=67acfa39717b443c60a82c34&rgtk=1jg6p41p7gbe3806&from=ja
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:26
+
+## Analysis Summary:
+- **ID**: email_20260225_203716
+- **Generated at**: 2026-02-25T20:37:16.731489

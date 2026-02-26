@@ -1,0 +1,165 @@
+From: Google AI Studio <googleaistudio-noreply@google.com>
+To: programingmaster22@gmail.com
+Date: Tue, 13 Jan 2026 20:24:20 -0800
+Subject: Gemini API: 5x higher inline file limits, support for GCS URLs, and more cloud stores!
+---
+
+Email not displaying correctly? View it  
+online<https://notifications.google.com/g/vib/AHvOEDkDFWWF-ExJJsBRmwpE6LJDdX6Tg6L9R9eh_vr134omV0jYT4U9K4WrGlGrtBIvTrPAyG4ctYI40NsBYBMPvRGisbHQbgNGoutJBrnm81XYFFj8nIlngy0SirVxYQIxLAA>
+
+Google AI  
+Studio<https://c.gle/AHvOEDkvHVDJXspfi6xwe421izScAaMBWIVQrkqtPlvgJI7W_VQk_HCoa9Tm0gUqaIMVzV3FCurDxMUhlunhLC2O6ic9zRnMfmlTHTRg4sQgRNcxVaAQXREbD5UuPg1qmEkiQMFpRe15nYpXRgvJHSO1AonZWZ0>
+
+5x higher file size limits and new cloud file input methods
+
+Try in Google AI  
+Studio<https://c.gle/AHvOEDkzeRDecxys_JfHch_gIw_CDk62W3wPzGA87j1Q1NAaGb-l1t--V22PDWfy1APnUScb8oNMzFLFo4r32brBSy1MnhSFSiN33zDmwP4Ava36vMWx7vBCCMZNsSgIcu1YMNNrVrAIFDwrU1nNlPT3WhuySCb_kYzOMUdGkbjPgJz2QNBWC6KcG3iX_PETWjCP6NKzPx7bQUdiEE3QLCuR>
+
+Hi Ali,
+
+We just increased the inline file size limits and launched new methods to  
+help you bring your own data—wherever it lives—directly into the Gemini API:
+
+- HTTPS  
+URLs<https://c.gle/AHvOEDnKhuw6ULEN4SsPq6XyVam5rzD3ioA660Wl82IAseneP3mtICTCTsEH5v1cz4R9Sk8v3peAfvhd8fEOOhqQ-sg0U7S8YebtYsaQM8j7O04dig1EK9zvxS05VCQwuELzQ17kW0MHYQKyLvE760XRjdO0IzX5kKESRkZVaOZ7h-MXQvAkoNWcouVmM2-_y4wWj8_3>  
+- pass any publicly accessible URL, such as a PDF or an image, directly in  
+your API request.
+- Google Cloud Storage (GCS)  
+integration<https://c.gle/AHvOEDniR3msVXIoD3AEB3crYfnXING_0gvhgLF12vINfA_y4sN8KAn9AiMZQciDLGrxOXAjW0sS_W9nQ6GfWOlDiDBR4A-JWyHS8nJK-junqacsUcTmIkKvure62BOfky72yRiX_F8D2Menqr7PsVl0bDpvZ4rrLCyNJYZLXFGPKil7saai6chPKOrvfT61h3F6WF2Y_jxhk6m33bYiwpaxMWNg_fHMZ8aGi9XB6A>  
+- register and reference GCS files directly in your Gemini API calls.
+- Other cloud storage  
+integrations<https://c.gle/AHvOEDlA8yHxAQBaar_thQEVE4z8zKOCR5azxG9-Grd2NXyFz06EzILBxM-_NPYt-csuDr6SL9CUh90de53B6mNUiwKolllj5kjs9i8WcUQOB0B2VxVMTlbp2SZjOnm_ZaszunpXaEhc_w2GiMf6Y7tRceOl60JZ83M3SVXHWAvIRT_1F1WPd5ilw7oOQblG9yEL_UZ7YFACIJqHJWbjgo9tLqgGyYc1X6hbAk7JSfM>  
+- use pre-signed URLs to grant secure, temporary access to data stored in  
+AWS S3, Azure Blob Storage, and other providers.
+
+You no longer need to re-upload data from existing storage, allowing you to  
+scale your AI applications to production faster.
+
+A table comparing data methods: Inline Data, Files API Upload, GCS  
+Registration, and External URLs, by their best use cases, maximum size, and  
+data  
+persistence.<https://c.gle/AHvOEDnlfZlUed-Ri-V2UbwDPqS4KWkd7Tsw9zGqsWIe2oB2uFkfQCM9LSybm1PCkxtOuQGASIIXvT0dBLQjpZRlUulZd9UAB8wrbBHjlv8TDONm6bhtFyQ5Y9ywdI7eSYKrT0Pm37ukbF-IgqgshIm2XThK4lB3q9iifZgMWXg4wtEq7nrD>
+
+Get 5x higher inline file size limits
+
+For developers who use inline files for speed and simplicity, we increased  
+the maximum payload size for inline data from 20MB to 100MB.
+
+Get higher  
+limits<https://c.gle/AHvOEDlib-LkhlH4w8F4nSN4DemRUUqWo8dtlgUf8X2cxZ-caGzf2a7KyNsJuF_5K5DbOeQlYZvz88t_CkkiYs8zaMxCKjHY4bCUXhIu5JoaBmJYc08ZAXs-_15PLxu1-pHOPImCnD0P4-GDh1W9h44Up6DXcJ9FkRyqQ4tBYGizZw7v6YUq00fdWY1YWRI>
+
+Bring your data in seconds
+
+You can bring your existing data from S3, Blob Storage, and others directly  
+into your Gemini apps. Generate a signed URL and start prompting with it  
+immediately Get your API  
+key<https://c.gle/AHvOEDn44MbwACLVy3Nd3Pfq6a7IgM0TSLbB8xTvLewMzYKNeu9u0JmxbO73eXXUuXQgUgcWBrGh1w1_CJJ8EOLiIapwgrL-wQqWAyDK7sjV6BaWUgXA9zLHqq_3dWHvtwp-CLtnHFZINVAUEUqJRX2iJPVF5t14wUS3elOYoDGJIIy_zBivAcQtFZ8kNJYDf1iWW3Wlt9w9PpibWGz1TaCd3dj7X7kYu44zCa3QCUFb7Kr5FWF1UwMVQXaBtSyzhxJC7hs_vNLOkDo>  
+and check out this example integrating data from AWS S3.
+
+from google import genai
+
+from google.genai import types
+
+import boto3
+
+# Generate a signed S3 object URL.
+
+s3 = boto3.client('s3')
+
+signed_url = s3.generate_presigned_url(
+
+'get_object',
+
+Params={'Bucket': 'my-bucket-name', 'Key': 'document.pdf'},
+
+ExpiresIn=3600
+
+)
+
+# Use it in the Gemini API.
+
+client = genai.Client()
+
+response = client.models.generate_content(
+
+model="gemini-3-flash-preview",
+
+contents=[
+
+types.Part.from_uri(
+
+# Use a public HTTPS URL
+
+file_uri="https://example.com/secure/image.pdf",
+
+),
+
+types.Part.from_uri(
+
+# Use a signed private URL
+
+file_uri=signed_url,
+
+),
+
+"What are these documents about?"
+
+],
+
+)
+
+print(response.text)
+
+These are just a few of our recent launches – and there are so many more to  
+come! Follow  
+@GoogleAIStudio<https://c.gle/AHvOEDkNjDsvOSx0u8fmx2W_sP9eVTa7YRI9O0ccfE81MrMBEb4pQYPOOM223KMzz5kVUbEyY0sdQk-wwBbdOv2uQ0fHd-PekYgRt2XlvSWGKHvuZM4ZOGjG08qCiEQnbtqiw4g28OEnb64lGDuR6bA>  
+to get the latest product updates.
+
+Happy building,
+
+The Google AI Studio team
+
+Guessing Game app  
+image<https://c.gle/AHvOEDm3odXaOpeChm-IbTguWQftW2J4NZ_gTMJQHmjd8EkBCn0zZJhs64U4802Toe7Cas4bLDITQqf73KYYTXjWkri9eXgp-4tqdUeXHe_jMRc5MFsA8Yu5zD7s79R1gfejpxkd4QtPE75T57wQXMiJ546eV4FODc0GqY7pc8DcyZ4upGsMTNRYx6HLSD6gHLMuaXqqNmoayZQAzmL3bUxIlh3aa6dRXbTO12asFHY>
+
+See what's new in the Live  
+API<https://c.gle/AHvOEDkvuCTmQAu1uKVo7r_lSq4sFYyAoXFBs_VtRRxme5kMkhlOsRn6E9EsOmYFLcHc45Y8S-vEu_blt9W3liyUCI5-tF5_7S8PDzt1-ZFoHu56dPj8Q47Ltax1sXHaQkqWbBnfX7mzpGqN0hG8MchaMPAIhH93BD6Aqi2BSCmVT_rPUTQZw7fdT9x3>
+
+Experience natural conversation in over 70 languages with the updated  
+Gemini Native Audio model using the Live API.
+
+Try in the demo  
+app<https://c.gle/AHvOEDnbzvsxo2W58qXixTRDNpmhglqTxttgJoWcceZ8Ajau3w7PbFyPAReBv6iHqGmgsx62KINaG_BPVv9MqYgH8ifnbgONMUux9UlRTL4XOLGR0cs06j4wkJ21VKOnH_rGG7p3fj1rJN-8C6jQ2sdRsr3jz4ET7UybcIP7s5QiEqY0AhcXVz-Wkcprb21PvdYsnTpIPzSVYI-Z2G2xhXtu1lcH7j99smcO-trzWVEvioNxIr5rxfh1>
+
+Run large-scale Gemini API jobs at a 50% discount
+
+For bigger data workloads that are not latency critical, try Batch API to  
+significantly reduce costs.
+
+Build with Batch  
+API<https://c.gle/AHvOEDktwjz2-dGaJ-1I02Z81oEr3rs5fH0d6sWhupQ3rrVodj6NihOZbuf7ziu_WehwQqIbPbXqy8je1_6T4u2Pdy1AxJ6xCVtFDH6X29-eSVfQfhlJgT0g7EjrU8WqJTr0y1OTWkgTjZGTbaCK5T3CAnCaDUFOrGRr_0epIKH8hHY7I5tZK-2V8z80iDIutHuUE82OEL3xMCNeT9DUgNZLA8K2KqT3CEcsi1aje-P-IQNLWMqKD-KDSLFPGHkxex7NjSk>
+
+- Prompt  
+models<https://c.gle/AHvOEDkqYB9gtCOpdiBJ9xgCWvtmOPXDZanY62YWeWVcCL1LGCM01WWf78Xvf0ySFwykz3RYh2bXuMOCfVmqR1RVa820FbHWhqYAQJ6ThVTnWxwBqGHimkGJXmh8D8iLc4cXtTMgxAAme5-tCsPQE1SsQtNHcAi8o1UzAOIUZEUSWo65YnAqMea2m_JE4z3-R-u7vxQzZK1Z7gP3egQBSb1V0SERhV8Rk6aao64ozGgMVGJbZZd7cQUDX3rmAfc5b92u6A>
+
+- Manage API  
+keys<https://c.gle/AHvOEDlR2uyL44UVRlO88nSWxScI71ncdZZQN-gJNMGQZJAJ7RliHl5FU_KE44KIRRE_drBPu2sSgYqHjhssjdxg57aAAOlgTmmDitwqQ3BhMQUONgVM8Cnex_PiKwaZ2vVyQkvKtCRTbGi1nGgs7RXQHPEI-ZeBKjhFIHF8uu8AJlvkFbIiNUJou0luj9SCnW3nUlTzGXjEcF5zVJvi1bmnmjhLmbvctKX2uadSd2ZVA7w1ltpo5g>
+
+- Vibe  
+code<https://c.gle/AHvOEDlpLBqlr6zvjq47w-06lBAalDY6xGPvkqD2I-N11mBYuGXHUj8p95MDYRwpJwgV5kh4O0arCxvjtXf4ENad9PxdMItdtYtpJ1i2v8-hTHFENOrRriZ7gQTqN97CIKpAJV5HrMpO1FTOWLdGJK1YtoncEG7Os-1K5pHMtHsscBn504v73LVxSHQylkMqJTWEdARypOlJigZxvAVRfnZz5G_GOe5iMzl30RYHJoc>
+
+X<https://c.gle/AHvOEDmL1r5ERSmG4C-4uFa_PT6DMFnjTJMG1duyqGP726ppOPUUh-puPaU5rjoIu0FNiuwWSpHUzmDIHhYVCGMbwQI65HnvzCJL27NP4zCfTDlARVKwWSiCzQv2dGec2TrvKCQ>  
+Get  
+the latest product  
+updates<https://c.gle/AHvOEDkg_7PJY9i7LxZpF5H3W3qTW-BSc7m5CAob5yOj__iXI7X577pefffsNfzP4d9Qd2bR8bM9D2wGRZ2eZVAOdoAhAVNvTFM3gV0EQ-vXY8CpRRTWl56atdC2v-iGSilsNk5n8P9ozEyI2hvyJegQZnvBAn-wunFDSYvhZtf2PQ>
+
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+This email was sent to programingmaster22@gmail.com because you signed up  
+to receive emails about Google AI. If you do not wish to receive these  
+emails, please  
+unsubscribe<https://myaccount.google.com/communication-preferences/unsubscribe/gt/AHvOEDk3UIndDSenoxPzN1edxIYWSIxZMJLPBCAIY-oIwwFIAVkuRHnnVPH6sEs4zyJX1SX9li5mdZWaQ3fS3ByCe7OZq4scSTYhT0Hwas_amrUEzlZNA4nfIH3L7IXX5I_h7571PK3TFLCbP6KHW14eIe5luNatwtGEgYn-mbrBl8vT2VxBLqFRGU1iqkod0YXd2vjFsNoQo6oYXIJn-H_edDWZBWcZ34IQRf7ZJHX8CvnzRwYp5IbocHU?utm_source=gm&utm_medium=email&auto=true>.
+
+
+---
+Email processed by GmailWatcher on 2026-02-25 20:53:40

@@ -2,6 +2,1216 @@
 
 ## Activity Log
 
+### 2026-02-25 20:37:27 - Orchestrator Run
+
+Completed processing Needs_Action, Pending_Approval and Approved folders
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:25 - Plan Generated
+
+Processed 😲 ≤ $9.9! Luxe for Less_20260225_005148.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:25 - Plan Generated
+
+Processed 😲 ≤ $9.9! Luxe for Less_20260225_005113.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:24 - Plan Generated
+
+Processed 🔥 This week's hot picks_20260225_005134.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:24 - Plan Generated
+
+Processed 🔥 This week's hot picks_20260225_005127.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:24 - Plan Generated
+
+Processed 🎬 ”Behind the scenes” is the new portfolio_20260225_005129.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:24 - Plan Generated
+
+Processed 🎂 Celebrate your connection Jonathan Alexander’s birthday! Reach out to them and 2 others_20260225_005144.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:24 - Plan Generated
+
+Processed ⌛ Don't miss it_ 20% voucher_20260225_005205.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:24 - Plan Generated
+
+Processed [Final Call] Intern with Ankit Aggrawal - CEO, Unstop!_20260225_005122.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:24 - Plan Generated
+
+Processed Your quick guide to what’s new in Clerk_20260225_005153.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:23 - Plan Generated
+
+Processed Your Fly.io Standard email support plan has expired_20260225_005139.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:23 - Plan Generated
+
+Processed Your application to Founding AI (Full Stack) Engineer at Chart Learning Solutions_20260225_005131.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:23 - Plan Generated
+
+Processed You have an invitation ✉️_20260225_005203.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:23 - Plan Generated
+
+Processed You are eligible for ₹50K Giveaway 🇮🇳_20260225_005148.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:23 - Plan Generated
+
+Processed Updates to how privacy settings work on Play_20260225_005140.txt
+Plan: Draft a polite and informative response addressing the sender's concerns/questions
+Status: Approval Required
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:22 - Plan Generated
+
+Processed UI_UX Designer at Turn Up Technologies and 1 more junior front end developer job in Karachi Shahra-E-Faisal for you!_20260225_005140.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:22 - Plan Generated
+
+Processed UI_UX Designer at Turn Up Technologies and 1 more junior front end developer job in Karachi for you!_20260225_005155.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:22 - Plan Generated
+
+Processed UI_UX Designer at Turn Up Technologies and 1 more junior front end developer job in Karachi for you!_20260225_005152.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:22 - Plan Generated
+
+Processed UI_UX Designer at Turn Up Technologies and 1 more junior front end developer job in Karachi for you!_20260225_005141.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:22 - Plan Generated
+
+Processed Trending Best-Selling Products List_20260225_005116.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:22 - Plan Generated
+
+Processed Trainee Developer at Riksof Private Limited and 24 more web developer jobs in Pakistan for you!_20260225_005152.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:22 - Plan Generated
+
+Processed Three days left of your Fly.io Standard email support plan_20260225_005204.txt
+Plan: Draft a polite and informative response addressing the sender's concerns/questions
+Status: Approval Required
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:21 - Plan Generated
+
+Processed Technical Support Executive (L1) at ePAGING Pvt. LTD in Karachi and 1 more new job_20260225_005114.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Sr. Frontend Engineer at NorthBay Solutions and 2 more junior front end developer jobs in Karachi Shahra-E-Faisal for you!_20260225_005131.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Sr. Frontend Engineer at NorthBay Solutions and 2 more junior front end developer jobs in Karachi Shahra-E-Faisal for you!_20260225_005128.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Sr. Frontend Engineer at NorthBay Solutions and 2 more junior front end developer jobs in Karachi for you!_20260225_005133.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Sr. Frontend Engineer at NorthBay Solutions and 2 more junior front end developer jobs in Karachi for you!_20260225_005127.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Sr. Frontend Engineer at NorthBay Solutions and 1 more junior front end developer job in Karachi Shahra-E-Faisal for you!_20260225_005117.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Sr. Frontend Engineer at NorthBay Solutions and 1 more junior front end developer job in Karachi for you!_20260225_005118.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Simplified Auth SDK, New VPC Endpoints, Copy as JSON_20260225_005120.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Shad Developers is hiring a Web Designer_20260225_005116.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed SEO Intern Female (Paid) at WebSensePro and 1 more internship in web development job in Karachi Clifton for you!_20260225_005128.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:20 - Plan Generated
+
+Processed Sahir Ahmed Sheikh sent you a message 3 days ago_20260225_005200.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:19 - Plan Generated
+
+Processed Sahir Ahmed just messaged you_20260225_005156.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:19 - Plan Generated
+
+Processed React Typescript Developer (Remote _ Part-Time) at Shifted Sol and 23 more web developer jobs in Pakistan for you!_20260225_005121.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:19 - Plan Generated
+
+Processed Qdrant 2026_ Edge Search, Free Cloud Inference, Official Certification, and 20+ Open Roles_20260225_005121.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:19 - Plan Generated
+
+Processed Project Coordinator Intern (Sales Side) at Jetnetix and 5 more internship in web development jobs in Karachi Clifton for you!_20260225_005135.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:19 - Plan Generated
+
+Processed programingmaster22, see ayes.haqueen6265, imrankhan.pti and more in your feed_20260225_005201.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:19 - Plan Generated
+
+Processed programingmaster22, catch up on moments you've missed_20260225_005144.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed Nominations Open_ Unstop Talent Awards 2026_20260225_005204.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed New jobs similar to Frontend UI_UX Developer at 360factors (Pvt.) Ltd._20260225_005136.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed Muhammad accepted your invitation, explore their network_20260225_005145.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed MediaCorp.Inc just posted something that might be of interest to you_20260225_005139.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed Junior Web Developer at Asianet Pakistan and 27 more web developer jobs in Pakistan for you!_20260225_005125.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed Junior Web Developer at Asianet Pakistan and 23 more web developer jobs in Pakistan for you!_20260225_005133.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed Junior SQA _ QA Engineer at UTF Labs and 6 more internship in web development jobs in Karachi Clifton for you!_20260225_005145.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed Junior SQA _ QA Engineer at UTF Labs and 5 more internship in web development jobs in Karachi Clifton for you!_20260225_005206.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:18 - Plan Generated
+
+Processed Junior .NET Developer at ITAAI and 11 more front end developer jobs in Karachi for you!_20260225_005206.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed Junior .NET Developer at ITAAI and 11 more front end developer jobs in Karachi for you!_20260225_005157.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed Jr Front End Developer (REACT_NEXT JS) at Soft Nation Technologies and 19 more front end developer jobs in Karachi for you!_20260225_005150.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed January 2026_20260225_005146_(1).txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed January 2026_20260225_005146.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed International Telecom Cross Sales Representative at Solution Geniuses in Karachi and 1 more new job_20260225_005136.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed Indeed Application_ Front-End Developer_20260225_005149.txt
+Plan: Draft a polite and informative response addressing the sender's concerns/questions
+Status: Approval Required
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed HR Mid Level at DigiExpo and 21 more intern jobs in Karachi for you!_20260225_005130.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed HR Mid Level at DigiExpo and 21 more intern jobs in Karachi for you!_20260225_005124.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed HR Mid Level at DigiExpo and 21 more intern jobs in Karachi for you!_20260225_005115.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed HR Internship at Aykays and 2 more internship in web development jobs in Karachi Clifton for you!_20260225_005122.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed HR Intern at Odolution and 20 more intern jobs in Karachi for you!_20260225_005201.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed Genetech Solutions, Datamatics Global Services is hiring in Karāchi. Apply Now._20260225_005154.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:17 - Plan Generated
+
+Processed Full Stack Developer at TRUSTRISE (PRIVATE) LIMITED and 21 more web developer jobs in Pakistan for you!_20260225_005159.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Full Stack Developer at Alpha Beta Core Solutions and 10 more jobs in Karāchi for you. Apply Now._20260225_005143.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Full Stack develeper at Brandrevam and 18 more front end developer jobs in Karachi for you!_20260225_005126.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Full Stack develeper at Brandrevam and 15 more front end developer jobs in Karachi for you!_20260225_005132.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Frontend Developer @ Quanrio LLP_20260225_005153.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Frontend Developer (React) at marketrove and 23 more web developer jobs in Pakistan for you!_20260225_005114.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Front-end Developer - React.js (Intern) at HRI Private Limited and 6 more internship in web development jobs in Karachi Clifton for you!_20260225_005202.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Front-end Developer - React.js (Intern) at HRI Private Limited and 20 more front end developer jobs in Karachi for you!_20260225_005138.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Front-end Developer - React.js (Intern) at HRI Private Limited and 14 more intern jobs in Karachi for you!_20260225_005157.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Front End Developer at Authentik Track & Trace and 16 more front end developer jobs in Karachi for you!_20260225_005116.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:16 - Plan Generated
+
+Processed Front End Developer - Angular at Wondrfly Inc. in Pakistan and 9 more new jobs_20260225_005147.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed Front end developer (React js) at NetelSoft and 22 more web developer jobs in Pakistan for you!_20260225_005142.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed Female Tutor for Arabic Language and Grammar (Remote Job) (Work from Home) at MYTUTORPOD in Karachi and 1 more new job_20260225_005124.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed Faiza Razzak recently posted_20260225_005123.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed Don’t miss conversations in Internship Group_20260225_005148.txt
+Plan: Draft a polite and informative response addressing the sender's concerns/questions
+Status: Approval Required
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed DB metrics, network flows, login with Railway, zero-downtime volume resizing_20260225_005117.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed Craving something delicious_ 🍔_20260225_005126.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed CodeAlpha just posted something that might be of interest to you_20260225_005135.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:15 - Plan Generated
+
+Processed Become Unstoppable Leader 2026_ Nominations Open!_20260225_005138.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Amazon Intern at Techhub International and 17 more intern jobs in Karachi for you!_20260225_005151.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Amazon FBA Private Label Paid Intern (Hybrid)- Karachi at Klap4 Solutions and 21 more intern jobs in Karachi for you!_20260225_005139.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Ali Asghar, your application was sent to Chart Learning Solutions_20260225_005156.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Ali Asghar, I’m still waiting for your response_20260225_005158.txt
+Plan: Read the information and file for reference
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Ali Asghar, follow Rashmi Ranjan Mohanty 🌱🌱 - Director at Diginfoweb Technologies_20260225_005159.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Ali Asghar, add MUZNA BAIG 💬_20260225_005123.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Ali Asghar, add Asna armeen Ayaz - Web Development Intern (Full-Stack) 💬_20260225_005136.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Ahmed Bilal accepted your invitation, explore their network_20260225_005200.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed Action needed_ cluster deletion in 7 days_20260225_005203.txt
+Plan: Draft a polite and informative response addressing the sender's concerns/questions
+Status: Approval Required
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed 1 new software engineer intern job in Karachi Shahra-E-Faisal_20260225_005129.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed 1 new software engineer intern job in Karachi Shahra-E-Faisal_20260225_005117.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:14 - Plan Generated
+
+Processed 1 new junior front end developer job in Karachi_20260225_005203.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new junior front end developer job in Karachi Shahra-E-Faisal_20260225_005158.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new junior front end developer job in Karachi Shahra-E-Faisal_20260225_005113.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new internship front end developer job in Karachi_20260225_005205.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new internship front end developer job in Karachi_20260225_005137.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new intern job in Gujranwala Cantt_20260225_005137.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new intern job in Gujranwala Cantt_20260225_005130.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new intern job in Gujranwala Cantt_20260225_005128.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new intern job in Gujranwala Cantt_20260225_005119.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 new front end developer internship job in Karachi_20260225_005202.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
+### 2026-02-25 20:37:13 - Plan Generated
+
+Processed 1 Lakh+ students have already nominated themselves for Unstop Talent Awards 2026!_20260225_005114.txt
+Plan: Review promotional content and decide whether to engage or unsubscribe
+Status: Processed
+
+---
+
+# Dashboard
+
+## Activity Log
+
 ### 2026-02-25 00:35:45 - Orchestrator Run
 
 Completed processing Needs_Action and Approved folders

@@ -1,0 +1,72 @@
+From: foodpanda <no-reply@mail.foodpanda.pk>
+To: programingmaster22@gmail.com
+Date: Sun, 11 Jan 2026 14:55:57 +0000 (UTC)
+Subject: Thanks for your order!
+---
+
+Order receipt
+
+How would you rate the overall quality of your food experience?
+Rate your order 
+( https://foodpanda.page.link/?link=https://www.foodpanda.pk/?s%3Dh%26utm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dratings_survey&apn=com.global.foodpanda.android&afl=https://www.foodpanda.pk/new/orders?s%3Dh%26utm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dratings_survey&efr=1&ibi=com.global.foodpanda.ios&ifl=https://www.foodpanda.pk/new/orders?s%3Dh%26utm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dratings_survey&ofl=https://www.foodpanda.pk/new/orders?s%3Dh%26utm_source%3Demail%26utm_medium%3Demail%26utm_campaign%3Dratings_survey )
+
+
+Customer:
+Sold to: Ali Asghar
+Company:
+Customer address: Botal Gali, Baba Faridi Perfume House, Baba
+Faridi Perfume House, Karachi
+
+Order:
+Order number: m467-2602-nao7
+Order date: 2026-01-11 19:15:12
+
+Partner:
+Name: California Pizza - MA Jinnah
+Address: Falak Arcade, Shop No 1 and 2 Plot 90 Depot Lines,
+Muhammad Ali Jinnah Rd, Karachi, 74600, Karachi
+
+Item
+Qty
+Unit price
+Price
+
+Winter Treats 12Inch Large Pizza Deal
+
+1
+PKR 1,649.00
+PKR 1,649.00
+
+..Choose Your Crust large..: Deep Pan
+Large Pizza Flavors: Chicken Fajita Pizza
+
+Subtotal
+PKR 1,649.00
+
+Delivery fee
+PKR 70.00
+
+Service fee
+PKR 14.99
+
+Delivery fee discount
+PKR -129.00
+
+Total
+PKR 1,733.99
+
+Including 15.00% tax
+PKR 226.17
+
+Payment method:* Payment on Delivery: PKR 1,733.99
+
+Privacy ( https://www.foodpanda.pk/contents/privacy.htm ) | Terms
+and conditions 
+( https://www.foodpanda.pk/contents/terms-and-conditions.htm )
+
+18th floor, Bahria Town Tower, Tariq Road, Karachi, Pakistan
+
+© foodpanda Pakistan
+
+---
+Email processed by GmailWatcher on 2026-02-25 20:54:13

@@ -1,0 +1,590 @@
+From: NayaPay <noreply@nayapay.com>
+To: programingmaster22@gmail.com
+Date: Sun, 28 Dec 2025 10:50:48 +0500
+Subject: Your Rewind’s ready 🔥 Are you?
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="color-scheme" content="light dark">
+    <meta name="supported-color-schemes" content="light dark">
+    <title>NayaPay Email</title>
+    <style type="text/css">
+    /* Font Faces */
+
+    @font-face {
+        font-family: "DMSansMedium";
+        src: url("https://nayapay.com/fonts/DM_Sans/static/DMSans-Medium.ttf") format("truetype");
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: "DMSansBold";
+        src: url("https://nayapay.com/fonts/DM_Sans/static/DMSans-Bold.ttf") format("truetype");
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    @media (min-width: 600px) {
+        .logo {
+            width: 148px !important;
+        }
+
+        .title-text {
+            font-size: 28px !important;
+        }
+
+        .general-text {
+            font-size: 18px !important;
+            line-height: 24px !important;
+        }
+
+        .general-text-2 {
+            font-size: 16px !important;
+            line-height: 24px !important;
+        }
+
+        .general-text-3 {
+            font-size: 14px !important;
+            line-height: normal !important;
+        }
+
+        .summary-title {
+            font-size: 15px !important;
+            line-height: normal !important;
+        }
+
+        .summary-text {
+            font-size: 14px !important;
+            line-height: normal !important;
+        }
+
+        .summary-amount {
+            font-size: 18px !important;
+            line-height: normal !important;
+        }
+
+        .footer-text {
+            font-size: 10px !important;
+        }
+
+        .heading-emoji {
+            font-size: 20px !important;
+        }
+    }
+
+    :root {
+        color-scheme: light dark;
+        supported-color-schemes: light dark;
+    }
+
+    .body-bg-color {
+        background-color: #FFFFFF !important;
+    }
+
+    .trans-msg-bg-color {
+        background-color: #F9F8F8 !important;
+    }
+
+    .footer-bg-color {
+        background-color: #FAFAFA !important;
+    }
+
+    .footer,
+    .footer td,
+    .footer p,
+    .footer span {
+        color: #757575 !important;
+        background-color: #FAFAFA !important;
+    }
+
+    .footer-text a {
+        color: #0666EB !important;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        * {
+            color: #FFFFFF !important;
+        }
+
+        .body-bg-color {
+            background-color: #1F2124 !important;
+        }
+
+        .trans-msg-bg-color {
+            background-color: #757575 !important;
+        }
+
+        .footer-bg-color {
+            background-color: #1F1F1F !important;
+        }
+
+        .footer,
+        .footer td,
+        .footer p,
+        .footer span {
+            background-color: #1F1F1F !important;
+            color: #757575 !important;
+        }
+
+        .footer-text a {
+            color: #0666EB !important;
+        }
+    }
+
+    @media (prefers-color-scheme: light) {
+        .body-bg-color {
+            background-color: #FFFFFF !important;
+        }
+
+        .trans-msg-bg-color {
+            background-color: #F9F8F8 !important;
+        }
+
+        .footer-bg-color {
+            background-color: #FAFAFA !important;
+        }
+
+        .footer,
+        .footer td,
+        .footer p,
+        .footer span {
+            color: #757575 !important;
+            background-color: #FAFAFA !important;
+        }
+
+        .footer-text a {
+            color: ##0666EB !important;
+        }
+    }
+    </style>
+</head>
+
+
+<body style="margin: 0px; padding: 0px; background-color: #fff; width: 100%">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"
+        style="background:#fff;background-color:#fff;width:100%;    " class="body-bg-color">
+        <tbody>
+            <tr>
+                <td>
+                    <div style="margin:0px auto;max-width:600px;">
+
+                        <!--[if mso]>
+                            <table width="600px" style="width:600px;"><tr><td>
+                            <![endif]-->
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation"
+                            style="width:100%">
+                            <tbody>
+                                <tr>
+                                    <td style="direction:ltr;font-size:0px;padding:0;text-align:center">
+                                        <!-- LOGO -->
+                                        <div style="margin:0px auto;max-width:600px;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                role="presentation" style="width:100%">
+                                                <tbody>
+                                                    <tr>
+                                                        <td
+                                                            style="direction:ltr;font-size:0px;padding:0;text-align:center">
+                                                            <div
+                                                                style="font-size:0;line-height:0;text-align:center;display:inline-block;width:100%;direction:ltr;margin:auto;">
+                                                                <div
+                                                                    style="font-size:0px;text-align:center;direction:ltr;display:inline-block;vertical-align:top;width:90%;margin-top: 25px;margin-bottom:18px;">
+                                                                    <table border="0" cellpadding="0" cellspacing="0"
+                                                                        role="presentation" style="vertical-align:top"
+                                                                        width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center"
+                                                                                    style="font-size:0px;padding:0;word-break:break-word;">
+                                                                                    <table border="0" cellpadding="0"
+                                                                                        cellspacing="0"
+                                                                                        role="presentation"
+                                                                                        style="border-collapse:collapse;border-spacing:0px">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td style="max-width:200px;min-width:200px;width:200px"
+                                                                                                    class="logo">
+                                                                                                    <img alt="NayaPay"
+                                                                                                        src="https://attachment.nayapay.com:8443/fileUploader/download/UPLOAD_DIRECTORY/EMAILASSETS/rebranding/np-logo.png"
+                                                                                                        style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px"
+                                                                                                        width="200"
+                                                                                                        height="auto">
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </div>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                        <!-- BANNER -->
+                                        <div style="margin:0px auto;max-width:600px;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                role="presentation" style="width:100%" width="100%">
+                                                <tbody>
+                                                    <tr>
+                                                        <td
+                                                            style="direction:ltr;font-size:0px;padding:0;text-align:center">
+                                                            <div
+                                                                style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+                                                                <table border="0" cellpadding="0" cellspacing="0"
+                                                                    role="presentation" width="100%"
+                                                                    style="width:100%;">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="vertical-align:top;padding:0">
+                                                                                <table border="0" cellpadding="0"
+                                                                                    cellspacing="0" role="presentation"
+                                                                                    width="100%" style="width:100%;">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="center"
+                                                                                                style="font-size:0px;padding:0 0;word-break:break-word;">
+                                                                                                <img src="https://attachment.nayapay.com:8443/fileUploader/get-view?fileId=/nfs-attachment/UPLOAD_DIRECTORY/NOTIFICATIONS/2025/12/1764656268741.webp&v2"
+                                                                                                    style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%"
+                                                                                                    width="600"
+                                                                                                    height="auto">
+                                                                                                <!-- <table border="0"
+                                                                                                    cellpadding="0"
+                                                                                                    cellspacing="0"
+                                                                                                    role="presentation"
+                                                                                                    style="border-collapse:collapse;border-spacing:0px;background:green;background-color:green;" width="100%" style="width:100%">
+                                                                                                    <tbody>
+                                                                                                        <tr>
+                                                                                                        <td>
+                                                                                                            <img src="https://attachment.nayapay.com:8443/fileUploader/get-view?fileId=/nfs-attachment/UPLOAD_DIRECTORY/NOTIFICATIONS/2025/12/1764656268741.webp&v2"
+                                                                                                            style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%"
+                                                                                                            width="600"
+                                                                                                            height="auto">
+                                                                                                        </td>
+                                                                                                        </tr>
+                                                                                                    </tbody>
+                                                                                                    </table> -->
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+
+                            
+
+                                        <div style="margin:0px auto;max-width:600px;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                role="presentation" style="width:100%;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td
+                                                            style="direction:ltr;font-size:0px;padding:0;text-align:center">
+                                                            <div
+                                                                style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
+                                                                <table border="0" cellpadding="0" cellspacing="0"
+                                                                    role="presentation" width="100%">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="vertical-align:top;padding:0;">
+                                                                                <table border="0" cellpadding="0"
+                                                                                    cellspacing="0" role="presentation"
+                                                                                    width="100%">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="center"
+                                                                                                style="font-size:0px;padding:0;word-break:break-word;">
+                                                                                                <table border="0"
+                                                                                                    cellpadding="0"
+                                                                                                    cellspacing="0"
+                                                                                                    role="presentation"
+                                                                                                    style="border-collapse:collapse;border-spacing:0px">
+                                                                                                    <tbody>
+                                                                                                        <!-- Greeting -->
+                                                                                                        <tr>
+                                                                                                            <td style="padding: 49px 30px 24px 30px; width: 540px; min-width: 540px; max-width: 540px"
+                                                                                                                width="540"
+                                                                                                                style="background-color: #fff"
+                                                                                                                class="body-bg-color">
+                                                                                                                <!--[if mso]>
+                                                                                                                    <table style="padding: 49px 0px 24px 0px; width: 540px" width="540"><tr><td>
+                                                                                                                    <![endif]-->
+                                                                                                                <span
+                                                                                                                    class="general-text-2"
+                                                                                                                    style="
+                                                                                                                        padding: 0px;
+                                                                                                                        font-size: 22px;
+                                                                                                                        line-height: 34px;
+                                                                                                                        font-family: DMSansBold,tahoma,Verdana, sans-serif;
+                                                                                                                        color: #0a0a0a;
+                                                                                                                        font-weight: 900;">
+                                                                                                                    <!--[if mso]>
+                                                                                                                        <table><tr><td style="
+                                                                                                                        padding: 0px;
+                                                                                                                        font-size: 16px;
+                                                                                                                        font-family: tahoma,Verdana, sans-serif;
+                                                                                                                        font-weight: 900;">
+                                                                                                                        <![endif]-->
+                                                                                                                        Hi
+                                                                                                                        there!
+                                                                                                                    <!--[if mso]>
+                                                                                                                        </td></tr></table>
+                                                                                                                        <![endif]-->
+                                                                                                                </span>
+                                                                                                                <!--[if mso]>
+                                                                                                                    </td></tr></table>
+                                                                                                                    <![endif]-->
+                                                                                                            </td>
+                                                                                                        </tr>
+
+                                                                                                        <tr>
+                                                                                                            <td style="padding: 0px 30px 24px 30px; width: 540px; min-width: 540px; max-width: 540px"
+                                                                                                                width="540"
+                                                                                                                style="background-color: #fff"
+                                                                                                                class="body-bg-color">
+                                                                                                                <table
+                                                                                                                    style="width: 540px;text-align: center;background-color: #fff; "
+                                                                                                                    border="0"
+                                                                                                                    cellpadding="0"
+                                                                                                                    cellspacing="0"
+                                                                                                                    bgcolor="#ffffff"
+                                                                                                                    width="540"
+                                                                                                                    class="body-bg-color">
+                                                                                                                    <tr>
+                                                                                                                        <td style="max-width: 250px;min-width: 250px;width: 250px; text-align: left"
+                                                                                                                            align="left"
+                                                                                                                            width="250"
+                                                                                                                            valign="top">
+                                                                                                                            <p class="general-text-3"
+                                                                                                                                style="
+                                                                                                                                margin-top:10px;
+                                                                                                                                text-align: left;
+                                                                                                                                color: #0a0a0a;
+                                                                                                                                font-family: DMSansMedium,tahoma, Verdana, sans-serif;
+                                                                                                                                font-size: 22px;
+                                                                                                                                font-style: normal;
+                                                                                                                                font-weight: 400;
+                                                                                                                                line-height: 34px;">
+                                                                                                                                <!--[if mso]>
+                                                                                                                                    <table><tr><td style="
+                                                                                                                                    color: #0a0a0a;
+                                                                                                                                        font-family: tahoma,Verdana,sans-serif;
+                                                                                                                                        font-size: 16px;
+                                                                                                                                        font-style: normal;
+                                                                                                                                        font-weight: 400; padding: 0px 30px;" >
+                                                                                                                                    <![endif]-->
+
+                                                                                                                                We
+                                                                                                                                need
+                                                                                                                                to
+                                                                                                                                talk
+                                                                                                                                about
+                                                                                                                                your
+                                                                                                                                2025
+                                                                                                                                👀
+                                                                                                                                <br />
+                                                                                                                                <br />
+                                                                                                                                Let’s
+                                                                                                                                just
+                                                                                                                                say
+                                                                                                                                your
+                                                                                                                                year
+                                                                                                                                had
+                                                                                                                                range.
+                                                                                                                                Some
+                                                                                                                                moments
+                                                                                                                                deserve
+                                                                                                                                applause,
+                                                                                                                                others…
+                                                                                                                                a
+                                                                                                                                moment
+                                                                                                                                of
+                                                                                                                                silence.
+                                                                                                                                We
+                                                                                                                                dug
+                                                                                                                                deep
+                                                                                                                                into
+                                                                                                                                your
+                                                                                                                                receipts,
+                                                                                                                                and
+                                                                                                                                your
+                                                                                                                                Rewind’s
+                                                                                                                                here
+                                                                                                                                to
+                                                                                                                                spill
+                                                                                                                                it
+                                                                                                                                all:
+                                                                                                                                the
+                                                                                                                                highlights,
+                                                                                                                                the
+                                                                                                                                humbling
+                                                                                                                                moments,
+                                                                                                                                and
+                                                                                                                                a
+                                                                                                                                few
+                                                                                                                                you
+                                                                                                                                might’ve
+                                                                                                                                blacked
+                                                                                                                                out
+                                                                                                                                (financially).
+                                                                                                                                <br />
+                                                                                                                                <br />
+                                                                                                                                Take
+                                                                                                                                a
+                                                                                                                                deep
+                                                                                                                                breath,
+                                                                                                                                grab
+                                                                                                                                your
+                                                                                                                                favorite
+                                                                                                                                snack,
+                                                                                                                                and
+                                                                                                                                see
+                                                                                                                                how
+                                                                                                                                your
+                                                                                                                                year
+                                                                                                                                went
+                                                                                                                                down.
+                                                                                                                                In
+                                                                                                                                the
+                                                                                                                                mood
+                                                                                                                                for
+                                                                                                                                a
+                                                                                                                                pick-me-up?
+                                                                                                                                We’ll
+                                                                                                                                cheer
+                                                                                                                                you
+                                                                                                                                on.
+                                                                                                                                Feeling
+                                                                                                                                bold?
+                                                                                                                                We’ll
+                                                                                                                                give
+                                                                                                                                it
+                                                                                                                                to
+                                                                                                                                you
+                                                                                                                                straight
+                                                                                                                                💥
+                                                                                                                                <!--[if mso]>
+                                                                                                                                    </td></tr></table>
+                                                                                                                                    <![endif]-->
+                                                                                                                            </p>
+                                                                                                                        </td>
+
+                                                                                                                    </tr>
+                                                                                                                </table>
+                                                                                                            </td>
+                                                                                                        </tr>
+
+                                                                                                    </tbody>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+
+
+
+                                        <!-- CTA -->
+                                        <!--[if mso]>
+                                            <table width="600px" style="width:600px;padding: 30px 0px"><tr><td>
+                                            <![endif]-->
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600"
+                                            style="margin: 0 auto; padding: 0 50px 0 51px;" class="body-bg-color">
+                                            <tr>
+                                                <td align="center" style="padding: 30px 0 16px 0;">
+                                                    <!--[if mso]>
+                                      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word"
+                                         href="https://www.nayapay.com/inapp/rewind" style="height:48px;v-text-anchor:middle;width:280px;" arcsize="10%" stroke="f" fillcolor="#ff5018">
+                                         <w:anchorlock/>
+                                         <center style="color:#ffffff;font-family:Verdana,sans-serif;font-size:17px;font-weight:700;">
+                                           View your transactions
+                                         </center>
+                                      </v:roundrect>
+                                      <![endif]-->
+                                         <!--[if !mso]><!-- -->
+                                     <a href="https://www.nayapay.com/inapp/rewind" style="
+                                      display: inline-block;
+                                      background:#ff5018;
+                                      background-image: linear-gradient(#ff5018, #ff5018);
+                                      font-family: 'DMSansMedium', sans-serif;
+                                      font-size: 18px;
+                                      font-weight: 700;
+                                      line-height: 48px;
+                                      text-align: center;
+                                      text-decoration: none;
+                                      border-radius: 8px;
+                                      padding: 5px 65px;
+                                      min-width: 189px;
+                                      color: #fff;
+                                      border: 1px solid transparent;
+                                      " data-ogsc="dark" class="button-container">
+                                                        <span style="background:#000; mix-blend-mode:screen;
+                                         color: #fff;">
+                                                            <span style="background:#000; mix-blend-mode:difference;
+                                         color: #fff;"><span style="color: #fff">See my Rewind</span></span>
+                                                        </span>
+                                                    </a>
+                                                    <!--<![endif]-->
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--[if mso]>
+                                        </td></tr></table>
+                                        <![endif]-->
+
+
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!--[if mso]>
+                        </td></tr></table>
+                        <![endif]-->        
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!--[if mso]>
+            </td></tr></table>
+            <![endif]-->
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
+
+
+---
+Email processed by GmailWatcher on 2026-02-25 22:02:34

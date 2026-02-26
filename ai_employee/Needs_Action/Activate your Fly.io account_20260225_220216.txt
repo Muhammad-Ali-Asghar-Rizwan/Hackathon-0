@@ -1,0 +1,21 @@
+From: Fly <support@fly.io>
+To: Muhammad Ali Asghar Rizwan <programingmaster22@gmail.com>
+Date: Mon, 29 Dec 2025 07:38:18 +0000
+Subject: Activate your Fly.io account
+---
+
+Welcome to Fly.io!
+
+Check out our docs to help you get things rolling: https://fly.io/docs/
+
+If you have questions, get stuck, or want to talk about what you're building, visit our community discussion forum: https://community.fly.io/
+
+We've created your user account. You can set a password for future logins: https://fly.io/app/password_resets/436bf778bb43179cedea7bc09c1b6da482ff3aad928b7dd3e2288fba3d5ddabc
+
+- The Fly.io team
+
+
+
+
+---
+Email processed by GmailWatcher on 2026-02-25 22:02:16

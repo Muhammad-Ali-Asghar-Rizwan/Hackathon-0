@@ -1,0 +1,203 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Medium
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Jr Front End Developer (REACT/NEXT JS) at Soft Nation Technologies and 19 more front end developer jobs in Karachi for you!
+- **From**: Indeed <alert@indeed.com>
+- **Date**: Tue, 27 Jan 2026 07:10:30 +0000
+
+## Email Content:
+Indeed Job Alert
+20 new front end developer jobs in Karachi
+
+Jobs 1-20 of 20 new jobs
+See matching results on Indeed: https://pk.indeed.com/jobs?q=front+end+developer&hl=en&from=ja&l=Karachi&radius=25&alid=67acfa39717b443c60a82c34&tmtk=1jfv4k8n92ank002&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t
+
+
+Jr Front End Developer (REACT/NEXT JS)
+Soft Nation Technologies - Karachi Gulshan-E-Iqbal
+Rs 50,000 - Rs 70,000 a month
+Easily apply
+Strong understanding of design fundamentals: Solid knowledge of responsive design and mobile-first development. Proficiency in HTML5, Bootstrap, CSS/Sass.
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=d9cd3b2b2e3091cb&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=AbLHrm6GRQMtYBMzyEs2L1_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=TnfD--uty-IKaHRu6IfxDwT_HjfiiWunBx5xzB5kYbBTdGENIvbF89f1B9WJMCWtiR_yGtYIWVMSVzKIkTh9xNRt_qc_jG4lbMrGveG-L4jhlnV83K4iVXaNew6xxA51GDxSqUiyrYj-jueEuGIMhQ%3D%3D&g1tAS=true
+
+Front-End Developer
+Sorvox Groups - Karachi Gulshan-E-Iqbal
+Rs 70,000 - Rs 110,000 a month
+Easily apply
+*At least one year of experience*. Must have *Problem-solving skills, Attention to detail and strong command on UI/UX.*.
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=95757004c30dd4dd&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=bKNAUAgBZTnEZxFIcuujzl_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=TnfD--uty-IKaHRu6IfxDwT_HjfiiWunMkinEGE9XhXCG77KOCsCT2yQGsmPzWdXChQjKNGWOCmU9Nj719s13IWDDmiS5hP4LpkYoJNFfNRhzl8KqEkxfon3np4OQVRALNn6KFb_7h9YFEnboznGvg%3D%3D&g1tAS=true
+
+Full Stack Developer
+Design District - Karachi Gulshan-E-Iqbal
+Rs 80,000 - Rs 130,000 a month
+Easily apply
+Design, develop, and maintain web applications using a variety of technologies. Collaborate with cross-functional teams to define, design, and ship new features…
+6 days ago
+https://pk.indeed.com/rc/clk/dl?jk=063c2fb15ea710a3&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=wRw4VfvjpFhMaapCW_-ezV_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=TnfD--uty-IKaHRu6IfxDwT_HjfiiWuntMfHZ_7U81QbHJH6C1-Ns9QgEg7wBTkPQYsuNU0gHtj7AvtqStRxwkd-MbOykhFTGvR-O2iZAL5YMfGz3NZd98kxRXuyssDG3Ql2Z1oVSpbA6hpWPt_jPQ%3D%3D&g1tAS=true
+
+Front End Developer React Js(Urgently Hiring)
+WeUno Technologies - Karachi City
+Rs 110,000 - Rs 130,000 a month
+Easily apply
+Implement and maintain features with a focus on performance, responsiveness, and user experience. Implement stateful components and manage application state…
+3 days ago
+https://pk.indeed.com/rc/clk/dl?jk=e77f895dd606e8bb&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=Xz_BPd8uwD7p5SZJpoZayl_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapVBshsCvEGzm4XizwfZYvvKbvIMslDVw70ISrNXXdItaIjN0AH5OK3mGwyOrA0aa_NRZE3GqQEIFD7XuS2BHXqbRKTOncwuqKJMk-nxn2asQvgW60hcZrxw%3D%3D&g1tAS=true
+
+MERN Stack Developer
+Carpe Diem - Pakistan
+Rs 100,000 - Rs 300,000 a month
+We are looking for an experienced *MERN Stack Developer* with strong expertise in both front-end and back-end web development.
+6 days ago
+https://pk.indeed.com/rc/clk/dl?jk=d7a8735ebdd86466&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=4yUuRn-c5AZTq4RAIdkVoc_GpDQUpdPT4XwZZ0YIiXc&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapR4zKOJPl6Elyhv2epw1QXkQOCQmEe3o7GyVV_Qh9ZiOltCZNAZku91fMwqtsNIKrnEr2KO4DGNnqH27UPrDxeYQDD62Ycmbw22uL-GT36o-0TvxiEaNAEnw15uy9idOi&g1tAS=true
+
+Junior .NET Developer
+ITAAI - Karachi
+Rs 70,000 - Rs 90,000 a month
+Easily apply
+.NET MVC/Core Developer* with strong command over *C# and . NET*, and experience in *third-party app integrations* using SDKs and REST APIs.
+5 days ago
+https://pk.indeed.com/rc/clk/dl?jk=3b3be4bdd7a1fce9&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=x5SUCvphgkEZUN6bPKxzIl_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapA1R61_eNTzT7eyioCCV3pKwX1sq5Tx6m06kOlWEcLE3lSSoHlrzRNuhJeQ9XiVZosClxh9f9-4Xtp7Z4eO69MJTQ4iiqopEHXUWhd7BWnxtTlZ_oz_04nw%3D%3D&g1tAS=true
+
+Full Stack Developer (Laravel & Vue.JS)
+Appedology PVT Ltd. - Karachi
+Easily apply
+Ideal candidate will be having 2 years of experience in full stack development. Strong working proficiency of PHP & Laravel Framework (back-end).
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=1c3fc3d08de5db4c&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=gy7MCxDMWln4LWQRywCz51_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapTkFf0YXv_KS4UdrTbQubw-CpBZCLMCKJ7TPLMUwbkiHO4DXJZTFKA66bKX1QFaJrmlg7Z5FAUcaOSJ4HyFm-2qLCyg9Mg8C8fnAfmtoQzcLwdBsto8ZJXQ%3D%3D&g1tAS=true
+
+Full Stack Developer (Sr)
+Quanrio LLP - Karachi
+Rs 350,000 - Rs 370,000 a month
+Easily apply
+This position is for a client and not part of Quanrio’s internal hiring.*. We are looking for an experienced and versatile *Full Stack Developer (Team Lead)* to…
+3 days ago
+https://pk.indeed.com/rc/clk/dl?jk=38f5f4741f9253d5&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=atk-kgV92m6TJ3g-AHTrAV_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapGLb49RBCWo1fGW0LUvEX8gqcUy5LJkKXOsSuy0udP0niVK37l3bVDeFuCeLXjJQ7xgwkb_HZNr6ocysBFCwomjzimLf90Pj25QSL6OtYe4tsX5SuYcSNTQ%3D%3D&g1tAS=true
+
+PHP Laravel Developer (Junior to Mid-Level)
+MeezoTech - Karachi Shahra-E-Faisal
+Rs 60,000 - Rs 120,000 a month
+Easily apply
+The ideal candidate should have hands-on experience with Laravel and a strong understanding of backend development concepts.
+3 days ago
+https://pk.indeed.com/rc/clk/dl?jk=96f3aa1e2b99265e&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=Y9tUdkd5kw9dqOv55wcEg1_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfap-S2nqrs7qOuayQVC_CblmXfOyqfRyO4UtA45QDH-dvD7lb5C2NR4eAaDEGWmyQcCCikTvno3a8lmn_76G6dP4yTK3dFhy1Ns2UKGGGeT4HqxFeWOhvfe-w%3D%3D&g1tAS=true
+
+Node.js Developer
+Cubix Inc - Karachi Shahra-E-Faisal
+Easily apply
+This role is for engineers who enjoy distributed systems, performance, and clean architecture not button-pushers.
+6 days ago
+https://pk.indeed.com/rc/clk/dl?jk=ffde5b57a6466f9f&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=1Mu1vBDY1ZCXlf8teQydT1_MKnaSAFGAsD6kfERFt3g&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapq2VPI2MlZbfTP_d1iblUXjAaXUHaiBOABMgKrLCGCp24aTcINrzjTr-E396kMD-HRRpMHENvW2t8mah4DC3OIP8OmKOwqbKGURJAjCReyZSLmWxkG1JxZA%3D%3D&g1tAS=true
+
+Junior Front-End / WordPress Developer
+Twenty 8 Twenty - Karachi Gulshan-E-Iqbal
+Rs 30,000 - Rs 35,000 a month
+Easily apply
+Our websites are built using *WordPress & WooCommerce*, with a strong focus on performance, clean UI, and conversion-focused design.
+5 days ago
+https://pk.indeed.com/rc/clk/dl?jk=6ac64c12b24a7215&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=v1-HcdjGhgpDNCskhCHpOQbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapLdN42iIu_3MNAk34Fa7wphg_XT-N8YBh9PoSqb-R_E7jV0tydzh_bU-sDlBtwPpCkuYcwtPqwtQkR82S0-Eiso05x0oHJI8hdSh0Q29d6VR40gsYoC1Z7Q%3D%3D&g1tAS=true
+
+Full Stack Developer - (Front and Back)
+Ingenious Guru - Karachi Gulshan-E-Iqbal
+Rs 55,000 - Rs 80,000 a month
+Easily apply
+Shift Timings:* 8:00 PM – 5:00 AM or 9:00 PM - 6:00 AM. We are looking for a talented and motivated Full-Stack Developer with a solid understanding of web…
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=a977b05a17da0a04&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=3FzvDAJyvvQaIs2wadfcQwbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapodcnH6psvfnVk_5hvBCJOyty_sCnpr0mESzOHNf_SzsvUsbSFkszAdgJ1zzXjJGawkfvDpxMNTMFdcX0Gz0G987SdjvpMKsiXl8l54wcnWSvgaVTARBs9Q%3D%3D&g1tAS=true
+
+Full Stack Developer
+Alpha Beta Core Solutions - Karachi
+Easily apply
+Proven experience as a *Full Stack Developer* or in a similar role, typically *3+ years*. Proficiency in *HTML, CSS, JavaScript, and Python*.
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=78892684613d27ed&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=UXIDHwmzP4uiAG0GShYBjQbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapV3Dl9-FoliRafU9lJKSeVQqLfqnxOM1zwMHWz3R1fithCrcA9Ra9nV272c9mE2B4JisWlJbPizz57v2aPKB7p6Y0we9PzglpAMqJBzYQotCixAqpMw9G7g%3D%3D&g1tAS=true
+
+Senior React Developer
+Krank - Karachi
+Easily apply
+As a key member of our development department, you will be responsible for designing, implementing and maintaining web applications using React.js.
+2 days ago
+https://pk.indeed.com/rc/clk/dl?jk=b5315e8864db212e&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=ygDGoLTm66_A3NwZ9yDcQQbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfap96-W0GUhW5ik5kBvxdurN7c1POagzdHTFc3i4Jdlr1QlU3-85O7hhKSLD4XT53sTPoQfgKGFZl4mWt3DyZJ9vybgmGh44v1NaBYUtos0Ow4z9vn6nfUNqg%3D%3D&g1tAS=true
+
+Sr. Wordpress Vue.js Developer (Onsite Night shift Job)
+Technology Ally - Karachi Gulshan-E-Iqbal
+Rs 100,000 - Rs 180,000 a month
+Easily apply
+Full-time onsite night shift job (07:00 pm to 04:00 am). Develop and maintain front-end applications using Vue.js. 3–5+ years of experience in web development-.
+3 days ago
+https://pk.indeed.com/rc/clk/dl?jk=91da040d7de12fc8&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=lnVQjfg5RpqV1PJQt9nvPwbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=vliSXYbndF4a5cvhtAwyhzucEqLCFfapsg8xU-6zEVyybP2eeXoPU2vIgMvxQBvK694fmm87JbdPZo-uaePGR2snmTeSnMBuW_RPqeJjLHwiI3iH5LNEwhta0UFAN9Iw41n8WdghWGEqLypiYNOVdg%3D%3D&g1tAS=true
+
+Web Designer | WordPress, Shopify, Framer
+The Techflames - Karachi
+Rs 30,000 a month
+Easily apply
+We are looking to hire a skilled and passionate Web Developer who can develop and deploy our websites for our clients. What You Need for this Position*.
+5 days ago
+https://pk.indeed.com/rc/clk/dl?jk=71dee69e69ad990b&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=J3cGT0mTpjRZ4KRZ0B9kzAbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=sjOXhVx6M29ibIHiI2o6mHq8esa_nliyfaROmREO4pK_FhT04lCBKwrlpcz_mXpd0z3qrm6fyKFEo-1o8xVMgBCtQJx0DCBd4TjP1BMgo1hGvVI8VLe-0SgIE-Vu6r3vfI2Q4EvsAMIBuArublkwIQ%3D%3D&g1tAS=true
+
+UI/UX Designers (Mid to Senior Level
+Vinspyre Pvt Ltd. - Karachi
+Easily apply
+Shift timings: 07:00 PM to 04:00 AM (Night Shift)*. As a UI/UX Designer, you will be responsible for designing intuitive and engaging interfaces for our digital…
+5 days ago
+https://pk.indeed.com/rc/clk/dl?jk=a6c930e904424503&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=U8qhXBRF3Bn4DNS7_2eoXwbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=sjOXhVx6M29ibIHiI2o6mHq8esa_nliyHS3a7ZtSTwUKKBU1ut9ayDJe3gi6lXt9wulrARF5Fw1NQy9Azc15wTt4oVXSEezr0h0PH_qh9zAfU-HOs7AQ1M96hNrt7L5gAv6vwqV6nMPktUSLQk7ifQ%3D%3D&g1tAS=true
+
+UI/UX Designer
+Turn Up Technologies - Karachi Shahra-E-Faisal
+Rs 70,000 - Rs 100,000 a month
+Easily apply
+Work Schedule:* 3:00 PM – 12:00 AM (PKT). Turn Up Technologies is a fast-growing digital solutions company providing design, development, and marketing services…
+Just posted
+https://pk.indeed.com/rc/clk/dl?jk=bf76cd9118404934&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=wTJdmxtSZ735tL2kBfpxxAbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=sjOXhVx6M29ibIHiI2o6mHq8esa_nliynPCIxDe-s-evmEfc8mQYkLjjGQkxLFg8cbtnitbELQyThqhVYUewC270vSc3tdz7uivztzpdJ7Xil0Ak5CiNxnfNMlELbeZto2pOMXlc6GE_nOHa5qekRA%3D%3D&g1tAS=true
+
+Full Stack Developer Wordpress & Shopify Developer
+ICT Systems (Private) Limited - Karachi
+Rs 40,000 - Rs 60,000 a month
+Easily apply
+*Timing:* 10 AM To 07 PM. ICT Systems Pvt. Ltd.* is a Dubai-based software house with over *14 years* of excellence in *ERP software* development.
+6 days ago
+https://pk.indeed.com/rc/clk/dl?jk=c628abee6bcd0eba&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=jkwwi2qdQAJGHTq5ANboWwbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=sjOXhVx6M29ibIHiI2o6mHq8esa_nliyrohqWicO3E5C3tSo_AVoK2gYgjR-oNJmSbCEcrIHvWq5b2OR_uX_npS2zqsUeGgj5RzY88t64_y6svighGAOYboPTxdNCnXjkd_Wbxcwkvr6G4prFKmT2A%3D%3D&g1tAS=true
+
+UI/UX Designer (US based Back Office)
+BackTech - Karachi
+Rs 130,000 - Rs 150,000 a month
+Easily apply
+\* Comprehensive medical coverage (including family). BackTech is looking for a creative and user-focused UI/UX Designer who can turn complex ideas into…
+6 days ago
+https://pk.indeed.com/rc/clk/dl?jk=0d1e001fab0aff01&from=ja&qd=RnZhMybXSk4M3QtTVGXWoUPJHFMPPMoTDaQvTZDfmckTO94shWjzI7zRNFydgiVGCoR08ZkCFQEM9HNqHkFehx9FKhmy8PRG9-3cWMmRXzk&rd=4o6kKRRHgKJNdPU0xuaVcgbXCHXgJEVMrHKBS2mW9rM&tk=1jfv4k8n92ank002&alid=67acfa39717b443c60a82c34&bb=sjOXhVx6M29ibIHiI2o6mHq8esa_nliyEuW5Yv_jflUjraO6MIUi8R1e-gIljwdIjcTfqypYZzjaFBYdUTLo9mIIryOiRkfniLmsKZvxavLCNwMPbpAuhSLTi2TRR35KTAa8vkIrpdRxJUwImirJ0A%3D%3D&g1tAS=true
+
+
+
+Do not share this email
+This email contains secure links that are personalized for you. Please do not share this email or links with others.
+
+Salaries estimated if unavailable. When a job posting doesn't include a salary, we estimate it by looking at similar jobs. Estimated salaries are not endorsed by the companies offering those positions and may vary from actual salaries.
+
+© 2026 Indeed Ireland Operations, Ltd. 
+Indeed Ireland Operations Limited, Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, 2, D02 HE36 
+Privacy Policy: https://pk.indeed.com/legal?hl=en#privacy 
+Terms: https://pk.indeed.com/legal?hl=en 
+Help Center: https://support.indeed.com/hc/en-gb 
+Manage email settings: https://subscriptions.indeed.com?token=CkB922mg4eDJlCD6JhuiXj9dLMfB9GzmHwjuZ7GiZj9NBNul20p8dulRigZC1ts38S6wXEWOLuNIo_6in-W6ne01EiAKEJXm3yjwbck8cEv88PWRcMFQTgFu2rMpoVE2j2namBoQFUngLbs3CCwvL4gwGkYT8g%3D%3D&co=PK&hl=en&tmtk=1jfv4k8n92ank002&from=ja 
+Unsubscribe from this email: https://subscriptions.indeed.com/alerts/cancel?token=CkB922mg4eDJlCD6JhuiXj9dLMfB9GzmHwjuZ7GiZj9NBNul20p8dulRigZC1ts38S6wXEWOLuNIo_6in-W6ne01EiAKEJXm3yjwbck8cEv88PWRcMFQTgFu2rMpoVE2j2namBoQFUngLbs3CCwvL4gwGkYT8g%3D%3D&co=PK&hl=en&tmtk=1jfv4k8n92ank002&subId=67acfa39717b443c60a82c34&rgtk=1jfv4k8o8kqq0800&from=ja
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:50
+
+## Analysis Summary:
+- **ID**: email_20260225_203717
+- **Generated at**: 2026-02-25T20:37:17.862216

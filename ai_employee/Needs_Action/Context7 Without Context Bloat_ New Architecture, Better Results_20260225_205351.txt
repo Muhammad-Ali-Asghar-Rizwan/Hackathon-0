@@ -1,0 +1,62 @@
+From: Context7 <context7@upstash.com>
+To: programingmaster22@gmail.com
+Date: Tue, 13 Jan 2026 07:30:54 +0000
+Subject: Context7 Without Context Bloat: New Architecture, Better Results
+---
+
+Context7
+
+https://context7.com
+
+
+CONTEXT7 WITHOUT CONTEXT BLOAT
+
+We've rebuilt Context7's architecture from the ground up. The result: better quality responses with significantly less context usage.
+65%
+Less Tokens
+~9.7k → ~3.3k
+38%
+Faster
+24s → 15s
+30%
+Fewer Calls
+3.95 → 2.96
+
+What Changed
+
+Previously, LLMs would search and filter documentation repeatedly, consuming tokens with each round trip. Now, Context7 performs high-quality reranking on our servers using fast reranking models before returning results.
+
+This means:
+
+ * More relevant documentation in fewer tokens
+ * Faster responses with less back-and-forth
+ * Consistent, predictable results
+
+Read the Blog Post https://upstash.com/blog/new-context7
+
+Updated Pricing
+
+We've also simplified our pricing with clearer limits:
+
+PlanPriceRequests/MonthFree$0500Pro$10/seat1,000/seat + $10/1,000 excessEnterpriseCustomCustom limits
+
+Pro includes private repositories ($15/1M tokens for parsing) and team collaboration.
+
+View Plans https://context7.com/plans
+
+Questions? Reply to this email context7@upstash.com or reach us at context7@upstash.com
+
+— The Context7 Team
+
+Questions? Contact context7@upstash.com
+
+
+
+https://x.com/context7aihttps://upstash.com/discord
+
+Context7 is an https://upstash.com project
+
+© 2026 Context7
+
+---
+Email processed by GmailWatcher on 2026-02-25 20:53:51

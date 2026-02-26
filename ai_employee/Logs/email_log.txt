@@ -1,0 +1,1 @@
+2026-02-25 20:42:50,345 - ERROR - Authentication error: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte

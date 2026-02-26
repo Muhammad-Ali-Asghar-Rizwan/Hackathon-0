@@ -1,0 +1,44 @@
+From: Facebook <security@facebookmail.com>
+To: Ahmed Rizwan <programingmaster22@gmail.com>
+Date: Mon, 29 Dec 2025 23:31:57 -0800
+Subject: Did you just log in near Karachi on a new device?
+---
+
+========================================
+This wasn't me
+https://www.facebook.com/n/?login_alerts%2Fstart%2F&fbid=122234217236258406&s=e&context=Q7DVBAKwBoNOX23rsZ30JRhgBC_0jckgxJzZdQWffG5BONSpPLjQCLG4g-PZmgBgO66Hqn-syjoXfsZIBBnfw9OSKPB6ds3Uktv64uPOGbB9J1jTwJ86ZsgP1WXF6BGl6P6qWmvwS4H_PP0n3ajIDd9syUWQm19u5JoMReb0VzBgNGxJG2kO8lnPnMmWA4Wojzd_xJWX5C0cP13Qa-93gZgp9z4NktJJAikCpQIVk4YVzMzDoCxiax_3JnEGiqYU0TFCf11rXOXuLSx7U6MXRkoKLziHDItjHUHKKg6a2K8fNh0MvN4--g&aref=1767079917019765&medium=email&mid=6472611285fa3G37fc87f3cfebG647265abe6275G2bf&bcode=2.1767079917.Ab2lUEUxKZBWCnCGFAuDtJtUPXE&n_m=programingmaster22%40gmail.com&n_sg=Q6bPBAKkjNHKliZZor59Gx0HWDDQH6d35ZgW23Dw0Dn-TXJ8yw&rms=v2&irms=1
+
+========================================
+
+Hi Ahmed,
+
+Security alert: login near Karachi on a new device
+
+Hi Ahmed,
+
+Someone just logged into your Facebook account near Karachi, Pakistan on Facebook for Android. If this wasn't you, we're here to help you take some simple steps to secure your account.
+
+Was this you?
+
+Thanks,
+The Facebook team
+
+If this was you, you can ignore this email.
+
+Wondering if this email is really from us? Visit the Help Center to confirm: www.facebook.com/help/check-email
+
+To improve your account security, we've enabled login alerts. We'll continue to notify you whenever your username and password are used to login from a new browser or device.
+
+Thanks, Facebook Security
+
+========================================
+This message was sent to programingmaster22@gmail.com. If you don't want to receive these emails from Meta in the future, please follow the link below to unsubscribe.
+https://www.facebook.com/n/?acredirect%2F&deeplink_destination=individual_setting&entrypoint=settings_search&deeplink_params=%7B%22node_id%22%3A%22login_alerts%22%7D&aref=1767079917019765&medium=email&mid=6472611285fa3G37fc87f3cfebG647265abe6275G2bf&bcode=2.1767079917.Ab2lUEUxKZBWCnCGFAuDtJtUPXE&n_m=programingmaster22%40gmail.com&n_sg=Q6bPBAKkjNHKliZZor59Gx0HWDDQH6d35ZgW23Dw0Dn-TXJ8yw&rms=v2&irms=1
+Meta Platforms, Inc., Attention: Community Support, 1 Meta Way, Menlo Park, CA 94025
+To help keep your account secure, please don't forward this email. Follow the link below to learn more.
+https://www.facebook.com/email_forward_notice/?mid=6472611285fa3G37fc87f3cfebG647265abe6275G2bf
+
+
+
+---
+Email processed by GmailWatcher on 2026-02-25 21:53:45

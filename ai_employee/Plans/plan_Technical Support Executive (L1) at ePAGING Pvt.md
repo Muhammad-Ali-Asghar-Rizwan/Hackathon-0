@@ -1,0 +1,58 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Low
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Technical Support Executive (L1) at ePAGING Pvt. LTD in Karachi and 1 more new job
+- **From**: Indeed <donotreply@match.indeed.com>
+- **Date**: Sat, 31 Jan 2026 13:12:34 +0000
+
+## Email Content:
+Hi ALI,  It looks like your background could be a match for this Technical Support Executive (L1) role. Please submit a quick application if you have any interest or explore more jobs below. 
+Jobs are based on your preferences, profile and activity on Indeed &sup1;
+
+Technical Support Executive (L1)
+ePAGING Pvt. LTD - Karachi
+Rs 80,000 - Rs 110,000 a month
+Easily apply
+Provide first-line technical support for software, hardware, and network-related issues. 1+ year of experience in technical support (experience with…
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jga2u2orl83d804-ea0caff46be382dc&mo=r&ad=-6NYlbfkN0DwGq7c36EezqkMpX24-vLRyNGq8AdZmPFwF8ydM7SrUpLCekjFVMTQnz7ULgJw5c0MDtETFqx3YQyDXU7e8B9Y9wlWHw1gh58WiPM4fIRZyQkspSpHLa2-oerATQLT1pUtna4MdeU8T9l-iMD1CVOw2wJl0-IteD70qAUzpWwlLbgzKD1snYYq8YEJH9-_Q3PbUraBp-0pz9WYbEXYtbRUjNwSN5yA2g3f8rnNQk0S39xpUE6kT4ykq4mQxs6p3Y2rYFyKgsku7774vBc7eDCSllPkRc7VV0c3BLLFmo96kIAKuQ44SGWw28cnu6eksJwmv2_oI8P5WY8qXAefZaIdTpPgrh3IMNqd4VOO4qbWSl1VJUrzqV6vCYQ2Jy71Ksyjqh8Z4Rc6aZupsF6D3a3GewAy7EaYPhmmd9IyLCxDMaOjzmgIPbK3EJoN06K3G43l1hGHs3blP0Ji3dD1-hIKTdS_44mrrLlRKOE6QzVmHnjAohAtGdA5G3g2Dhmg-QtEP6y1N4BFG2lZjyBQfV2Rj3tCWxaagm9IWcqnz6escaMwAClqCD8WvzYJDqbILe9tNmpvBShrDO8uYTPQcZbzClMQ2K4bZI0VsmUl7rfPjVWlnUaXUW4fc4SNwy-VQLuPpfg1BilcbVjFnKeKdYE2trzNBw2gG9mPjaWyGUFw56wy8SgaeOgk_0HuCWE2gZ3UpIIgMsWoFJZvzM435YZVDMVHf340novLx7wyGEpe9Gdex80Hbi20&rm=2&xkcb=SoBK6_M3nKN3sC0vjB0KbzkdCdPP&jsa=3903&camk=UoKtGZLa3XLvcRpnlC18OA%3D%3D
+
+Sr Magento 2.0 - Full Stack Developer
+eToolmarts - Karachi
+Rs 150,000 - Rs 250,000 a month
+Easily apply
+This role includes collaboration with the design team, managing Magento 2 modules/plugins/extensions, coding the templates, troubleshooting interface issues,…
+
+https://pk.indeed.com/pagead/clk/dl?from=jobi2a_multijob-en-PK_email&jrtk=5-cmh1-1-1jga2u2orl83d804-cb9ecbf22b7225d1&mo=r&ad=-6NYlbfkN0AzVWmIUgXm2JoMN7KzLnataA_2BQ50behvWBAhc6qgB_JyO676JJB4gsS6qZZgwjKXo6hgwAqR_aoCJhoNVawsJcNIcPGAvm7M8l0BudcVGIybA7j2NFutdlsyjlaVW-xd7e_MrUJCfqSoHvXA7VJ_Bh3GFvk6CzQZeo4_pG9liSCurVK-zopOw9ZrfLg9Vl-svmxgv1fLuC5TQCepq5CsFvU3djUYuCIbw5_GagT4t9eQ6TAFQdO_54Vl2Feyq7kc7Y0nYIh_oUMzt-wKlE-os5reQrPPDTRSUS0SgRBi_CkkUYvf9Qc84bYgr_9YwSdwH_J7REQoAa29BM6oBnlzqLpswLIqOtXo1m5BEcJ9vKSHNF35SmZXKj8LmNYek-uq5Be7jKfxBNOMBt0wmzXhQ_iFFTqjLMxMnxRUHMioutQy1wQC00aqFEfWJkQVNvMdxt-z1M2KQ-FUDWv_B6bTqGhJWC3Qj9ir4aL9FhiYGMlbKLt4r1w2Y866etz15ImEejgFRy1lB4MZpth66V-vZb2__vsHu6KEpvDCczjX1Zny9n1O_fwxzQlVWQowhL0a9KS57IKYw0rzhuCJV8n3bDxQZd_JpBIBCW0vDl3CLFuBDpm-Kw6Odpha6hHmbzwQwH9K5rbLxMRwj616Nc63kPCScVnGWTAOTWG2ZxWvxwhLnrjWcsPxM08XNnzxKB0XOSSUkAMar3RLTwYpayqkGpMj-eoOnay0NVaR_c_Kp_dP9HjvEqll&rm=2&xkcb=SoBj6_M3nKN3sNUvjB0KbzkdCdPP&jsa=3904&camk=UoKtGZLa3XKs8iPkVa1_AQ%3D%3D
+
+Salaries estimated if unavailable. When a job posting does not include a salary, we estimate it by looking at similar jobs. Estimated salaries are not endorsed by the companies offering those positions and may vary from actual salaries.
+
+¹ This email includes Job Ads that are based on your Indeed Profile, preferences, and activity on Indeed. Indeed may be compensated by these employers, helping keep Indeed free for jobseekers. Indeed displays Job Ads based on a combination of employer bids and relevance, such as search terms, other information provided, and activities conducted on Indeed. For more information, see the Indeed Terms of Service: https://pk.indeed.com/legal?hl=en#tos
+
+© 2026 Indeed Ireland Operations, Ltd. 
+Indeed Ireland Operations Limited, Block B, Capital Dock, 80 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, 2, D02 HE36 
+Privacy Policy: https://hrtechprivacy.com/brands/indeed?hl=en#privacypolicy 
+Terms: https://pk.indeed.com/legal?hl=en#tos 
+Help Centre: https://support.indeed.com/hc/en-gb?hl=en 
+Manage email settings: https://subscriptions.indeed.com?token=CkBdnZn-DibX4Ffy0jvOodRIVnR0T_uVHwz7zWxqfLQZaU28ALEI7uyEu8nxV-OSgKAouRihJgUsKM0s5Mu0_76mEiC7YrfwB1z_Q2c967E3OUt7deBCo3n49_k7KY8uWZJcrxoQFKs1t9Ao7CBm08xEhEIsTg%3D%3D&co=PK&hl=en&tmtk=1jga2u380njv6801&from=jaf 
+Unsubscribe from this email: https://subscriptions.indeed.com/optout?co=PK&hl=en&tk=1jga2u380njv6801&ctt=CiCIINx7EgAOfSgAFKwm9m81kGwHGVeazYrecxgZ4ztpgxIgMihMDdcwOtEp8FWglPX4k3cLDb4cWiFbx9_r1-g_AHsaEBD8OnaE0BFYu_F2nLRZcGQ%3D&token=CkAWc3EkiTupKhr4O5wBZJ5HvSUSPNWPanmvtgStgJOo80u7IcB5TFLowgSoLSssGIdTiTqcY5l2iD7Goqqjl4kmEiCmcOwJNY2Wdl70TfdADD9PHFRatK9aSd9GfccHuAFJxhoQz3bsDks9ygVd-lzoi4PNHA%3D%3D
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:14
+
+## Analysis Summary:
+- **ID**: email_20260225_203721
+- **Generated at**: 2026-02-25T20:37:21.734037

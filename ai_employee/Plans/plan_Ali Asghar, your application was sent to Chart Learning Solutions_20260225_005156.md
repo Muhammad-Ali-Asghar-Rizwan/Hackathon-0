@@ -1,0 +1,145 @@
+# PLAN
+
+## Email Type: Promotional
+## Urgency: Medium
+## Required Action: Review and Decide
+## Proposed Response: Review promotional content and decide whether to engage or unsubscribe
+## Next Steps:
+    - Evaluate promotional offer
+    - Determine relevance to business needs
+    - Decide whether to accept, reject, or investigate further
+    - Take appropriate action
+    - File email in appropriate folder
+
+---
+
+## Original Email Details:
+- **Subject**: Ali Asghar, your application was sent to Chart Learning Solutions
+- **From**: LinkedIn <jobs-noreply@linkedin.com>
+- **Date**: Mon, 26 Jan 2026 09:50:35 +0000 (UTC)
+
+## Email Content:
+Your application was sent to Chart Learning Solutions
+
+
+
+Founding AI (Full Stack) Engineer
+
+Chart Learning Solutions
+
+Pakistan
+
+View job: https://www.linkedin.com/comm/jobs/view/4355815679/?trackingId=D1oxp6xDQEO3wEIw2kpgcw%3D%3D&refId=Ed34PpwlTdC61ibsrAckfw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_application_confirmation_with_nba_01%3BbtH1bgw5Qw%2BIIig%2BGuinCQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=1Y92hVG5-K_c41&trk=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job&trkEmail=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job-null-lczh4v~mkuzlk5v~ls-null-null&eid=lczh4v-mkuzlk5v-ls&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjA4ZGNmZDA0MjlkYTg4ODZjN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NGRmMWRmZTcwMTk5Y2RiODc0MWFhYzU0Nzk5ODUxM2IxODczMzA2N2ZhNGQxM2VjLDEsMQ%3D%3D
+
+
+
+---------------------------------------------------------
+
+  
+
+Applied on January 26, 2026----------------------------------------------------------------
+
+        Now, take these next steps for more success
+
+
+
+
+
+
+
+View similar jobs you may be interested in
+
+            
+
+Frontend Developer
+
+Systems Limited
+
+Karāchi
+
+
+
+6 connections
+
+Apply with resume & profile
+
+View job: https://www.linkedin.com/comm/jobs/view/4365791496/?trackingId=xyzHYqLYT9qZgmGL4fwAHQ%3D%3D&refId=lbmIxfz2Ray3RIa%2BR9u%2FkA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_application_confirmation_with_nba_01%3BbtH1bgw5Qw%2BIIig%2BGuinCQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=1Y92hVG5-K_c41&trk=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job&trkEmail=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job-null-lczh4v~mkuzlk5v~ls-null-null&eid=lczh4v-mkuzlk5v-ls&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjA4ZGNmZDA0MjlkYTg4ODZjN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NGRmMWRmZTcwMTk5Y2RiODc0MWFhYzU0Nzk5ODUxM2IxODczMzA2N2ZhNGQxM2VjLDEsMQ%3D%3D
+
+
+
+---------------------------------------------------------
+
+  
+
+            
+
+UI/UX Designer
+
+AccuraCore
+
+Pakistan
+
+Apply with resume & profile
+
+View job: https://www.linkedin.com/comm/jobs/view/4331580293/?trackingId=3jrRROCXR5yppSsobcYFKQ%3D%3D&refId=Q8v9YDFqT9C3%2F2%2BsmNX%2Bdw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_application_confirmation_with_nba_01%3BbtH1bgw5Qw%2BIIig%2BGuinCQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=1Y92hVG5-K_c41&trk=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job&trkEmail=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job-null-lczh4v~mkuzlk5v~ls-null-null&eid=lczh4v-mkuzlk5v-ls&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjA4ZGNmZDA0MjlkYTg4ODZjN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NGRmMWRmZTcwMTk5Y2RiODc0MWFhYzU0Nzk5ODUxM2IxODczMzA2N2ZhNGQxM2VjLDEsMQ%3D%3D
+
+
+
+---------------------------------------------------------
+
+  
+
+            
+
+ReactJs / Front End Developers (3 Year Experience Salary Range: 450-540 USD) JobID:26012026
+
+Greeka.com
+
+Pakistan
+
+Apply with resume & profile
+
+View job: https://www.linkedin.com/comm/jobs/view/4355725805/?trackingId=fUJp7uWPT0GNTiHMhKlX%2Fg%3D%3D&refId=VfnOmoTLRGGORNuGz3ZsYA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_application_confirmation_with_nba_01%3BbtH1bgw5Qw%2BIIig%2BGuinCQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=1Y92hVG5-K_c41&trk=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job&trkEmail=eml-email_application_confirmation_with_nba_01-application~confirmation-0-view_job-null-lczh4v~mkuzlk5v~ls-null-null&eid=lczh4v-mkuzlk5v-ls&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjA4ZGNmZDA0MjlkYTg4ODZjN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NGRmMWRmZTcwMTk5Y2RiODc0MWFhYzU0Nzk5ODUxM2IxODczMzA2N2ZhNGQxM2VjLDEsMQ%3D%3D
+
+
+
+---------------------------------------------------------
+
+  
+
+
+
+      
+
+
+
+----------------------------------------
+
+
+
+This email was intended for Ali Asghar M.Rizwan (✨ Elevate Your Digital Experience: Secure 🔒, AI-Driven 🤖 Applications with FREE Consultation 🆓 | Aspiring Developer Skilled in React ⚛️, Next.js 🚀, and Autonomous Agents 🤝GENERATION)
+
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_application_confirmation_with_nba_01%3BbtH1bgw5Qw%2BIIig%2BGuinCQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=1Y92hVG5-K_c41&trk=eml-email_application_confirmation_with_nba_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_application_confirmation_with_nba_01-SecurityHelp-0-textfooterglimmer-null-lczh4v~mkuzlk5v~ls-null-null&eid=lczh4v-mkuzlk5v-ls&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjA4ZGNmZDA0MjlkYTg4ODZjN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NGRmMWRmZTcwMTk5Y2RiODc0MWFhYzU0Nzk5ODUxM2IxODczMzA2N2ZhNGQxM2VjLDEsMQ%3D%3D
+
+You are receiving LinkedIn notification emails.
+
+
+
+
+
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_application_confirmation_with_nba_01%3BbtH1bgw5Qw%2BIIig%2BGuinCQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=1Y92hVG5-K_c41&trk=eml-email_application_confirmation_with_nba_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_application_confirmation_with_nba_01-unsubscribe-0-textfooterglimmer-null-lczh4v~mkuzlk5v~ls-null-null&eid=lczh4v-mkuzlk5v-ls&loid=AQELgyaQTpgCHAAAAZv5tlSh84eKyjPKay3h1n-ZYw2yMIz64N4Xfs55hwB8hItww2uDQTX5ufZeiJC9hnFV4f7OkztLum8fqeopqw3fIFnRAIvq0o8LrVmr6YFBLw
+
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_application_confirmation_with_nba_01%3BbtH1bgw5Qw%2BIIig%2BGuinCQ%3D%3D&midToken=AQEbAgAs2lKPUw&midSig=1Y92hVG5-K_c41&trk=eml-email_application_confirmation_with_nba_01-help-0-textfooterglimmer&trkEmail=eml-email_application_confirmation_with_nba_01-help-0-textfooterglimmer-null-lczh4v~mkuzlk5v~ls-null-null&eid=lczh4v-mkuzlk5v-ls&otpToken=MTMwNzE3ZTExNDJlYzljNmIxMmIwZmViNDExOGVlYjA4ZGNmZDA0MjlkYTg4ODZjN2JjZjA5NjY0OTVhNThmM2ZmZDNkZGU5NGRmMWRmZTcwMTk5Y2RiODc0MWFhYzU0Nzk5ODUxM2IxODczMzA2N2ZhNGQxM2VjLDEsMQ%3D%3D
+
+
+
+© 2026 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+
+---
+Email processed by GmailWatcher on 2026-02-25 00:51:56
+
+## Analysis Summary:
+- **ID**: email_20260225_203714
+- **Generated at**: 2026-02-25T20:37:14.768028
